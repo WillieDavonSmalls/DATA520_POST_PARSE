@@ -1,0 +1,226 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39445823_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_2_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39445823_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39445823_1" title="Jack Russo (EU GDP - Small to large.)">
+    </div>
+
+    <div id="layer_2_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39445823_1')" role="button" id="_39445823_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_2_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39445823_1')" role="button" id="_39445823_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39445823_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_2" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39445823_1','_39445823_1')" title="Collapse Post">
+        <div id="layer_2_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_2_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39445823_1');" onmouseout="javascript:hideMsgMetadata('_39445823_1');" onfocus="javascript:showMsgMetadata('_39445823_1');" onblur="javascript:hideMsgMetadata('_39445823_1');" title="Post Details">
+            <span id="db_msg_age__39445823_1_md" class="db_msg_metadata">June 16, 2020 5:14:00 PM EDT</span>
+              <span id="db_msg_age__39445823_1" class="db_msg_age" postedtimeinmillis="1592342040000" editedtimeinmillis="1592342040000" postedtimeinbbformat="June 16, 2020 5:14:00 PM EDT" editedtimeinbbformat="June 16, 2020 5:14:00 PM EDT">24 days ago</span>
+            </div>
+
+          <div id="layer_2_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39445823_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20980712_1?ts=1594043317000">
+          
+  
+              Jack Russo
+      
+  </span>
+</span>
+
+<span id="layer_2_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_2_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_2_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39445823_1">EU GDP - Small to large.</span>
+            <span id="attachmentIndicator__39445823_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39445823_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39445823_1" onclick="javascript:toggleMessageDisplay(event, '_39445823_1','_39445823_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39445823_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39445823_1' )">Collapse</a></div>
+
+      </div><div id="message__39445823_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39445823_1_md" totalviewcount="12" yourviewcount="2">Total views: 12 (Your views: 2)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>In April 2018 the EU General Data protection act went into force restricting what data could be shared inside and outside the EU. While this seemed to be common sense privacy protection It did restrict what information charaties&nbsp;could be shared about sucessfull&nbsp;aproaches to their work.</p> 
+   <p>Review the article here.</p> 
+   <p><a href="https://www.economist.com/business/2018/04/05/europes-tough-new-data-protection-law">https://www.economist.com/business/2018/04/05/europes-tough-new-data-protection-law</a></p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39445823_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39445823_1', replyUrl+'_39445823_1', $('_39445823_1') )">Reply</a>
+        <a id="quote__39445823_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39445823_1', replyUrl+'_39445823_1&amp;quote=true', $('_39445823_1'), false, true )">Quote</a>
+        <a id="mail__39445823_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39445823_1&amp;nav=db_thread_list_entry&amp;thread_id=39445823&amp;nav=db_thread_list_entry&amp;user_id=_20980712_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_2_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39513932_1" class="db-message-wrapper autoExpandable  reply-lvl-1 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_2_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39513932_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39513932_1" title="Jithendra Seneviratne (RE: EU GDP - Small to large.)">
+    </div>
+
+    <div id="layer_2_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39513932_1')" role="button" id="_39513932_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_2_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39513932_1')" role="button" id="_39513932_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39513932_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_2_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39445823_1','_39513932_1')" title="Collapse Post">
+        <div id="layer_2_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_2_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39513932_1');" onmouseout="javascript:hideMsgMetadata('_39513932_1');" onfocus="javascript:showMsgMetadata('_39513932_1');" onblur="javascript:hideMsgMetadata('_39513932_1');" title="Post Details">
+            <span id="db_msg_age__39513932_1_md" class="db_msg_metadata">June 20, 2020 4:47:48 PM EDT</span>
+              <span id="db_msg_age__39513932_1" class="db_msg_age" postedtimeinmillis="1592686068000" editedtimeinmillis="1592686068000" postedtimeinbbformat="June 20, 2020 4:47:48 PM EDT" editedtimeinbbformat="June 20, 2020 4:47:48 PM EDT">20 days ago</span>
+            </div>
+
+          <div id="layer_2_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39445823_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20987751_1?ts=1594422117000">
+          
+  
+              Jithendra Seneviratne
+      
+  </span>
+</span>
+
+<span id="layer_2_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_2_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_2_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39513932_1">RE: EU GDP - Small to large.</span>
+            <span id="attachmentIndicator__39513932_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39513932_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39513932_1" onclick="javascript:toggleMessageDisplay(event, '_39445823_1','_39513932_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39513932_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39513932_1' )">Collapse</a></div>
+
+      </div><div id="message__39513932_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39513932_1_md" totalviewcount="5" yourviewcount="2">Total views: 5 (Your views: 2)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>I made a post about the GDPR as well.&nbsp;I don't have access to <em>The Economist</em><em></em>&nbsp;unfortunately.&nbsp;Anyhow,&nbsp;after the Cambridge Analytica scandal,&nbsp;it seemed imperative that regulations were set in place. Clearly there would be drawbacks, but I believe it was a necessary step.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39513932_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39513932_1', replyUrl+'_39513932_1', $('_39513932_1') )">Reply</a>
+        <a id="quote__39513932_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39513932_1', replyUrl+'_39513932_1&amp;quote=true', $('_39513932_1'), false, true )">Quote</a>
+        <a id="mail__39513932_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39513932_1&amp;nav=db_thread_list_entry&amp;thread_id=39445823&amp;nav=db_thread_list_entry&amp;user_id=_20987751_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_2_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

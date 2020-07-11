@@ -1,0 +1,114 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39756316_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_19_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39756316_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39756316_1" title="Simon Ustoyev (Dialog Network)">
+    </div>
+
+    <div id="layer_19_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39756316_1')" role="button" id="_39756316_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_19_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39756316_1')" role="button" id="_39756316_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39756316_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_19" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39756316_1','_39756316_1')" title="Collapse Post">
+        <div id="layer_19_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_19_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39756316_1');" onmouseout="javascript:hideMsgMetadata('_39756316_1');" onfocus="javascript:showMsgMetadata('_39756316_1');" onblur="javascript:hideMsgMetadata('_39756316_1');" title="Post Details">
+            <span id="db_msg_age__39756316_1_md" class="db_msg_metadata">July 5, 2020 12:15:27 PM EDT</span>
+              <span id="db_msg_age__39756316_1" class="db_msg_age" postedtimeinmillis="1593965727000" editedtimeinmillis="1593965727000" postedtimeinbbformat="July 5, 2020 12:15:27 PM EDT" editedtimeinbbformat="July 5, 2020 12:15:27 PM EDT">5 days ago</span>
+            </div>
+
+          <div id="layer_19_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39756316_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20873219_1?ts=1594415287000">
+          
+  
+              Simon Ustoyev
+      
+  </span>
+</span>
+
+<span id="layer_19_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_19_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_19_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39756316_1">Dialog Network</span>
+            <span id="attachmentIndicator__39756316_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39756316_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39756316_1" onclick="javascript:toggleMessageDisplay(event, '_39756316_1','_39756316_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39756316_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39756316_1' )">Collapse</a></div>
+
+      </div><div id="message__39756316_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39756316_1_md" totalviewcount="4" yourviewcount="1">Total views: 4 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p style="margin: 0.0in;font-family: Calibri;font-size: 11.0pt;"></p> 
+   <p style="margin: 0.0in;font-family: Calibri;font-size: 11.0pt;">I see a great value in developing an ability, given a body of text, to automatically detect spoken quotes, their source and target audience so that a [social] network of interactions can be created.&nbsp; It may be very ambitious and a challenging undertaking but applications can be valuable in so many areas, such as fraud detection and crime investigation, literature, movie scripts and court case analysis and many more.&nbsp; Detecting quotes and who is uttering them (the source) may not be as challenging as detecting a change in context, location and audience of a text narrative, as those things can be made evident in a subtle ways pre or post the quotes in the text.&nbsp; Sometimes there is no audience as the quotes may represent character’s thoughts.&nbsp;</p> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39756316_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39756316_1', replyUrl+'_39756316_1', $('_39756316_1') )">Reply</a>
+        <a id="quote__39756316_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39756316_1', replyUrl+'_39756316_1&amp;quote=true', $('_39756316_1'), false, true )">Quote</a>
+        <a id="mail__39756316_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39756316_1&amp;nav=db_thread_list_entry&amp;thread_id=39756316&amp;nav=db_thread_list_entry&amp;user_id=_20873219_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_19_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>

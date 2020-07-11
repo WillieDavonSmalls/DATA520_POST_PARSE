@@ -1,0 +1,338 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39550605_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_2_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39550605_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39550605_1" title="Amber Ferger (Identifying Breast Cancer Trends)">
+    </div>
+
+    <div id="layer_2_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39550605_1')" role="button" id="_39550605_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_2_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39550605_1')" role="button" id="_39550605_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39550605_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_2" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39550605_1','_39550605_1')" title="Collapse Post">
+        <div id="layer_2_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_2_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39550605_1');" onmouseout="javascript:hideMsgMetadata('_39550605_1');" onfocus="javascript:showMsgMetadata('_39550605_1');" onblur="javascript:hideMsgMetadata('_39550605_1');" title="Post Details">
+            <span id="db_msg_age__39550605_1_md" class="db_msg_metadata">June 22, 2020 9:00:50 PM EDT</span>
+              <span id="db_msg_age__39550605_1" class="db_msg_age" postedtimeinmillis="1592874050000" editedtimeinmillis="1592874050000" postedtimeinbbformat="June 22, 2020 9:00:50 PM EDT" editedtimeinbbformat="June 22, 2020 9:00:50 PM EDT">18 days ago</span>
+            </div>
+
+          <div id="layer_2_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39550605_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21114231_1?ts=1594294964000">
+          
+  
+              Amber Ferger
+      
+  </span>
+</span>
+
+<span id="layer_2_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_2_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_2_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39550605_1">Identifying Breast Cancer Trends</span>
+            <span id="attachmentIndicator__39550605_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39550605_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39550605_1" onclick="javascript:toggleMessageDisplay(event, '_39550605_1','_39550605_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39550605_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39550605_1' )">Collapse</a></div>
+
+      </div><div id="message__39550605_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39550605_1_md" totalviewcount="17" yourviewcount="1">Total views: 17 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>I came across a really interesting article by&nbsp;Jurca, Addam, Aksac, Gao, Ozyer, Demetrick, and Alhajj titled "<a href="https://pubmed.ncbi.nlm.nih.gov/27112211/" target="_blank" rel="noreferrer noopener">Integrating Text Mining, Data Mining, and Network Analysis for Identifying Genetic Breast Cancer Trends</a>" that is a great example of the convergence of text mining and social network analytics.</p> 
+   <p><strong>The Problem</strong>: Literature containing information about&nbsp;biomarkers that are indicative of breast cancer is non-standardized and unstructured, making it difficult to process in large quantities.&nbsp;Although research papers contain a trove of information, the sheer volume of it makes sifting through relevant articles a very tedious task.&nbsp;</p> 
+   <p><strong>The Goal:</strong> Utilize natural language processing and text mining techniques to extract relevant information from the research papers. Identify key relationships between entities and terms through the use of social network analytic techniques.&nbsp;</p> 
+   <p><strong>The Added Bonus:</strong> By combining NLP and text mining techniques with social network analysis, the authors of the study were able to identify functional relationships (like those between different genes) and associative relationships (like those between authors in different geographic regions). The functional relationships are important for understanding the disease itself, which has obvious benefits. However, the identification of associative relationships provided a much different set of insights -- how the discoveries themselves varied by region and time.&nbsp;</p> 
+   <p><strong>Sources of Data:</strong>&nbsp;The papers were sourced from PubMed&nbsp;based on a keyword search. The authors then performed entity extraction using open-source dictionaries (ex: becas, uniprot, hcnc)&nbsp;to identify important terms in each text, such as those related to specific genes and proteins. Once complete, they were able to bucket similar papers based on terms and analyze the text and relationships accordingly. Geographic relationships were extracted based on the address of the authors in the paper.&nbsp;</p> 
+   <p>I think this is a really neat application of the merging of 2 different analytical techniques to derive insights into the disease itself and the discoveries around it!</p> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39550605_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39550605_1', replyUrl+'_39550605_1', $('_39550605_1') )">Reply</a>
+        <a id="quote__39550605_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39550605_1', replyUrl+'_39550605_1&amp;quote=true', $('_39550605_1'), false, true )" style="opacity: 0;">Quote</a>
+        <a id="mail__39550605_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39550605_1&amp;nav=db_thread_list_entry&amp;thread_id=39550605&amp;nav=db_thread_list_entry&amp;user_id=_21114231_1" style="opacity: 0;">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_2_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39610413_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_2_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39610413_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39610413_1" title="Elina Azrilyan (RE: Identifying Breast Cancer Trends)">
+    </div>
+
+    <div id="layer_2_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39610413_1')" role="button" id="_39610413_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_2_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39610413_1')" role="button" id="_39610413_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39610413_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_2_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39550605_1','_39610413_1')" title="Collapse Post">
+        <div id="layer_2_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_2_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39610413_1');" onmouseout="javascript:hideMsgMetadata('_39610413_1');" onfocus="javascript:showMsgMetadata('_39610413_1');" onblur="javascript:hideMsgMetadata('_39610413_1');" title="Post Details">
+            <span id="db_msg_age__39610413_1_md" class="db_msg_metadata">June 25, 2020 5:36:20 PM EDT</span>
+              <span id="db_msg_age__39610413_1" class="db_msg_age" postedtimeinmillis="1593120980000" editedtimeinmillis="1593120980000" postedtimeinbbformat="June 25, 2020 5:36:20 PM EDT" editedtimeinbbformat="June 25, 2020 5:36:20 PM EDT">15 days ago</span>
+            </div>
+
+          <div id="layer_2_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39550605_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20994607_1?ts=1594425264000">
+          
+  
+              Elina Azrilyan
+      
+  </span>
+</span>
+
+<span id="layer_2_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_2_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_2_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39610413_1">RE: Identifying Breast Cancer Trends</span>
+            <span id="attachmentIndicator__39610413_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39610413_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39610413_1" onclick="javascript:toggleMessageDisplay(event, '_39550605_1','_39610413_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39610413_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39610413_1' )">Collapse</a></div>
+
+      </div><div id="message__39610413_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39610413_1_md" totalviewcount="12" yourviewcount="1">Total views: 12 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>This is fascinating -&nbsp;I think we can make a lot of medical advances with data science and this is a great example!</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39610413_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39610413_1', replyUrl+'_39610413_1', $('_39610413_1') )">Reply</a>
+        <a id="quote__39610413_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39610413_1', replyUrl+'_39610413_1&amp;quote=true', $('_39610413_1'), false, true )">Quote</a>
+        <a id="mail__39610413_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39610413_1&amp;nav=db_thread_list_entry&amp;thread_id=39550605&amp;nav=db_thread_list_entry&amp;user_id=_20994607_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_2_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div><div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39611647_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unreadmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_2_1_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39611647_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39611647_1" title="Vijaya Cherukuri (RE: Identifying Breast Cancer Trends)">
+    </div>
+
+    <div id="layer_2_1_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Read</div>
+      <a href="javascript:toggleReadByIcon('_39611647_1')" role="button" id="_39611647_1_readTogIconLink" class=" unreadmsg " title="Mark as Read"><span class="hideoff">Mark as Read</span></a>
+      </div>
+
+      <span id="layer_2_1_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39611647_1')" role="button" id="_39611647_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39611647_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_2_1" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39550605_1','_39611647_1')" title="Collapse Post">
+        <div id="layer_2_1_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_2_1_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39611647_1');" onmouseout="javascript:hideMsgMetadata('_39611647_1');" onfocus="javascript:showMsgMetadata('_39611647_1');" onblur="javascript:hideMsgMetadata('_39611647_1');" title="Post Details">
+            <span id="db_msg_age__39611647_1_md" class="db_msg_metadata">June 25, 2020 6:53:48 PM EDT</span>
+              <span id="db_msg_age__39611647_1" class="db_msg_age" postedtimeinmillis="1593125628000" editedtimeinmillis="1593125628000" postedtimeinbbformat="June 25, 2020 6:53:48 PM EDT" editedtimeinbbformat="June 25, 2020 6:53:48 PM EDT">15 days ago</span>
+            </div>
+
+          <div id="layer_2_1_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39550605_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20985191_1?ts=1594253487000">
+          
+  
+              Vijaya Cherukuri
+      
+  </span>
+</span>
+
+<span id="layer_2_1_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_2_1_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_2_1_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39611647_1">RE: Identifying Breast Cancer Trends</span>
+            <span id="attachmentIndicator__39611647_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39611647_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39611647_1" onclick="javascript:toggleMessageDisplay(event, '_39550605_1','_39611647_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39611647_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39611647_1' )">Collapse</a></div>
+
+      </div><div id="message__39611647_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39611647_1_md" totalviewcount="9" yourviewcount="1">Total views: 9 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Good example Amber.&nbsp;It will be really helpful in identifying the patterns and also how likely they might get few genetical&nbsp;disorders from ancestors.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39611647_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39611647_1', replyUrl+'_39611647_1', $('_39611647_1') )">Reply</a>
+        <a id="quote__39611647_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39611647_1', replyUrl+'_39611647_1&amp;quote=true', $('_39611647_1'), false, true )">Quote</a>
+        <a id="mail__39611647_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39611647_1&amp;nav=db_thread_list_entry&amp;thread_id=39550605&amp;nav=db_thread_list_entry&amp;user_id=_20985191_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_2_1_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

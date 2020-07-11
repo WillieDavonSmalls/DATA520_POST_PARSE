@@ -1,0 +1,226 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39612179_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_9_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39612179_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39612179_1" title="Zachary Alexander (Text Processing - Customer Reviews of Hotels)">
+    </div>
+
+    <div id="layer_9_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39612179_1')" role="button" id="_39612179_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_9_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39612179_1')" role="button" id="_39612179_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39612179_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_9" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39612179_1','_39612179_1')" title="Collapse Post">
+        <div id="layer_9_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_9_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39612179_1');" onmouseout="javascript:hideMsgMetadata('_39612179_1');" onfocus="javascript:showMsgMetadata('_39612179_1');" onblur="javascript:hideMsgMetadata('_39612179_1');" title="Post Details">
+            <span id="db_msg_age__39612179_1_md" class="db_msg_metadata">June 25, 2020 7:24:27 PM EDT</span>
+              <span id="db_msg_age__39612179_1" class="db_msg_age" postedtimeinmillis="1593127467000" editedtimeinmillis="1593127467000" postedtimeinbbformat="June 25, 2020 7:24:27 PM EDT" editedtimeinbbformat="June 25, 2020 7:24:27 PM EDT">15 days ago</span>
+            </div>
+
+          <div id="layer_9_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39612179_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21117111_1?ts=1594417828000">
+          
+  
+              Zachary Alexander
+      
+  </span>
+</span>
+
+<span id="layer_9_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_9_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_9_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39612179_1">Text Processing - Customer Reviews of Hotels</span>
+            <span id="attachmentIndicator__39612179_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39612179_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39612179_1" onclick="javascript:toggleMessageDisplay(event, '_39612179_1','_39612179_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39612179_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39612179_1' )">Collapse</a></div>
+
+      </div><div id="message__39612179_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39612179_1_md" totalviewcount="9" yourviewcount="1">Total views: 9 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>I thought that this IPython&nbsp;Notebook:&nbsp; <a href="https://github.com/jonathanoheix/Sentiment-analysis-with-hotel-reviews/blob/master/Sentiment%20analysis%20with%20hotel%20reviews.ipynb">https://github.com/jonathanoheix/Sentiment-analysis-with-hotel-reviews/blob/master/Sentiment%20analysis%20with%20hotel%20reviews.ipynb</a> , with the accompanying Medium Post:&nbsp; <a href="https://towardsdatascience.com/detecting-bad-customer-reviews-with-nlp-d8b36134dc7e">https://towardsdatascience.com/detecting-bad-customer-reviews-with-nlp-d8b36134dc7e</a>&nbsp;were quite fascinating. Sentiment analysis has very often been used to analyze social media posts and data, however this author decided to expand the analysis to hotel customer reviews. He matched up the customer ratings with their corresponding textual reviews, and used both components to build predictive models to help predict future ratings based solely on customer reviews.&nbsp;</p> 
+   <p>It was very useful to read about the Python libraries he used to conduct this analysis (vader, sklearn, etc.), and the measures he used to evaluate his machine learning models - I think these components were what I liked best. I think it would be interesting to expand this idea to other industries such as restaurants, Amazon reviews, etc. Also, he did go into a bit of detail about the limitations of working with some of the sentiment analysis libraries. Given that this article was posted in 2018, I'd be curious to expand this a bit using new libraries that have emerged since the time this was published.</p> 
+   <p>I'm an avid reader of Medium, specifically "Towards Data Science". I find many of the articles helpful, and it keeps me informed on what others are doing in the Data Science field. I was able to track down this post by reading a few others first that were related to text mining, and found this one to be very intriguing.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39612179_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39612179_1', replyUrl+'_39612179_1', $('_39612179_1') )">Reply</a>
+        <a id="quote__39612179_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39612179_1', replyUrl+'_39612179_1&amp;quote=true', $('_39612179_1'), false, true )">Quote</a>
+        <a id="mail__39612179_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39612179_1&amp;nav=db_thread_list_entry&amp;thread_id=39612179&amp;nav=db_thread_list_entry&amp;user_id=_21117111_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_9_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39658861_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_9_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39658861_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39658861_1" title="Subhalaxmi Rout (RE: Text Processing - Customer Reviews of Hotels)">
+    </div>
+
+    <div id="layer_9_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39658861_1')" role="button" id="_39658861_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_9_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39658861_1')" role="button" id="_39658861_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39658861_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_9_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39612179_1','_39658861_1')" title="Collapse Post">
+        <div id="layer_9_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_9_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39658861_1');" onmouseout="javascript:hideMsgMetadata('_39658861_1');" onfocus="javascript:showMsgMetadata('_39658861_1');" onblur="javascript:hideMsgMetadata('_39658861_1');" title="Post Details">
+            <span id="db_msg_age__39658861_1_md" class="db_msg_metadata">June 28, 2020 11:40:35 PM EDT</span>
+              <span id="db_msg_age__39658861_1" class="db_msg_age" postedtimeinmillis="1593402035000" editedtimeinmillis="1593402035000" postedtimeinbbformat="June 28, 2020 11:40:35 PM EDT" editedtimeinbbformat="June 28, 2020 11:40:35 PM EDT">12 days ago</span>
+            </div>
+
+          <div id="layer_9_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39612179_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21180472_1?ts=1594461392000">
+          
+  
+              Subhalaxmi Rout
+      
+  </span>
+</span>
+
+<span id="layer_9_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_9_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_9_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39658861_1">RE: Text Processing - Customer Reviews of Hotels</span>
+            <span id="attachmentIndicator__39658861_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39658861_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39658861_1" onclick="javascript:toggleMessageDisplay(event, '_39612179_1','_39658861_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39658861_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39658861_1' )">Collapse</a></div>
+
+      </div><div id="message__39658861_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39658861_1_md" totalviewcount="4" yourviewcount="1">Total views: 4 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Thank you Zach for posting ipython notebook. Well,&nbsp;explained the prediction of positive and negative reviews based on customer reviews.&nbsp; &nbsp;</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39658861_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39658861_1', replyUrl+'_39658861_1', $('_39658861_1') )">Reply</a>
+        <a id="quote__39658861_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39658861_1', replyUrl+'_39658861_1&amp;quote=true', $('_39658861_1'), false, true )">Quote</a>
+        <a id="mail__39658861_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39658861_1&amp;nav=db_thread_list_entry&amp;thread_id=39612179&amp;nav=db_thread_list_entry&amp;user_id=_21180472_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_9_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

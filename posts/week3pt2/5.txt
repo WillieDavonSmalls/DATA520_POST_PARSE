@@ -1,0 +1,224 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39467478_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_6_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39467478_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39467478_1" title="Abdellah Ait Elmouden (Google's monetization of Google Maps API)">
+    </div>
+
+    <div id="layer_6_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39467478_1')" role="button" id="_39467478_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_6_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39467478_1')" role="button" id="_39467478_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39467478_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_6" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39467478_1','_39467478_1')" title="Collapse Post">
+        <div id="layer_6_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_6_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39467478_1');" onmouseout="javascript:hideMsgMetadata('_39467478_1');" onfocus="javascript:showMsgMetadata('_39467478_1');" onblur="javascript:hideMsgMetadata('_39467478_1');" title="Post Details">
+            <span id="db_msg_age__39467478_1_md" class="db_msg_metadata">June 17, 2020 6:47:50 PM EDT</span>
+              <span id="db_msg_age__39467478_1" class="db_msg_age" postedtimeinmillis="1592434070000" editedtimeinmillis="1592434070000" postedtimeinbbformat="June 17, 2020 6:47:50 PM EDT" editedtimeinbbformat="June 17, 2020 6:47:50 PM EDT">23 days ago</span>
+            </div>
+
+          <div id="layer_6_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39467478_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_657988_1?ts=1594418217000">
+          
+  
+              Abdellah Ait Elmouden
+      
+  </span>
+</span>
+
+<span id="layer_6_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_6_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_6_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39467478_1">Google's monetization of Google Maps API</span>
+            <span id="attachmentIndicator__39467478_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39467478_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39467478_1" onclick="javascript:toggleMessageDisplay(event, '_39467478_1','_39467478_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39467478_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39467478_1' )">Collapse</a></div>
+
+      </div><div id="message__39467478_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39467478_1_md" totalviewcount="13" yourviewcount="3">Total views: 13 (Your views: 3)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Last year Google announced a new pricing strategy for users of their previously free Google Maps API in which depending on monthly user flow, they now charge a significant amount of money to the creators. Many developers claimed that the new strategy killed some of their larger projects. Other developers were forced to switch to other map system like Apple Maps, or OpenStreet map.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39467478_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39467478_1', replyUrl+'_39467478_1', $('_39467478_1') )">Reply</a>
+        <a id="quote__39467478_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39467478_1', replyUrl+'_39467478_1&amp;quote=true', $('_39467478_1'), false, true )">Quote</a>
+        <a id="mail__39467478_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39467478_1&amp;nav=db_thread_list_entry&amp;thread_id=39467478&amp;nav=db_thread_list_entry&amp;user_id=_657988_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_6_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39467629_1" class="db-message-wrapper autoExpandable  reply-lvl-1 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_6_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39467629_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39467629_1" title="Mikhail Kollontai (RE: Google's monetization of Google Maps API)">
+    </div>
+
+    <div id="layer_6_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39467629_1')" role="button" id="_39467629_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_6_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39467629_1')" role="button" id="_39467629_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39467629_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_6_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39467478_1','_39467629_1')" title="Collapse Post">
+        <div id="layer_6_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_6_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39467629_1');" onmouseout="javascript:hideMsgMetadata('_39467629_1');" onfocus="javascript:showMsgMetadata('_39467629_1');" onblur="javascript:hideMsgMetadata('_39467629_1');" title="Post Details">
+            <span id="db_msg_age__39467629_1_md" class="db_msg_metadata">June 17, 2020 6:57:13 PM EDT</span>
+              <span id="db_msg_age__39467629_1" class="db_msg_age" postedtimeinmillis="1592434633000" editedtimeinmillis="1592434633000" postedtimeinbbformat="June 17, 2020 6:57:13 PM EDT" editedtimeinbbformat="June 17, 2020 6:57:13 PM EDT">23 days ago</span>
+            </div>
+
+          <div id="layer_6_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39467478_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21126261_1?ts=1594429848000">
+          
+  
+              Mikhail Kollontai
+      
+  </span>
+</span>
+
+<span id="layer_6_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_6_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_6_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39467629_1">RE: Google's monetization of Google Maps API</span>
+            <span id="attachmentIndicator__39467629_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39467629_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39467629_1" onclick="javascript:toggleMessageDisplay(event, '_39467478_1','_39467629_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39467629_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39467629_1' )">Collapse</a></div>
+
+      </div><div id="message__39467629_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39467629_1_md" totalviewcount="13" yourviewcount="3">Total views: 13 (Your views: 3)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>I think this is an unfortunate but inevitable result when an app&nbsp;grows to such popularity without having an obvious revenue stream - there is simply too much untapped potential to let that go to waste and a company is loathe to let that go.&nbsp;</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39467629_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39467629_1', replyUrl+'_39467629_1', $('_39467629_1') )">Reply</a>
+        <a id="quote__39467629_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39467629_1', replyUrl+'_39467629_1&amp;quote=true', $('_39467629_1'), false, true )">Quote</a>
+        <a id="mail__39467629_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39467629_1&amp;nav=db_thread_list_entry&amp;thread_id=39467478&amp;nav=db_thread_list_entry&amp;user_id=_21126261_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_6_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

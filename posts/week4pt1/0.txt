@@ -1,0 +1,114 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39800330_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_20_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39800330_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39800330_1" title="Jagdish Chhabria (Combining SNA and Sentiment Analysis to explore potential for online radicalization)">
+    </div>
+
+    <div id="layer_20_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39800330_1')" role="button" id="_39800330_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_20_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39800330_1')" role="button" id="_39800330_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39800330_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_20" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39800330_1','_39800330_1')" title="Collapse Post">
+        <div id="layer_20_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_20_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39800330_1');" onmouseout="javascript:hideMsgMetadata('_39800330_1');" onfocus="javascript:showMsgMetadata('_39800330_1');" onblur="javascript:hideMsgMetadata('_39800330_1');" title="Post Details">
+            <span id="db_msg_age__39800330_1_md" class="db_msg_metadata">July 8, 2020 12:27:37 AM EDT</span>
+              <span id="db_msg_age__39800330_1" class="db_msg_age" postedtimeinmillis="1594182457000" editedtimeinmillis="1594182457000" postedtimeinbbformat="July 8, 2020 12:27:37 AM EDT" editedtimeinbbformat="July 8, 2020 12:27:37 AM EDT">3 days ago</span>
+            </div>
+
+          <div id="layer_20_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39800330_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21031627_1?ts=1594478212000">
+          
+  
+              Jagdish Chhabria
+      
+  </span>
+</span>
+
+<span id="layer_20_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_20_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_20_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39800330_1">Combining SNA and Sentiment Analysis to explore potential for online radicalization</span>
+            <span id="attachmentIndicator__39800330_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39800330_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39800330_1" onclick="javascript:toggleMessageDisplay(event, '_39800330_1','_39800330_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39800330_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39800330_1' )">Collapse</a></div>
+
+      </div><div id="message__39800330_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39800330_1_md" totalviewcount="3" yourviewcount="1">Total views: 3 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>I came across this very interesting research paper by a group of researchers from Ireland, that uses a combination of Social Network Analysis and Lexical and Sentiment Analysis on Youtube&nbsp;data to explore the potential for online&nbsp;radicalization. By studying the lexicon and sentiment of posts by certain radical users (known previously) and the subsequent interaction with other users in their network with no known jihadist&nbsp;tendencies, the researchers explore whether they can better identify when someone in a alter network is being influenced by the egos. The full paper is available here:</p> 
+   <p><a href="https://core.ac.uk/download/pdf/147597985.pdf">https://core.ac.uk/download/pdf/147597985.pdf</a></p> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39800330_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39800330_1', replyUrl+'_39800330_1', $('_39800330_1') )">Reply</a>
+        <a id="quote__39800330_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39800330_1', replyUrl+'_39800330_1&amp;quote=true', $('_39800330_1'), false, true )">Quote</a>
+        <a id="mail__39800330_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39800330_1&amp;nav=db_thread_list_entry&amp;thread_id=39800330&amp;nav=db_thread_list_entry&amp;user_id=_21031627_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_20_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>

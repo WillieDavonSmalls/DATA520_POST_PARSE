@@ -1,0 +1,335 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39608671_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_8_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39608671_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39608671_1" title="Sheryl Piechocki (Game of Thrones Gender Imbalance)">
+    </div>
+
+    <div id="layer_8_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39608671_1')" role="button" id="_39608671_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_8_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39608671_1')" role="button" id="_39608671_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39608671_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_8" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39608671_1','_39608671_1')" title="Collapse Post">
+        <div id="layer_8_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_8_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39608671_1');" onmouseout="javascript:hideMsgMetadata('_39608671_1');" onfocus="javascript:showMsgMetadata('_39608671_1');" onblur="javascript:hideMsgMetadata('_39608671_1');" title="Post Details">
+            <span id="db_msg_age__39608671_1_md" class="db_msg_metadata">June 25, 2020 4:23:46 PM EDT</span>
+              <span id="db_msg_age__39608671_1" class="db_msg_age" postedtimeinmillis="1593116626000" editedtimeinmillis="1593116626000" postedtimeinbbformat="June 25, 2020 4:23:46 PM EDT" editedtimeinbbformat="June 25, 2020 4:23:46 PM EDT">15 days ago</span>
+            </div>
+
+          <div id="layer_8_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39608671_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21018202_1?ts=1594344549000">
+          
+  
+              Sheryl Piechocki
+      
+  </span>
+</span>
+
+<span id="layer_8_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_8_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_8_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39608671_1">Game of Thrones Gender Imbalance</span>
+            <span id="attachmentIndicator__39608671_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39608671_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39608671_1" onclick="javascript:toggleMessageDisplay(event, '_39608671_1','_39608671_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39608671_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39608671_1' )">Collapse</a></div>
+
+      </div><div id="message__39608671_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39608671_1_md" totalviewcount="9" yourviewcount="1">Total views: 9 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Here is a link to a github repo that contains a few notebooks regarding gender imbalance in Game of Thrones.&nbsp; This analysis uses the scripts from&nbsp;episodes of the Game of Thrones TV&nbsp;show.&nbsp; I like this analysis because I often heard of Game of Thrones being characterized as sexist and negative towards women, but having watched the show did not necessarily agree with those assertions.&nbsp; As the seasons progress, more and more women are seen in powerful roles.&nbsp; They exude confidence and strength.</p> 
+   <p>This analysis does show that men talk more than women overall and it does show that there is an increase for females in their share of the talking as seasons progress.&nbsp; It does not necessarily address the quality of the spoken words.&nbsp; As in many things, quality can be more important than quantity.&nbsp; It does look at the most frequent words and some sentiment analysis by gender, but I think a deeper analysis of the quality of the words would be beneficial.&nbsp;&nbsp;</p> 
+   <p><a href="https://github.com/anahitabahri/NLP-Final-Project" target="_blank" rel="noreferrer noopener">https://github.com/anahitabahri/NLP-Final-Project</a></p> 
+   <p>&nbsp;I found this notebook using Google search terms of "github", "Game of Thrones", "nlp"&nbsp;</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39608671_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39608671_1', replyUrl+'_39608671_1', $('_39608671_1') )">Reply</a>
+        <a id="quote__39608671_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39608671_1', replyUrl+'_39608671_1&amp;quote=true', $('_39608671_1'), false, true )">Quote</a>
+        <a id="mail__39608671_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39608671_1&amp;nav=db_thread_list_entry&amp;thread_id=39608671&amp;nav=db_thread_list_entry&amp;user_id=_21018202_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_8_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39614517_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_8_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39614517_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39614517_1" title="Elina Azrilyan (RE: Game of Thrones Gender Imbalance)">
+    </div>
+
+    <div id="layer_8_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39614517_1')" role="button" id="_39614517_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_8_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39614517_1')" role="button" id="_39614517_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39614517_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_8_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39608671_1','_39614517_1')" title="Collapse Post">
+        <div id="layer_8_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_8_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39614517_1');" onmouseout="javascript:hideMsgMetadata('_39614517_1');" onfocus="javascript:showMsgMetadata('_39614517_1');" onblur="javascript:hideMsgMetadata('_39614517_1');" title="Post Details">
+            <span id="db_msg_age__39614517_1_md" class="db_msg_metadata">June 25, 2020 9:39:46 PM EDT</span>
+              <span id="db_msg_age__39614517_1" class="db_msg_age" postedtimeinmillis="1593135586000" editedtimeinmillis="1593135586000" postedtimeinbbformat="June 25, 2020 9:39:46 PM EDT" editedtimeinbbformat="June 25, 2020 9:39:46 PM EDT">15 days ago</span>
+            </div>
+
+          <div id="layer_8_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39608671_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20994607_1?ts=1594425264000">
+          
+  
+              Elina Azrilyan
+      
+  </span>
+</span>
+
+<span id="layer_8_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_8_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_8_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39614517_1">RE: Game of Thrones Gender Imbalance</span>
+            <span id="attachmentIndicator__39614517_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39614517_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39614517_1" onclick="javascript:toggleMessageDisplay(event, '_39608671_1','_39614517_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39614517_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39614517_1' )">Collapse</a></div>
+
+      </div><div id="message__39614517_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39614517_1_md" totalviewcount="6" yourviewcount="1">Total views: 6 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Thank you for sharing that - it is an interesting topic since this show was very popular and it is interesting to see what sort of subliminal messages in sent to its giant audience. I am glad that they seemed to have improved on the gender equality as the seasons progressed.&nbsp;</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39614517_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39614517_1', replyUrl+'_39614517_1', $('_39614517_1') )">Reply</a>
+        <a id="quote__39614517_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39614517_1', replyUrl+'_39614517_1&amp;quote=true', $('_39614517_1'), false, true )">Quote</a>
+        <a id="mail__39614517_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39614517_1&amp;nav=db_thread_list_entry&amp;thread_id=39608671&amp;nav=db_thread_list_entry&amp;user_id=_20994607_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_8_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div><div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39618241_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unreadmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_8_1_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39618241_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39618241_1" title="Habib Khan (RE: Game of Thrones Gender Imbalance)">
+    </div>
+
+    <div id="layer_8_1_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Read</div>
+      <a href="javascript:toggleReadByIcon('_39618241_1')" role="button" id="_39618241_1_readTogIconLink" class=" unreadmsg " title="Mark as Read"><span class="hideoff">Mark as Read</span></a>
+      </div>
+
+      <span id="layer_8_1_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39618241_1')" role="button" id="_39618241_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39618241_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_8_1" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39608671_1','_39618241_1')" title="Collapse Post">
+        <div id="layer_8_1_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_8_1_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39618241_1');" onmouseout="javascript:hideMsgMetadata('_39618241_1');" onfocus="javascript:showMsgMetadata('_39618241_1');" onblur="javascript:hideMsgMetadata('_39618241_1');" title="Post Details">
+            <span id="db_msg_age__39618241_1_md" class="db_msg_metadata">June 25, 2020 11:51:35 PM EDT</span>
+              <span id="db_msg_age__39618241_1" class="db_msg_age" postedtimeinmillis="1593143495000" editedtimeinmillis="1593143495000" postedtimeinbbformat="June 25, 2020 11:51:35 PM EDT" editedtimeinbbformat="June 25, 2020 11:51:35 PM EDT">15 days ago</span>
+            </div>
+
+          <div id="layer_8_1_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39608671_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21031651_1?ts=1594441632000">
+          
+  
+              Habib Khan
+      
+  </span>
+</span>
+
+<span id="layer_8_1_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_8_1_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_8_1_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39618241_1">RE: Game of Thrones Gender Imbalance</span>
+            <span id="attachmentIndicator__39618241_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39618241_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39618241_1" onclick="javascript:toggleMessageDisplay(event, '_39608671_1','_39618241_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39618241_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39618241_1' )">Collapse</a></div>
+
+      </div><div id="message__39618241_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39618241_1_md" totalviewcount="4" yourviewcount="1">Total views: 4 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Thanks for sharing Sheryl. I think it would be quite interesting to work on Game of Thrones for final project and work on different aspects to see more in-depth analysis. </p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39618241_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39618241_1', replyUrl+'_39618241_1', $('_39618241_1') )">Reply</a>
+        <a id="quote__39618241_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39618241_1', replyUrl+'_39618241_1&amp;quote=true', $('_39618241_1'), false, true )">Quote</a>
+        <a id="mail__39618241_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39618241_1&amp;nav=db_thread_list_entry&amp;thread_id=39608671&amp;nav=db_thread_list_entry&amp;user_id=_21031651_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_8_1_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

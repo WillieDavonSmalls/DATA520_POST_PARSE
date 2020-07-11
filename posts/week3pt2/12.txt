@@ -1,0 +1,113 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39498542_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_13_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39498542_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39498542_1" title="Zachary Alexander (Facebook's Graph API)">
+    </div>
+
+    <div id="layer_13_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39498542_1')" role="button" id="_39498542_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_13_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39498542_1')" role="button" id="_39498542_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39498542_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_13" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39498542_1','_39498542_1')" title="Collapse Post">
+        <div id="layer_13_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_13_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39498542_1');" onmouseout="javascript:hideMsgMetadata('_39498542_1');" onfocus="javascript:showMsgMetadata('_39498542_1');" onblur="javascript:hideMsgMetadata('_39498542_1');" title="Post Details">
+            <span id="db_msg_age__39498542_1_md" class="db_msg_metadata">June 19, 2020 1:18:34 PM EDT</span>
+              <span id="db_msg_age__39498542_1" class="db_msg_age" postedtimeinmillis="1592587114000" editedtimeinmillis="1592587114000" postedtimeinbbformat="June 19, 2020 1:18:34 PM EDT" editedtimeinbbformat="June 19, 2020 1:18:34 PM EDT">21 days ago</span>
+            </div>
+
+          <div id="layer_13_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39498542_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21117111_1?ts=1594417828000">
+          
+  
+              Zachary Alexander
+      
+  </span>
+</span>
+
+<span id="layer_13_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_13_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_13_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39498542_1">Facebook's Graph API</span>
+            <span id="attachmentIndicator__39498542_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39498542_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39498542_1" onclick="javascript:toggleMessageDisplay(event, '_39498542_1','_39498542_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39498542_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39498542_1' )">Collapse</a></div>
+
+      </div><div id="message__39498542_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39498542_1_md" totalviewcount="9" yourviewcount="1">Total views: 9 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>This is actually a very timely article, since recently a friend reached out to me asking if I could assist in a project that required utilizing Facebook's&nbsp;Graph API to search for relevant statuses and posts based on a certain set of keywords. I have worked with Twitter's&nbsp;API in the past, and was interested in diving into Facebook's&nbsp;Graph API a bit given the context I'm learning in this course. I found documentation online&nbsp;to utilize Facebook's&nbsp;API to conduct this keyword search, however, I realized when running the script, the function(s) I used had been deprecated. One in particular was the searchFacebook() function.&nbsp;After doing some investigative work, a few of the functions had been deprecated back in 2015 when Facebook did a massive overhaul of it's API.</p> 
+   <p>Although I was hoping to work with a friend on a small project, as mentioned in the Wall Street Journal Article, these changes have huge implications for company's and developers that rely heavily on this data to create third-party applications. These changes over the past couple years have limited the types of things startups and entrepreneurs are able to do with social network data, and some would argue that it stymies the growth of the field. I do think that many of these changes are positive for social network users, and allows for broader protections of privacy of information and data. It'll be interesting to see how this progresses over the next few years, as a person's individual "data", whether it be social network data, health data, financial data, etc., is becoming more of a central part of one's capital. As we can see, this change by Facebook&nbsp;has limited me and my friend's ability to do any downstream analysis (or at least making us go back to the drawing board), and for product development, it's completely changed the way certain startups develop their products and what types of ideas will be successful in the future.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39498542_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39498542_1', replyUrl+'_39498542_1', $('_39498542_1') )">Reply</a>
+        <a id="quote__39498542_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39498542_1', replyUrl+'_39498542_1&amp;quote=true', $('_39498542_1'), false, true )">Quote</a>
+        <a id="mail__39498542_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39498542_1&amp;nav=db_thread_list_entry&amp;thread_id=39498542&amp;nav=db_thread_list_entry&amp;user_id=_21117111_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_13_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>

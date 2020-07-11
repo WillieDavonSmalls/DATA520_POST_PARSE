@@ -1,0 +1,117 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39479757_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_7_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39479757_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39479757_1" title="Mael Illien (Deprecated Financial Data APIs)">
+    </div>
+
+    <div id="layer_7_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39479757_1')" role="button" id="_39479757_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_7_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39479757_1')" role="button" id="_39479757_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39479757_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_7" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39479757_1','_39479757_1')" title="Collapse Post">
+        <div id="layer_7_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_7_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39479757_1');" onmouseout="javascript:hideMsgMetadata('_39479757_1');" onfocus="javascript:showMsgMetadata('_39479757_1');" onblur="javascript:hideMsgMetadata('_39479757_1');" title="Post Details">
+            <span id="db_msg_age__39479757_1_md" class="db_msg_metadata">June 18, 2020 12:09:48 PM EDT</span>
+              <span id="db_msg_age__39479757_1" class="db_msg_age" postedtimeinmillis="1592496588000" editedtimeinmillis="1592496588000" postedtimeinbbformat="June 18, 2020 12:09:48 PM EDT" editedtimeinbbformat="June 18, 2020 12:09:48 PM EDT">22 days ago</span>
+            </div>
+
+          <div id="layer_7_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39479757_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21128987_1?ts=1594381968000">
+          
+  
+              Mael Illien
+      
+  </span>
+</span>
+
+<span id="layer_7_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_7_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_7_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39479757_1">Deprecated Financial Data APIs</span>
+            <span id="attachmentIndicator__39479757_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39479757_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39479757_1" onclick="javascript:toggleMessageDisplay(event, '_39479757_1','_39479757_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39479757_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39479757_1' )">Collapse</a></div>
+
+      </div><div id="message__39479757_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39479757_1_md" totalviewcount="6" yourviewcount="1">Total views: 6 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <div> 
+    <p>The Google Yahoo Finance APIs were the go to API for acquiring free financial data. A lot of apps using data from these APIs abruptly lost their data source when the services were either deprecated or became service users needed to pay for. These days, there are ways to connect to the yahoo api but the endpoints are few and the documentation poor. Many <a href="https://www.datadriveninvestor.com/2019/02/25/6-alternatives-to-the-yahoo-finance-api/">alternatives</a> such an Quandl, Alpha Vantage, etc have sprung up to fill that hole in demand. These sources offer free access to data up to a certain number of calls a day, and paid versions for premium access.</p> 
+    <p>While in some cases switching the data source can be as simple as changing the python library you are using, in others, entire databases relying on a previous source of data may need to be recreated and the code to update it rewritten. This makes the case for abstraction in object oriented programming where data handler components should be written in such a way that swapping a data source leaves the rest of the program’s execution unaffected.</p> 
+    <p>In operations where lots of money is traded and timing can be critical, losing a data source is a big problem and the implications serious for a business as was the case in the examples mentioned in the reading. This brings to the forefront the issue of relying on third parties for data sources and the way to preserve the continuity and integrity of data.</p> 
+   </div> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39479757_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39479757_1', replyUrl+'_39479757_1', $('_39479757_1') )">Reply</a>
+        <a id="quote__39479757_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39479757_1', replyUrl+'_39479757_1&amp;quote=true', $('_39479757_1'), false, true )">Quote</a>
+        <a id="mail__39479757_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39479757_1&amp;nav=db_thread_list_entry&amp;thread_id=39479757&amp;nav=db_thread_list_entry&amp;user_id=_21128987_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_7_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>

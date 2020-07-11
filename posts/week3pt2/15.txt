@@ -1,0 +1,230 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39517926_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_16_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39517926_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39517926_1" title="Simon Ustoyev (Uber API Restrictions Controversy)">
+    </div>
+
+    <div id="layer_16_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39517926_1')" role="button" id="_39517926_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_16_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39517926_1')" role="button" id="_39517926_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39517926_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_16" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39517926_1','_39517926_1')" title="Collapse Post">
+        <div id="layer_16_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_16_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39517926_1');" onmouseout="javascript:hideMsgMetadata('_39517926_1');" onfocus="javascript:showMsgMetadata('_39517926_1');" onblur="javascript:hideMsgMetadata('_39517926_1');" title="Post Details">
+            <span id="db_msg_age__39517926_1_md" class="db_msg_metadata">June 20, 2020 10:57:19 PM EDT</span>
+              <span id="db_msg_age__39517926_1" class="db_msg_age" postedtimeinmillis="1592708239000" editedtimeinmillis="1592708239000" postedtimeinbbformat="June 20, 2020 10:57:19 PM EDT" editedtimeinbbformat="June 20, 2020 10:57:19 PM EDT">20 days ago</span>
+            </div>
+
+          <div id="layer_16_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39517926_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20873219_1?ts=1594415287000">
+          
+  
+              Simon Ustoyev
+      
+  </span>
+</span>
+
+<span id="layer_16_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_16_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_16_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39517926_1">Uber API Restrictions Controversy</span>
+            <span id="attachmentIndicator__39517926_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39517926_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39517926_1" onclick="javascript:toggleMessageDisplay(event, '_39517926_1','_39517926_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39517926_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39517926_1' )">Collapse</a></div>
+
+      </div><div id="message__39517926_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39517926_1_md" totalviewcount="11" yourviewcount="1">Total views: 11 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p style="margin: 0.0in;font-family: Calibri;font-size: 11.0pt;">I found 2 articles (one siting the other), which describe controversies around Uber's restrictions of its data.&nbsp; There may not be as much limitation on using Uber's data for some downstream analysis, as oppose to the limitations as to how you can use this data and the type of products you are allowed to develop based on this data.&nbsp; In the article, Uber cut off access to its API for a Boston based startup which was looking to provide price comparisons between major ride-hailing services.&nbsp; There's a possibility that this move by Uber could violate antitrust law.&nbsp; Ironically, Uber itself relies on 3rd party API for maps, payments and messaging.</p> 
+   <p style="margin: 0.0in;font-family: Calibri;font-size: 11.0pt;">This article essentially demonstrates that while a 3rd party, private data provider, like Uber, may increase or promote a wider use of its data, it may also decrease or impose on the scope of what can be built on top of its data.</p> 
+   <p style="margin: 0.0in;font-family: Calibri;font-size: 11.0pt;"><a href="http://fortune.com/2016/06/06/harvard-uber-api-restrictions/">http://fortune.com/2016/06/06/harvard-uber-api-restrictions/</a></p> 
+   <p style="margin: 0.0in;font-family: Calibri;font-size: 11.0pt;"><a href="http://www.benedelman.org/news-053116/">http://www.benedelman.org/news-053116/</a></p> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39517926_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39517926_1', replyUrl+'_39517926_1', $('_39517926_1') )">Reply</a>
+        <a id="quote__39517926_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39517926_1', replyUrl+'_39517926_1&amp;quote=true', $('_39517926_1'), false, true )">Quote</a>
+        <a id="mail__39517926_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39517926_1&amp;nav=db_thread_list_entry&amp;thread_id=39517926&amp;nav=db_thread_list_entry&amp;user_id=_20873219_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_16_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39530055_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_16_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39530055_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39530055_1" title="Subhalaxmi Rout (RE: Uber API Restrictions Controversy)">
+    </div>
+
+    <div id="layer_16_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39530055_1')" role="button" id="_39530055_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_16_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39530055_1')" role="button" id="_39530055_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39530055_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_16_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39517926_1','_39530055_1')" title="Collapse Post">
+        <div id="layer_16_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_16_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39530055_1');" onmouseout="javascript:hideMsgMetadata('_39530055_1');" onfocus="javascript:showMsgMetadata('_39530055_1');" onblur="javascript:hideMsgMetadata('_39530055_1');" title="Post Details">
+            <span id="db_msg_age__39530055_1_md" class="db_msg_metadata">June 21, 2020 8:28:50 PM EDT</span>
+              <span id="db_msg_age__39530055_1" class="db_msg_age" postedtimeinmillis="1592785730000" editedtimeinmillis="1592785730000" postedtimeinbbformat="June 21, 2020 8:28:50 PM EDT" editedtimeinbbformat="June 21, 2020 8:28:50 PM EDT">19 days ago</span>
+            </div>
+
+          <div id="layer_16_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39517926_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21180472_1?ts=1594461392000">
+          
+  
+              Subhalaxmi Rout
+      
+  </span>
+</span>
+
+<span id="layer_16_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_16_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_16_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39530055_1">RE: Uber API Restrictions Controversy</span>
+            <span id="attachmentIndicator__39530055_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39530055_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39530055_1" onclick="javascript:toggleMessageDisplay(event, '_39517926_1','_39530055_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39530055_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39530055_1' )">Collapse</a></div>
+
+      </div><div id="message__39530055_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39530055_1_md" totalviewcount="8" yourviewcount="1">Total views: 8 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Interesting post, Simon! Due to Uber API restriction, there are benefits and flaws. The benefit is API restrictions are designed solely to advance the company’s business interests by blocking competition. So, Uber alone controls information about the price and availability of its vehicles. Due to the restrictions, a third-party company uses real-time information about vehicle location (how many minutes until a vehicle can pick up a passenger at a given location) impacted.</p> 
+   <br> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39530055_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39530055_1', replyUrl+'_39530055_1', $('_39530055_1') )">Reply</a>
+        <a id="quote__39530055_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39530055_1', replyUrl+'_39530055_1&amp;quote=true', $('_39530055_1'), false, true )">Quote</a>
+        <a id="mail__39530055_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39530055_1&amp;nav=db_thread_list_entry&amp;thread_id=39517926&amp;nav=db_thread_list_entry&amp;user_id=_21180472_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_16_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

@@ -1,0 +1,301 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39450661_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_3_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39450661_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39450661_1" title="Subhalaxmi Rout (Twitter web-based data restriction)">
+    </div>
+
+    <div id="layer_3_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39450661_1')" role="button" id="_39450661_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_3_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39450661_1')" role="button" id="_39450661_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39450661_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_3" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39450661_1','_39450661_1')" title="Collapse Post">
+        <div id="layer_3_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_3_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39450661_1');" onmouseout="javascript:hideMsgMetadata('_39450661_1');" onfocus="javascript:showMsgMetadata('_39450661_1');" onblur="javascript:hideMsgMetadata('_39450661_1');" title="Post Details">
+            <span id="db_msg_age__39450661_1_md" class="db_msg_metadata" style="visibility: hidden;">June 16, 2020 8:59:25 PM EDT</span>
+              <span id="db_msg_age__39450661_1" class="db_msg_age" postedtimeinmillis="1592355565000" editedtimeinmillis="1592355565000" postedtimeinbbformat="June 16, 2020 8:59:25 PM EDT" editedtimeinbbformat="June 16, 2020 8:59:25 PM EDT" style="visibility: visible;">24 days ago</span>
+            </div>
+
+          <div id="layer_3_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39450661_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21180472_1?ts=1594461392000">
+          
+  
+              Subhalaxmi Rout
+      
+  </span>
+</span>
+
+<span id="layer_3_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_3_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_3_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39450661_1">Twitter web-based data restriction</span>
+            <span id="attachmentIndicator__39450661_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39450661_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39450661_1" onclick="javascript:toggleMessageDisplay(event, '_39450661_1','_39450661_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39450661_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39450661_1' )">Collapse</a></div>
+
+      </div><div id="message__39450661_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39450661_1_md" totalviewcount="11" yourviewcount="1">Total views: 11 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Twitter restricted access data after the New York Times revealed that Facebook had given device makers deep access to data on Facebook users and their friends, via device-integrated APIs.&nbsp;The goal of twitter is ensuring platform safety and promoting the privacy and safety of users, and providing a level playing field commercially.</p> 
+   <p>Who was impacted negatively by these changes?</p> 
+   <p>Third-party developers are negatively impacted since their business model relied on users' data. Twitter removed more than 143,000 apps that violated its policies between April and June 2018, and they are continuing to invest in building out improved tools and processes to help them stop malicious apps faster and more efficiently.</p> 
+   <p>Who impacted positively by these changes?</p> 
+   <p>Twitter users are impacted positively because their data has not been exploited. Twitter has given users more control over their data by making privacy settings easily accessible.</p> 
+   <p>What implications if any are there from the standpoint of being able to use this data in downstream analysis and/or product development?</p> 
+   <p>The changes will impact multiple developer-facing APIs, including those used to create social experiences on the site, as well as those for media partners, and more. Many third-party developers will look elsewhere (other social media platforms) to collect user data to innovate and stay in business. I also think the availability of data helped many developers create innovative products. These products make us efficient and add value to our lives. Due to some bad actors, a lot of good work has been impacted.</p> 
+   <p>Reference:&nbsp;&nbsp;<a href="https://blog.twitter.com/developer/en_us/topics/tools/2018/new-developer-requirements-to-protect-our-platform.html">https://blog.twitter.com/developer/en_us/topics/tools/2018/new-developer-requirements-to-protect-our-platform.html</a></p> 
+   <br> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39450661_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39450661_1', replyUrl+'_39450661_1', $('_39450661_1') )">Reply</a>
+        <a id="quote__39450661_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39450661_1', replyUrl+'_39450661_1&amp;quote=true', $('_39450661_1'), false, true )">Quote</a>
+        <a id="mail__39450661_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39450661_1&amp;nav=db_thread_list_entry&amp;thread_id=39450661&amp;nav=db_thread_list_entry&amp;user_id=_21180472_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_3_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39458833_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unreadmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_3_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39458833_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39458833_1" title="Amber Ferger (RE: Twitter web-based data restriction)">
+    </div>
+
+    <div id="layer_3_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Read</div>
+      <a href="javascript:toggleReadByIcon('_39458833_1')" role="button" id="_39458833_1_readTogIconLink" class=" unreadmsg " title="Mark as Read"><span class="hideoff">Mark as Read</span></a>
+      </div>
+
+      <span id="layer_3_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39458833_1')" role="button" id="_39458833_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39458833_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_3_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39450661_1','_39458833_1')" title="Collapse Post">
+        <div id="layer_3_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_3_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39458833_1');" onmouseout="javascript:hideMsgMetadata('_39458833_1');" onfocus="javascript:showMsgMetadata('_39458833_1');" onblur="javascript:hideMsgMetadata('_39458833_1');" title="Post Details">
+            <span id="db_msg_age__39458833_1_md" class="db_msg_metadata">June 17, 2020 11:08:27 AM EDT</span>
+              <span id="db_msg_age__39458833_1" class="db_msg_age" postedtimeinmillis="1592406507000" editedtimeinmillis="1592406507000" postedtimeinbbformat="June 17, 2020 11:08:27 AM EDT" editedtimeinbbformat="June 17, 2020 11:08:27 AM EDT">23 days ago</span>
+            </div>
+
+          <div id="layer_3_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39450661_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21114231_1?ts=1594294964000">
+          
+  
+              Amber Ferger
+      
+  </span>
+</span>
+
+<span id="layer_3_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_3_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_3_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39458833_1">RE: Twitter web-based data restriction</span>
+            <span id="attachmentIndicator__39458833_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39458833_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39458833_1" onclick="javascript:toggleMessageDisplay(event, '_39450661_1','_39458833_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39458833_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39458833_1' )">Collapse</a></div>
+
+      </div><div id="message__39458833_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39458833_1_md" totalviewcount="10" yourviewcount="1">Total views: 10 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Great example!&nbsp;Any developer that uses third-party information&nbsp;as a key component to their business is at the mercy of the third-party and the twitter data restriction is a great example of that.&nbsp;Apps, sites, and businesses that rely heavily on previously-available data have to adapt or go under.&nbsp;</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39458833_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39458833_1', replyUrl+'_39458833_1', $('_39458833_1') )">Reply</a>
+        <a id="quote__39458833_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39458833_1', replyUrl+'_39458833_1&amp;quote=true', $('_39458833_1'), false, true )">Quote</a>
+        <a id="mail__39458833_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39458833_1&amp;nav=db_thread_list_entry&amp;thread_id=39450661&amp;nav=db_thread_list_entry&amp;user_id=_21114231_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_3_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div><div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39476764_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unreadmsg  unflaggedmsg ">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_3_1_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39476764_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39476764_1" title="Abdellah Ait Elmouden (RE: Twitter web-based data restriction)">
+    </div>
+
+    <div id="layer_3_1_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Read</div>
+      <a href="javascript:toggleReadByIcon('_39476764_1')" role="button" id="_39476764_1_readTogIconLink" class=" unreadmsg " title="Mark as Read"><span class="hideoff">Mark as Read</span></a>
+      </div>
+
+      <span id="layer_3_1_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39476764_1')" role="button" id="_39476764_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39476764_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_3_1" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39450661_1','_39476764_1')" title="Collapse Post">
+        <div id="layer_3_1_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_3_1_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39476764_1');" onmouseout="javascript:hideMsgMetadata('_39476764_1');" onfocus="javascript:showMsgMetadata('_39476764_1');" onblur="javascript:hideMsgMetadata('_39476764_1');" title="Post Details">
+            <span id="db_msg_age__39476764_1_md" class="db_msg_metadata">June 18, 2020 6:38:28 AM EDT</span>
+              <span id="db_msg_age__39476764_1" class="db_msg_age" postedtimeinmillis="1592476708000" editedtimeinmillis="1592476708000" postedtimeinbbformat="June 18, 2020 6:38:28 AM EDT" editedtimeinbbformat="June 18, 2020 6:38:28 AM EDT">23 days ago</span>
+            </div>
+
+          <div id="layer_3_1_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39450661_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_657988_1?ts=1594418217000">
+          
+  
+              Abdellah Ait Elmouden
+      
+  </span>
+</span>
+
+<span id="layer_3_1_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_3_1_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_3_1_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39476764_1">RE: Twitter web-based data restriction</span>
+            <span id="attachmentIndicator__39476764_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39476764_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39476764_1" onclick="javascript:toggleMessageDisplay(event, '_39450661_1','_39476764_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39476764_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39476764_1' )">Collapse</a></div>
+
+      </div><div id="message__39476764_1" class="dbThreadMessage" style="display: none;">
+        <span class="loadingElipse">
+          Post loading. Refresh the page if the post does not load.</span>
+      </div>
+
+      <a id="layer_3_1_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

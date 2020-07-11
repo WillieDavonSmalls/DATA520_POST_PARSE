@@ -1,0 +1,114 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39579146_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_18_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39579146_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39579146_1" title="Jagdish Chhabria (Fintech Data Aggregators)">
+    </div>
+
+    <div id="layer_18_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39579146_1')" role="button" id="_39579146_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_18_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39579146_1')" role="button" id="_39579146_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39579146_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_18" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39579146_1','_39579146_1')" title="Collapse Post">
+        <div id="layer_18_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_18_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39579146_1');" onmouseout="javascript:hideMsgMetadata('_39579146_1');" onfocus="javascript:showMsgMetadata('_39579146_1');" onblur="javascript:hideMsgMetadata('_39579146_1');" title="Post Details">
+            <span id="db_msg_age__39579146_1_md" class="db_msg_metadata">June 24, 2020 7:37:48 AM EDT</span>
+              <span id="db_msg_age__39579146_1" class="db_msg_age" postedtimeinmillis="1592998668000" editedtimeinmillis="1592998668000" postedtimeinbbformat="June 24, 2020 7:37:48 AM EDT" editedtimeinbbformat="June 24, 2020 7:37:48 AM EDT">17 days ago</span>
+            </div>
+
+          <div id="layer_18_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39579146_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21031627_1?ts=1594478212000">
+          
+  
+              Jagdish Chhabria
+      
+  </span>
+</span>
+
+<span id="layer_18_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_18_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_18_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39579146_1">Fintech Data Aggregators</span>
+            <span id="attachmentIndicator__39579146_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39579146_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39579146_1" onclick="javascript:toggleMessageDisplay(event, '_39579146_1','_39579146_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39579146_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39579146_1' )">Collapse</a></div>
+
+      </div><div id="message__39579146_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39579146_1_md" totalviewcount="8" yourviewcount="7">Total views: 8 (Your views: 7)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>One area where there have been many interesting twists and turns over the past decade has been that of financial data aggregators&nbsp;such as Mint (owned by Intuit), Yodlee&nbsp;(owned by Investnet) and Plaid (owned by Visa) that allow customers to download an&nbsp;app&nbsp;(mobile or desktop)&nbsp;and aggregate their banking, investment and other data held with different institutions and providers&nbsp;in a single consolidated view. There seem to be 2 ways for these data aggregators&nbsp;to access this data - either through an API or through screen scraping. Also there are differences in how these aggregators&nbsp;set up the initial authentication and on-boarding process of connecting to a "new" account. In general, it looks like initially many banks were fine with providing this access as long as customers provided the permission, but over time, a combination of regulatory scrutiny about customer data privacy, data security and lastly the evolution of their own business models to monetize or come up with their own competing services (typically as a consortium) kicks in and they start limiting access or the mechanism of access available to the data aggregators. For example, it seems you can integrate a Bank of America account&nbsp;on the Mint app&nbsp;but not a PNC bank account. It's hard to argue that each bank is taking its own view of data privacy and security. To me, it seems more of a business strategy being played out as banks who initially let fintechs&nbsp;take the lead to figure out if a business model is viable are now wanting to enter the game themselves.&nbsp;</p> 
+   <p>In any case, the data aggregators&nbsp;could find themselves in trouble if more banks restrict access via screen scraping&nbsp; - at the very least they'll need to make changes to their data access layer in case the API changes. Some could even see a significant change in cost of business. It seems safe to say that while "Data is the new Oil", it's important to keep an eye on who owns the drilling infrastructure and when they may decide to start their own refineries and gas stations.</p> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39579146_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39579146_1', replyUrl+'_39579146_1', $('_39579146_1') )">Reply</a>
+        <a id="quote__39579146_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39579146_1', replyUrl+'_39579146_1&amp;quote=true', $('_39579146_1'), false, true )">Quote</a>
+        <a id="mail__39579146_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39579146_1&amp;nav=db_thread_list_entry&amp;thread_id=39579146&amp;nav=db_thread_list_entry&amp;user_id=_21031627_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_18_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>

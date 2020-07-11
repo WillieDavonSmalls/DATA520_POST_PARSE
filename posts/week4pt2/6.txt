@@ -1,0 +1,334 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39618195_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_13_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39618195_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39618195_1" title="Habib Khan (Text processing on twitter)">
+    </div>
+
+    <div id="layer_13_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39618195_1')" role="button" id="_39618195_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_13_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39618195_1')" role="button" id="_39618195_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39618195_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_13" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39618195_1','_39618195_1')" title="Collapse Post">
+        <div id="layer_13_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_13_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39618195_1');" onmouseout="javascript:hideMsgMetadata('_39618195_1');" onfocus="javascript:showMsgMetadata('_39618195_1');" onblur="javascript:hideMsgMetadata('_39618195_1');" title="Post Details">
+            <span id="db_msg_age__39618195_1_md" class="db_msg_metadata">June 25, 2020 11:50:23 PM EDT</span>
+              <span id="db_msg_age__39618195_1" class="db_msg_age" postedtimeinmillis="1593143423000" editedtimeinmillis="1593143423000" postedtimeinbbformat="June 25, 2020 11:50:23 PM EDT" editedtimeinbbformat="June 25, 2020 11:50:23 PM EDT">15 days ago</span>
+            </div>
+
+          <div id="layer_13_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39618195_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21031651_1?ts=1594441632000">
+          
+  
+              Habib Khan
+      
+  </span>
+</span>
+
+<span id="layer_13_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_13_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_13_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39618195_1">Text processing on twitter</span>
+            <span id="attachmentIndicator__39618195_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39618195_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39618195_1" onclick="javascript:toggleMessageDisplay(event, '_39618195_1','_39618195_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39618195_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39618195_1' )">Collapse</a></div>
+
+      </div><div id="message__39618195_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39618195_1_md" totalviewcount="8" yourviewcount="1">Total views: 8 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>I found this python notebook very interesting as it the author used sentiment analysis on the tweets. Although the specific topic may vary but I liked the concept of extracting data from twitter that are trending and use different NLP techniques and text processing to see the insights. I used "github, text processing project" as keywords to find out the project. The project is not very descriptive and I think it should be more explored and described to make the analysis useful.</p> 
+   <p>https://github.com/sharmaroshan/Twitter-Sentiment-Analysis/blob/master/Twitter_Sentiment.ipynb</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39618195_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39618195_1', replyUrl+'_39618195_1', $('_39618195_1') )">Reply</a>
+        <a id="quote__39618195_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39618195_1', replyUrl+'_39618195_1&amp;quote=true', $('_39618195_1'), false, true )">Quote</a>
+        <a id="mail__39618195_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39618195_1&amp;nav=db_thread_list_entry&amp;thread_id=39618195&amp;nav=db_thread_list_entry&amp;user_id=_21031651_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_13_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39644445_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_13_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39644445_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39644445_1" title="Abdellah Ait Elmouden (RE: Text processing on twitter)">
+    </div>
+
+    <div id="layer_13_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39644445_1')" role="button" id="_39644445_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_13_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39644445_1')" role="button" id="_39644445_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39644445_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_13_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39618195_1','_39644445_1')" title="Collapse Post">
+        <div id="layer_13_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_13_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39644445_1');" onmouseout="javascript:hideMsgMetadata('_39644445_1');" onfocus="javascript:showMsgMetadata('_39644445_1');" onblur="javascript:hideMsgMetadata('_39644445_1');" title="Post Details">
+            <span id="db_msg_age__39644445_1_md" class="db_msg_metadata" style="visibility: hidden;">June 28, 2020 8:50:46 AM EDT<br><span id="db_vc_in_msg_age__39644445_1_md">Total views: 6 (Your views: 1)</span></span>
+              <span id="db_msg_age__39644445_1" class="db_msg_age" postedtimeinmillis="1593348646000" editedtimeinmillis="1593348646000" postedtimeinbbformat="June 28, 2020 8:50:46 AM EDT" editedtimeinbbformat="June 28, 2020 8:50:46 AM EDT" style="visibility: visible;">13 days ago</span>
+            </div>
+
+          <div id="layer_13_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39618195_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_657988_1?ts=1594418217000">
+          
+  
+              Abdellah Ait Elmouden
+      
+  </span>
+</span>
+
+<span id="layer_13_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_13_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_13_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39644445_1">RE: Text processing on twitter</span>
+            <span id="attachmentIndicator__39644445_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39644445_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39644445_1" onclick="javascript:toggleMessageDisplay(event, '_39618195_1','_39644445_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39644445_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39644445_1' )">Collapse</a></div>
+
+      </div><div id="message__39644445_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39644445_1_md" totalviewcount="6" yourviewcount="1">Total views: 6 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Thanks for sharing Habib. I learned how to do text sentiment using R, but this is a good reference to do an analysis using python.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39644445_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39644445_1', replyUrl+'_39644445_1', $('_39644445_1') )">Reply</a>
+        <a id="quote__39644445_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39644445_1', replyUrl+'_39644445_1&amp;quote=true', $('_39644445_1'), false, true )">Quote</a>
+        <a id="mail__39644445_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39644445_1&amp;nav=db_thread_list_entry&amp;thread_id=39618195&amp;nav=db_thread_list_entry&amp;user_id=_657988_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_13_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div><div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39659634_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_13_1_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39659634_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39659634_1" title="Subhalaxmi Rout (RE: Text processing on twitter)">
+    </div>
+
+    <div id="layer_13_1_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39659634_1')" role="button" id="_39659634_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_13_1_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39659634_1')" role="button" id="_39659634_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39659634_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_13_1" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39618195_1','_39659634_1')" title="Collapse Post">
+        <div id="layer_13_1_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_13_1_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39659634_1');" onmouseout="javascript:hideMsgMetadata('_39659634_1');" onfocus="javascript:showMsgMetadata('_39659634_1');" onblur="javascript:hideMsgMetadata('_39659634_1');" title="Post Details">
+            <span id="db_msg_age__39659634_1_md" class="db_msg_metadata">June 29, 2020 12:04:02 AM EDT</span>
+              <span id="db_msg_age__39659634_1" class="db_msg_age" postedtimeinmillis="1593403442000" editedtimeinmillis="1593403442000" postedtimeinbbformat="June 29, 2020 12:04:02 AM EDT" editedtimeinbbformat="June 29, 2020 12:04:02 AM EDT">12 days ago</span>
+            </div>
+
+          <div id="layer_13_1_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39618195_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21180472_1?ts=1594461392000">
+          
+  
+              Subhalaxmi Rout
+      
+  </span>
+</span>
+
+<span id="layer_13_1_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_13_1_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_13_1_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39659634_1">RE: Text processing on twitter</span>
+            <span id="attachmentIndicator__39659634_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39659634_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39659634_1" onclick="javascript:toggleMessageDisplay(event, '_39618195_1','_39659634_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39659634_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39659634_1' )">Collapse</a></div>
+
+      </div><div id="message__39659634_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39659634_1_md" totalviewcount="5" yourviewcount="1">Total views: 5 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <h3 style="margin: 0.0in;"><span style="font-size: 10.5pt;font-family: &quot;Open Sans&quot; , serif;color: black;font-weight: normal;">Thank you for sharing Habib! Interesting ipythone notebook on twitter data analysis. The analysis could be more interesting if plot the comparison graphs on sentiments of tweets (e.g. positive, negative, neutral). </span></h3> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39659634_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39659634_1', replyUrl+'_39659634_1', $('_39659634_1') )">Reply</a>
+        <a id="quote__39659634_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39659634_1', replyUrl+'_39659634_1&amp;quote=true', $('_39659634_1'), false, true )">Quote</a>
+        <a id="mail__39659634_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39659634_1&amp;nav=db_thread_list_entry&amp;thread_id=39618195&amp;nav=db_thread_list_entry&amp;user_id=_21180472_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_13_1_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

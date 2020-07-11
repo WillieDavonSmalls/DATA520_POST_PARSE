@@ -1,0 +1,226 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39490661_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_12_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39490661_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39490661_1" title="Jithendra Seneviratne (General Data Protection Regulation)">
+    </div>
+
+    <div id="layer_12_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39490661_1')" role="button" id="_39490661_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_12_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39490661_1')" role="button" id="_39490661_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39490661_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_12" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39490661_1','_39490661_1')" title="Collapse Post">
+        <div id="layer_12_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_12_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39490661_1');" onmouseout="javascript:hideMsgMetadata('_39490661_1');" onfocus="javascript:showMsgMetadata('_39490661_1');" onblur="javascript:hideMsgMetadata('_39490661_1');" title="Post Details">
+            <span id="db_msg_age__39490661_1_md" class="db_msg_metadata">June 18, 2020 10:17:47 PM EDT</span>
+              <span id="db_msg_age__39490661_1" class="db_msg_age" postedtimeinmillis="1592533067000" editedtimeinmillis="1592533067000" postedtimeinbbformat="June 18, 2020 10:17:47 PM EDT" editedtimeinbbformat="June 18, 2020 10:17:47 PM EDT">22 days ago</span>
+            </div>
+
+          <div id="layer_12_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39490661_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20987751_1?ts=1594422117000">
+          
+  
+              Jithendra Seneviratne
+      
+  </span>
+</span>
+
+<span id="layer_12_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_12_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_12_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39490661_1">General Data Protection Regulation</span>
+            <span id="attachmentIndicator__39490661_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39490661_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39490661_1" onclick="javascript:toggleMessageDisplay(event, '_39490661_1','_39490661_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39490661_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39490661_1' )">Collapse</a></div>
+
+      </div><div id="message__39490661_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39490661_1_md" totalviewcount="12" yourviewcount="1">Total views: 12 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p style="font-family: &quot;Open Sans&quot; , sans-serif;text-shadow: none;letter-spacing: normal;margin: 0.0px 0.0px 1.0em;padding: 0.0px;border: 0.0px;outline: 0.0px;font-weight: 400;font-style: normal;font-size: small;color: rgb(0,0,0);orphans: 2;text-indent: 0.0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0.0px;"><span style="font-size: small;color: rgb(0,0,0);"><sub style="font-family: inherit;text-shadow: none;letter-spacing: normal;margin: 0.0px;padding: 0.0px;border: 0.0px;outline: 0.0px;font-weight: inherit;font-style: inherit;font-size: 13.0px;"><sup style="font-family: inherit;text-shadow: none;letter-spacing: normal;margin: 0.0px;padding: 0.0px;border: 0.0px;outline: 0.0px;font-weight: inherit;font-style: inherit;font-size: 13.0px;">The&nbsp;<span style="font-family: &quot;Open Sans&quot; , Arial , Helvetica , sans-serif;letter-spacing: normal;margin: 0.0px;padding: 0.0px;border: 0.0px;outline: 0.0px;font-weight: 400;font-style: normal;orphans: 2;text-align: left;text-indent: 0.0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0.0px;">General Data Protection Regulation</span></sup><sup style="font-family: inherit;text-shadow: none;letter-spacing: normal;margin: 0.0px;padding: 0.0px;border: 0.0px;outline: 0.0px;font-weight: inherit;font-style: inherit;font-size: 13.0px;"> (GDPR)&nbsp;is popularly known as 'the right to be forgotten'. The EU regulation lays out how and when data can be collected, processed and erased. It (theoretically at least) gives users of social media platforms more agency, and more protection. Perhaps the catalyst for the GDPR was the Cambridge Analytica&nbsp;scandal, where user data was used for highly unethical&nbsp;<span style="font-family: acumin-pro , sans-serif;font-size: 15.0px;font-style: normal;font-weight: 300;letter-spacing: normal;orphans: 2;text-indent: 0.0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0.0px;"><span style="font-family: arial , helvetica , sans-serif;font-size: small;">psychological profiling and manipulation.</span></span></sup></sub></span></p> 
+   <p><br class="Apple-interchange-newline">&nbsp;<br></p> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39490661_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39490661_1', replyUrl+'_39490661_1', $('_39490661_1') )">Reply</a>
+        <a id="quote__39490661_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39490661_1', replyUrl+'_39490661_1&amp;quote=true', $('_39490661_1'), false, true )">Quote</a>
+        <a id="mail__39490661_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39490661_1&amp;nav=db_thread_list_entry&amp;thread_id=39490661&amp;nav=db_thread_list_entry&amp;user_id=_20987751_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_12_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39515650_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_12_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39515650_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39515650_1" title="Priya Shaji (RE: General Data Protection Regulation)">
+    </div>
+
+    <div id="layer_12_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39515650_1')" role="button" id="_39515650_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_12_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39515650_1')" role="button" id="_39515650_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39515650_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_12_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39490661_1','_39515650_1')" title="Collapse Post">
+        <div id="layer_12_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_12_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39515650_1');" onmouseout="javascript:hideMsgMetadata('_39515650_1');" onfocus="javascript:showMsgMetadata('_39515650_1');" onblur="javascript:hideMsgMetadata('_39515650_1');" title="Post Details">
+            <span id="db_msg_age__39515650_1_md" class="db_msg_metadata">June 20, 2020 7:48:31 PM EDT</span>
+              <span id="db_msg_age__39515650_1" class="db_msg_age" postedtimeinmillis="1592696911000" editedtimeinmillis="1592696911000" postedtimeinbbformat="June 20, 2020 7:48:31 PM EDT" editedtimeinbbformat="June 20, 2020 7:48:31 PM EDT">20 days ago</span>
+            </div>
+
+          <div id="layer_12_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39490661_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21032053_1?ts=1594410291000">
+          
+  
+              Priya Shaji
+      
+  </span>
+</span>
+
+<span id="layer_12_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_12_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_12_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39515650_1">RE: General Data Protection Regulation</span>
+            <span id="attachmentIndicator__39515650_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39515650_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39515650_1" onclick="javascript:toggleMessageDisplay(event, '_39490661_1','_39515650_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39515650_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39515650_1' )">Collapse</a></div>
+
+      </div><div id="message__39515650_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39515650_1_md" totalviewcount="7" yourviewcount="1">Total views: 7 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Good information!&nbsp;Perhaps GDPR needs to be followed by many organizations.&nbsp;</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39515650_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39515650_1', replyUrl+'_39515650_1', $('_39515650_1') )">Reply</a>
+        <a id="quote__39515650_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39515650_1', replyUrl+'_39515650_1&amp;quote=true', $('_39515650_1'), false, true )">Quote</a>
+        <a id="mail__39515650_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39515650_1&amp;nav=db_thread_list_entry&amp;thread_id=39490661&amp;nav=db_thread_list_entry&amp;user_id=_21032053_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_12_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

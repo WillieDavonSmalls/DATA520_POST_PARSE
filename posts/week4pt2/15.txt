@@ -1,0 +1,414 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39584581_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_4_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39584581_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39584581_1" title="Ken Popkin (Sentiment Analysis on Candidates)">
+    </div>
+
+    <div id="layer_4_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39584581_1')" role="button" id="_39584581_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_4_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39584581_1')" role="button" id="_39584581_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39584581_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_4" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39584581_1','_39584581_1')" title="Collapse Post">
+        <div id="layer_4_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_4_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39584581_1');" onmouseout="javascript:hideMsgMetadata('_39584581_1');" onfocus="javascript:showMsgMetadata('_39584581_1');" onblur="javascript:hideMsgMetadata('_39584581_1');" title="Post Details">
+            <span id="db_msg_age__39584581_1_md" class="db_msg_metadata">June 24, 2020 1:52:02 PM EDT</span>
+              <span id="db_msg_age__39584581_1" class="db_msg_age" postedtimeinmillis="1593021122000" editedtimeinmillis="1593021122000" postedtimeinbbformat="June 24, 2020 1:52:02 PM EDT" editedtimeinbbformat="June 24, 2020 1:52:02 PM EDT">16 days ago</span>
+            </div>
+
+          <div id="layer_4_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39584581_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21177384_1?ts=1594473477000">
+          
+  
+              Ken Popkin
+      
+  </span>
+</span>
+
+<span id="layer_4_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_4_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_4_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39584581_1">Sentiment Analysis on Candidates</span>
+            <span id="attachmentIndicator__39584581_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39584581_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39584581_1" onclick="javascript:toggleMessageDisplay(event, '_39584581_1','_39584581_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39584581_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39584581_1' )">Collapse</a></div>
+
+      </div><div id="message__39584581_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39584581_1_md" totalviewcount="14" yourviewcount="1">Total views: 14 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p><span style="display: inline;float: none;background-color: rgb(248,248,248);color: rgb(0,0,0);font-family: arial , helvetica , sans-serif;font-size: small;font-style: inherit;font-variant: normal;font-weight: inherit;letter-spacing: normal;orphans: 2;text-align: left;text-decoration: none;text-indent: 0.0px;text-shadow: none;text-transform: none;"></span></p> 
+   <p><span style="display: inline;float: none;background-color: rgb(248,248,248);color: rgb(0,0,0);font-family: arial , helvetica , sans-serif;font-size: small;font-style: inherit;font-variant: normal;font-weight: inherit;letter-spacing: normal;orphans: 2;text-align: left;text-decoration: none;text-indent: 0.0px;text-shadow: none;text-transform: none;"></span></p> 
+   <p><span style="display: inline;float: none;background-color: rgb(248,248,248);color: rgb(0,0,0);font-family: arial , helvetica , sans-serif;font-size: small;font-style: inherit;font-variant: normal;font-weight: inherit;letter-spacing: normal;orphans: 2;text-align: left;text-decoration: none;text-indent: 0.0px;text-shadow: none;text-transform: none;"></span></p> 
+   <p><span style="display: inline;float: none;background-color: rgb(248,248,248);color: rgb(0,0,0);font-family: arial , helvetica , sans-serif;font-size: small;font-style: inherit;font-variant: normal;font-weight: inherit;letter-spacing: normal;orphans: 2;text-align: left;text-decoration: none;text-indent: 0.0px;text-shadow: none;text-transform: none;">Polls have lost a lot of credibility<span style="font-family: &quot;Open Sans&quot; , sans-serif;"> across our country over the past five years, so alternative measures of assessing a given candidates popularity and/or chances for re-election are of interest to me.&nbsp; </span></span></p> 
+   <p><span style="display: inline;float: none;background-color: rgb(248,248,248);color: rgb(0,0,0);font-family: arial , helvetica , sans-serif;font-size: small;font-style: inherit;font-variant: normal;font-weight: inherit;letter-spacing: normal;orphans: 2;text-align: left;text-decoration: none;text-indent: 0.0px;text-shadow: none;text-transform: none;"><span style="font-family: &quot;Open Sans&quot; , sans-serif;"><strong>To identify a good github/python notebook link</strong> for this discussion I tried a number of unsuccessful search strings -- the results either yielded good tutorials with insufficient examples, or good examples that were not robust in their application of text mining.&nbsp; Finally, the search string, "Github and Python and response to Trump tweets", yielded the link below from Conor Dewey's github...</span></span></p> 
+   <p><a href="https://github.com/conordewey3/Trump-Sentiment-Tracker" target="_blank" rel="noreferrer noopener"><span style="display: inline;float: none;background-color: rgb(248,248,248);color: rgb(0,0,0);font-family: arial , helvetica , sans-serif;font-size: small;font-style: inherit;font-variant: normal;font-weight: inherit;letter-spacing: normal;orphans: 2;text-align: left;text-decoration: none;text-indent: 0.0px;text-shadow: none;text-transform: none;"><span style="font-family: &quot;Open Sans&quot; , sans-serif;">conordewey3/Trump-Sentiment-Tracker</span></span></a></p> 
+   <p><strong><span style="text-align: left;color: rgb(0,0,0);text-transform: none;text-indent: 0.0px;letter-spacing: normal;font-family: arial , helvetica , sans-serif;font-size: small;font-style: inherit;font-variant: normal;text-decoration: none;word-spacing: 0.0px;display: inline;white-space: normal;orphans: 2;float: none;text-shadow: none;"><span style="font-family: &quot;Open Sans&quot; , sans-serif;">What I like best about this notebook (and this entire project) is that...</span></span></strong></p> 
+   <p><span style="display: inline;float: none;background-color: rgb(248,248,248);color: rgb(0,0,0);font-family: arial , helvetica , sans-serif;font-size: small;font-style: inherit;font-variant: normal;font-weight: inherit;letter-spacing: normal;orphans: 2;text-align: left;text-decoration: none;text-indent: 0.0px;text-shadow: none;text-transform: none;"><span style="font-family: &quot;Open Sans&quot; , sans-serif;">1. </span></span><span style="display: inline;float: none;background-color: rgb(248,248,248);color: rgb(0,0,0);font-family: arial , helvetica , sans-serif;font-size: small;font-style: inherit;font-variant: normal;font-weight: inherit;letter-spacing: normal;orphans: 2;text-align: left;text-decoration: none;text-indent: 0.0px;text-shadow: none;text-transform: none;"><span style="font-family: &quot;Open Sans&quot; , sans-serif;">Conor provides a clear, concise, ReadMe that any layperson could easily understand (this served as a gentle reminder for me to start doing the same on my projects). &nbsp; &nbsp;</span></span></p> 
+   <p><span style="display: inline;float: none;background-color: rgb(248,248,248);color: rgb(0,0,0);font-family: arial , helvetica , sans-serif;font-size: small;font-style: inherit;font-variant: normal;font-weight: inherit;letter-spacing: normal;orphans: 2;text-align: left;text-decoration: none;text-indent: 0.0px;text-shadow: none;text-transform: none;"><span style="font-family: &quot;Open Sans&quot; , sans-serif;">2. His <a href="https://github.com/conordewey3/Trump-Sentiment-Tracker/blob/master/twitter_streamer.py" target="_blank" rel="noreferrer noopener">Python notebook</a> is short and fairly easy to follow.</span></span></p> 
+   <p><span style="display: inline;float: none;background-color: rgb(248,248,248);color: rgb(0,0,0);font-family: arial , helvetica , sans-serif;font-size: small;font-style: inherit;font-variant: normal;font-weight: inherit;letter-spacing: normal;orphans: 2;text-align: left;text-decoration: none;text-indent: 0.0px;text-shadow: none;text-transform: none;"><span style="font-family: &quot;Open Sans&quot; , sans-serif;">3. He also created an easily understood <a href="https://trump-sentiment-tracker.herokuapp.com/">web app sentiment tracker</a> that visually displays the sentiment results.</span></span></p> 
+   <p><span style="display: inline;float: none;background-color: rgb(248,248,248);color: rgb(0,0,0);font-family: arial , helvetica , sans-serif;font-size: small;font-style: inherit;font-variant: normal;font-weight: inherit;letter-spacing: normal;orphans: 2;text-align: left;text-decoration: none;text-indent: 0.0px;text-shadow: none;text-transform: none;"><span style="font-family: &quot;Open Sans&quot; , sans-serif;"><strong>What might be added to this notebook </strong></span></span></p> 
+   <p><span style="display: inline;float: none;background-color: rgb(248,248,248);color: rgb(0,0,0);font-family: arial , helvetica , sans-serif;font-size: small;font-style: inherit;font-variant: normal;font-weight: inherit;letter-spacing: normal;orphans: 2;text-align: left;text-decoration: none;text-indent: 0.0px;text-shadow: none;text-transform: none;"><span style="font-family: &quot;Open Sans&quot; , sans-serif;">1. is to expand it beyond only handling Trump's tweets.&nbsp; I realize that data availability and performance would become factors in adding this feature, but I'd be willing to wait a few minutes (or even longer if necessary) to find out how my governor (Michigan - Gretchen Whitmer), Joe Biden, Mitch McConnell, and other politicians are faring from a sentiment analysis perspective.</span></span></p> 
+   <p><span style="display: inline;float: none;background-color: rgb(248,248,248);color: rgb(0,0,0);font-family: arial , helvetica , sans-serif;font-size: small;font-style: inherit;font-variant: normal;font-weight: inherit;letter-spacing: normal;orphans: 2;text-align: left;text-decoration: none;text-indent: 0.0px;text-shadow: none;text-transform: none;"><span style="font-family: &quot;Open Sans&quot; , sans-serif;">2. he could have inserted comments throughout the notebook, but as I stated previously even without comments the code is fairly easy to follow.</span></span><span style="display: inline;float: none;background-color: rgb(248,248,248);color: rgb(0,0,0);font-family: arial , helvetica , sans-serif;font-size: small;font-style: inherit;font-variant: normal;font-weight: inherit;letter-spacing: normal;orphans: 2;text-align: left;text-decoration: none;text-indent: 0.0px;text-shadow: none;text-transform: none;"><span style="font-family: &quot;Open Sans&quot; , sans-serif;">&nbsp;</span></span></p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39584581_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39584581_1', replyUrl+'_39584581_1', $('_39584581_1') )">Reply</a>
+        <a id="quote__39584581_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39584581_1', replyUrl+'_39584581_1&amp;quote=true', $('_39584581_1'), false, true )">Quote</a>
+        <a id="mail__39584581_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39584581_1&amp;nav=db_thread_list_entry&amp;thread_id=39584581&amp;nav=db_thread_list_entry&amp;user_id=_21177384_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_4_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39586293_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_4_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39586293_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39586293_1" title="Murat Akyildirim (RE: Sentiment Analysis on Candidates)">
+    </div>
+
+    <div id="layer_4_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39586293_1')" role="button" id="_39586293_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_4_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39586293_1')" role="button" id="_39586293_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39586293_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_4_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39584581_1','_39586293_1')" title="Collapse Post">
+        <div id="layer_4_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_4_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39586293_1');" onmouseout="javascript:hideMsgMetadata('_39586293_1');" onfocus="javascript:showMsgMetadata('_39586293_1');" onblur="javascript:hideMsgMetadata('_39586293_1');" title="Post Details">
+            <span id="db_msg_age__39586293_1_md" class="db_msg_metadata">June 24, 2020 3:18:18 PM EDT</span>
+              <span id="db_msg_age__39586293_1" class="db_msg_age" postedtimeinmillis="1593026298000" editedtimeinmillis="1593026298000" postedtimeinbbformat="June 24, 2020 3:18:18 PM EDT" editedtimeinbbformat="June 24, 2020 3:18:18 PM EDT">16 days ago</span>
+            </div>
+
+          <div id="layer_4_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39584581_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21114817_1?ts=1594478549000">
+          
+  
+              Murat Akyildirim
+      
+  </span>
+</span>
+
+<span id="layer_4_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_4_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_4_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39586293_1">RE: Sentiment Analysis on Candidates</span>
+            <span id="attachmentIndicator__39586293_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39586293_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39586293_1" onclick="javascript:toggleMessageDisplay(event, '_39584581_1','_39586293_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39586293_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39586293_1' )">Collapse</a></div>
+
+      </div><div id="message__39586293_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39586293_1_md" totalviewcount="13" yourviewcount="1">Total views: 13 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>This is great.&nbsp;With my previous group from Data Acquisition and Management class we did analysis of Trump tweets and impact to the stock market (&nbsp;&nbsp;<a href="https://rpubs.com/anilak1978/tweets">https://rpubs.com/anilak1978/tweets</a>&nbsp; )&nbsp; You can see all of his tweets from here also&nbsp;&nbsp;&nbsp;<a href="http://www.trumptwitterarchive.com/archive">http://www.trumptwitterarchive.com/archive</a>&nbsp;. I agree on possible expansion of the tweets from Trump.&nbsp;</p> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39586293_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39586293_1', replyUrl+'_39586293_1', $('_39586293_1') )">Reply</a>
+        <a id="quote__39586293_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39586293_1', replyUrl+'_39586293_1&amp;quote=true', $('_39586293_1'), false, true )">Quote</a>
+        <a id="mail__39586293_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39586293_1&amp;nav=db_thread_list_entry&amp;thread_id=39584581&amp;nav=db_thread_list_entry&amp;user_id=_21114817_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_4_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div><div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39605739_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unreadmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_4_1_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39605739_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39605739_1" title="Amber Ferger (RE: Sentiment Analysis on Candidates)">
+    </div>
+
+    <div id="layer_4_1_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Read</div>
+      <a href="javascript:toggleReadByIcon('_39605739_1')" role="button" id="_39605739_1_readTogIconLink" class=" unreadmsg " title="Mark as Read"><span class="hideoff">Mark as Read</span></a>
+      </div>
+
+      <span id="layer_4_1_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39605739_1')" role="button" id="_39605739_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39605739_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_4_1" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39584581_1','_39605739_1')" title="Collapse Post">
+        <div id="layer_4_1_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_4_1_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39605739_1');" onmouseout="javascript:hideMsgMetadata('_39605739_1');" onfocus="javascript:showMsgMetadata('_39605739_1');" onblur="javascript:hideMsgMetadata('_39605739_1');" title="Post Details">
+            <span id="db_msg_age__39605739_1_md" class="db_msg_metadata">June 25, 2020 1:39:48 PM EDT</span>
+              <span id="db_msg_age__39605739_1" class="db_msg_age" postedtimeinmillis="1593106788000" editedtimeinmillis="1593106788000" postedtimeinbbformat="June 25, 2020 1:39:48 PM EDT" editedtimeinbbformat="June 25, 2020 1:39:48 PM EDT">15 days ago</span>
+            </div>
+
+          <div id="layer_4_1_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39584581_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21114231_1?ts=1594294964000">
+          
+  
+              Amber Ferger
+      
+  </span>
+</span>
+
+<span id="layer_4_1_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_4_1_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_4_1_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39605739_1">RE: Sentiment Analysis on Candidates</span>
+            <span id="attachmentIndicator__39605739_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39605739_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39605739_1" onclick="javascript:toggleMessageDisplay(event, '_39584581_1','_39605739_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39605739_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39605739_1' )">Collapse</a></div>
+
+      </div><div id="message__39605739_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39605739_1_md" totalviewcount="9" yourviewcount="1">Total views: 9 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>What a great example! I had come across this somewhere a little while ago and completely forgot about it. I love that&nbsp;it's such a simple graphic, yet it reveals so much information.&nbsp;I agree that the code is pretty easy to follow, but I also wish there were a few more comments explaining the process.&nbsp;</p> 
+   <p>I, too, have to remember to keep my code clean and concise in my github repo. (And organize my repo&nbsp;in a cleaner way in general)</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39605739_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39605739_1', replyUrl+'_39605739_1', $('_39605739_1') )">Reply</a>
+        <a id="quote__39605739_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39605739_1', replyUrl+'_39605739_1&amp;quote=true', $('_39605739_1'), false, true )">Quote</a>
+        <a id="mail__39605739_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39605739_1&amp;nav=db_thread_list_entry&amp;thread_id=39584581&amp;nav=db_thread_list_entry&amp;user_id=_21114231_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_4_1_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div><div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39612687_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unreadmsg  unflaggedmsg ">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_4_2_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39612687_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39612687_1" title="Zachary Alexander (RE: Sentiment Analysis on Candidates)">
+    </div>
+
+    <div id="layer_4_2_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Read</div>
+      <a href="javascript:toggleReadByIcon('_39612687_1')" role="button" id="_39612687_1_readTogIconLink" class=" unreadmsg " title="Mark as Read"><span class="hideoff">Mark as Read</span></a>
+      </div>
+
+      <span id="layer_4_2_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39612687_1')" role="button" id="_39612687_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39612687_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_4_2" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39584581_1','_39612687_1')" title="Collapse Post">
+        <div id="layer_4_2_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_4_2_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39612687_1');" onmouseout="javascript:hideMsgMetadata('_39612687_1');" onfocus="javascript:showMsgMetadata('_39612687_1');" onblur="javascript:hideMsgMetadata('_39612687_1');" title="Post Details">
+            <span id="db_msg_age__39612687_1_md" class="db_msg_metadata">June 25, 2020 7:55:19 PM EDT</span>
+              <span id="db_msg_age__39612687_1" class="db_msg_age" postedtimeinmillis="1593129319000" editedtimeinmillis="1593129319000" postedtimeinbbformat="June 25, 2020 7:55:19 PM EDT" editedtimeinbbformat="June 25, 2020 7:55:19 PM EDT">15 days ago</span>
+            </div>
+
+          <div id="layer_4_2_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39584581_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21117111_1?ts=1594417828000">
+          
+  
+              Zachary Alexander
+      
+  </span>
+</span>
+
+<span id="layer_4_2_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_4_2_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_4_2_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39612687_1">RE: Sentiment Analysis on Candidates</span>
+            <span id="attachmentIndicator__39612687_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39612687_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39612687_1" onclick="javascript:toggleMessageDisplay(event, '_39584581_1','_39612687_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39612687_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39612687_1' )">Collapse</a></div>
+
+      </div><div id="message__39612687_1" class="dbThreadMessage" style="display: none;">
+        <span class="loadingElipse">
+          Post loading. Refresh the page if the post does not load.</span>
+      </div>
+
+      <a id="layer_4_2_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

@@ -1,0 +1,405 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39551169_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_1_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39551169_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39551169_1" title="Amber Ferger (Predicting Hospital Readmission with Discharge Summaries)">
+    </div>
+
+    <div id="layer_1_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39551169_1')" role="button" id="_39551169_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_1_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39551169_1')" role="button" id="_39551169_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39551169_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_1" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39551169_1','_39551169_1')" title="Collapse Post">
+        <div id="layer_1_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39551169_1');" onmouseout="javascript:hideMsgMetadata('_39551169_1');" onfocus="javascript:showMsgMetadata('_39551169_1');" onblur="javascript:hideMsgMetadata('_39551169_1');" title="Post Details">
+            <span id="db_msg_age__39551169_1_md" class="db_msg_metadata">June 22, 2020 9:29:32 PM EDT</span>
+              <span id="db_msg_age__39551169_1" class="db_msg_age" postedtimeinmillis="1592875772000" editedtimeinmillis="1592875772000" postedtimeinbbformat="June 22, 2020 9:29:32 PM EDT" editedtimeinbbformat="June 22, 2020 9:29:32 PM EDT">18 days ago</span>
+            </div>
+
+          <div id="layer_1_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39551169_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21114231_1?ts=1594294964000">
+          
+  
+              Amber Ferger
+      
+  </span>
+</span>
+
+<span id="layer_1_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_1_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39551169_1">Predicting Hospital Readmission with Discharge Summaries</span>
+            <span id="attachmentIndicator__39551169_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39551169_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39551169_1" onclick="javascript:toggleMessageDisplay(event, '_39551169_1','_39551169_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39551169_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39551169_1' )">Collapse</a></div>
+
+      </div><div id="message__39551169_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39551169_1_md" totalviewcount="19" yourviewcount="1">Total views: 19 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p><strong>Github&nbsp;Link:</strong>&nbsp; <a href="https://github.com/andrewwlong/mimic_bow/blob/master/mimic_bow_full.ipynb">https://github.com/andrewwlong/mimic_bow/blob/master/mimic_bow_full.ipynb</a></p> 
+   <p><strong>Towards Data Science Article:</strong>&nbsp;&nbsp;<a href="https://towardsdatascience.com/introduction-to-clinical-natural-language-processing-predicting-hospital-readmission-with-1736d52bc709" target="_blank" rel="noreferrer noopener">Introduction to Clinical Natural Language Processing: Predicting Hospital Readmission with Discharge Summaries</a>&nbsp;</p> 
+   <p><strong>Why this notebook?</strong>&nbsp;I attended <a href="https://odsc.com/boston/" target="_blank" rel="noreferrer noopener">Open Data Science Conference East</a> last year and had the opportunity to listen to a talk by the author of the above article, Andrew Long. As an individual working in healthcare, I was intrigued by the topic because I deal with quite a bit of of unstructured and unstandardized medical text. When I saw this discussion post, I immediately thought of this talk because I think it is one of the best articles I've read about NLP that is specifically geared towards beginners.&nbsp;</p> 
+   <p><strong>Background:</strong> When an individual is seen by a doctor, notes are recorded in an Electronic Medical Record. These notes are free-form -- although doctors tend to ask similar questions to their patients, the information that is recorded varies drastically from provider to provider, both in terms of semantics and format. The unstructured nature of the note makes it difficult to perform rules-based entity extraction, but makes it an ideal candidate for NLP modeling.&nbsp;</p> 
+   <p><strong>The Purpose:</strong> Long takes the reader through a step-by-step guide for developing a model to predict the patients that are most at risk of being readmitted to a hospital. He develops features for the model using term frequencies that are extracted from the text.&nbsp;</p> 
+   <p><strong>The Pros:</strong> I like this article for 2 main reasons. First, Long assumes no background knowledge of the material and instead takes the user step-by-step through the entire process of creating a model from start to finish. He explains his reasoning for doing each step and provides sufficient background material so that even someone that has never been exposed to NLP techniques can follow along. Second, he spends a fair bit of time cleaning up the data and analyzing it before using it. I feel like a lot of tutorials start off the bat with unrealistic, tidy data, so it's nice to see someone walk through the pre-processing steps before jumping right in.&nbsp;</p> 
+   <p><strong>Useful Additions:</strong> I can't think of much that I don't like about the notebook, but one thing I can think of that might make this notebook even better is to incorporate additional sources of data. Although discharge summaries themselves provide a lot of great information about the patient, adding in information about condition-specific features (ex: temperature, side effects, specific meds, etc) might make the model even more accurate.&nbsp;</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39551169_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39551169_1', replyUrl+'_39551169_1', $('_39551169_1') )">Reply</a>
+        <a id="quote__39551169_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39551169_1', replyUrl+'_39551169_1&amp;quote=true', $('_39551169_1'), false, true )">Quote</a>
+        <a id="mail__39551169_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39551169_1&amp;nav=db_thread_list_entry&amp;thread_id=39551169&amp;nav=db_thread_list_entry&amp;user_id=_21114231_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_1_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39579914_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_1_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39579914_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39579914_1" title="Jack Russo (RE: Predicting Hospital Readmission with Discharge Summaries)">
+    </div>
+
+    <div id="layer_1_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39579914_1')" role="button" id="_39579914_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_1_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39579914_1')" role="button" id="_39579914_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39579914_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_1_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39551169_1','_39579914_1')" title="Collapse Post">
+        <div id="layer_1_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39579914_1');" onmouseout="javascript:hideMsgMetadata('_39579914_1');" onfocus="javascript:showMsgMetadata('_39579914_1');" onblur="javascript:hideMsgMetadata('_39579914_1');" title="Post Details">
+            <span id="db_msg_age__39579914_1_md" class="db_msg_metadata">June 24, 2020 9:25:07 AM EDT</span>
+              <span id="db_msg_age__39579914_1" class="db_msg_age" postedtimeinmillis="1593005107000" editedtimeinmillis="1593005107000" postedtimeinbbformat="June 24, 2020 9:25:07 AM EDT" editedtimeinbbformat="June 24, 2020 9:25:07 AM EDT">17 days ago</span>
+            </div>
+
+          <div id="layer_1_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39551169_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20980712_1?ts=1594043317000">
+          
+  
+              Jack Russo
+      
+  </span>
+</span>
+
+<span id="layer_1_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_1_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39579914_1">RE: Predicting Hospital Readmission with Discharge Summaries</span>
+            <span id="attachmentIndicator__39579914_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39579914_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39579914_1" onclick="javascript:toggleMessageDisplay(event, '_39551169_1','_39579914_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39579914_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39579914_1' )">Collapse</a></div>
+
+      </div><div id="message__39579914_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39579914_1_md" totalviewcount="14" yourviewcount="1">Total views: 14 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>This is brilliant!&nbsp;Though I'm wondering what the actual consequences&nbsp;are off this practice. What should a hospital do if the text analysis predicts&nbsp; re-admittance?&nbsp;</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39579914_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39579914_1', replyUrl+'_39579914_1', $('_39579914_1') )">Reply</a>
+        <a id="quote__39579914_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39579914_1', replyUrl+'_39579914_1&amp;quote=true', $('_39579914_1'), false, true )">Quote</a>
+        <a id="mail__39579914_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39579914_1&amp;nav=db_thread_list_entry&amp;thread_id=39551169&amp;nav=db_thread_list_entry&amp;user_id=_20980712_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_1_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link reply-expanded" role="button">Hide 1 reply (1 unread)</a>
+    </div> </div> </div>
+<!-- single_message.jspf -->
+
+<div id="_39605572_1" class="db-message-wrapper autoExpandable  reply-lvl-2 unreadmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_1_0_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-2-cb">
+      <input type="checkbox" id="_39605572_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39605572_1" title="Amber Ferger (RE: Predicting Hospital Readmission with Discharge Summaries)">
+    </div>
+
+    <div id="layer_1_0_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Read</div>
+      <a href="javascript:toggleReadByIcon('_39605572_1')" role="button" id="_39605572_1_readTogIconLink" class=" unreadmsg " title="Mark as Read"><span class="hideoff">Mark as Read</span></a>
+      </div>
+
+      <span id="layer_1_0_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39605572_1')" role="button" id="_39605572_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39605572_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_1_0_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39551169_1','_39605572_1')" title="Collapse Post">
+        <div id="layer_1_0_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_0_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39605572_1');" onmouseout="javascript:hideMsgMetadata('_39605572_1');" onfocus="javascript:showMsgMetadata('_39605572_1');" onblur="javascript:hideMsgMetadata('_39605572_1');" title="Post Details">
+            <span id="db_msg_age__39605572_1_md" class="db_msg_metadata">June 25, 2020 1:31:07 PM EDT</span>
+              <span id="db_msg_age__39605572_1" class="db_msg_age" postedtimeinmillis="1593106267000" editedtimeinmillis="1593106267000" postedtimeinbbformat="June 25, 2020 1:31:07 PM EDT" editedtimeinbbformat="June 25, 2020 1:31:07 PM EDT">15 days ago</span>
+            </div>
+
+          <div id="layer_1_0_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39551169_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21114231_1?ts=1594294964000">
+          
+  
+              Amber Ferger
+      
+  </span>
+</span>
+
+<span id="layer_1_0_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_1_0_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_0_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39605572_1">RE: Predicting Hospital Readmission with Discharge Summaries</span>
+            <span id="attachmentIndicator__39605572_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39605572_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39605572_1" onclick="javascript:toggleMessageDisplay(event, '_39551169_1','_39605572_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39605572_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39605572_1' )">Collapse</a></div>
+
+      </div><div id="message__39605572_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39605572_1_md" totalviewcount="10" yourviewcount="1">Total views: 10 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Hey Jack!&nbsp;A lot of the time these are patients that are enrolled in risk management programs so that they are assigned a care manager to check up. It doesn't seem like much, but even just a phone call a day can ensure that the patient is educated and often prevents the readmittance!</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39605572_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39605572_1', replyUrl+'_39605572_1', $('_39605572_1') )">Reply</a>
+        <a id="quote__39605572_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39605572_1', replyUrl+'_39605572_1&amp;quote=true', $('_39605572_1'), false, true )">Quote</a>
+        <a id="mail__39605572_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39605572_1&amp;nav=db_thread_list_entry&amp;thread_id=39551169&amp;nav=db_thread_list_entry&amp;user_id=_21114231_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_1_0_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div><div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39585083_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unreadmsg  unflaggedmsg ">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_1_1_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39585083_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39585083_1" title="Ken Popkin (RE: Predicting Hospital Readmission with Discharge Summaries)">
+    </div>
+
+    <div id="layer_1_1_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Read</div>
+      <a href="javascript:toggleReadByIcon('_39585083_1')" role="button" id="_39585083_1_readTogIconLink" class=" unreadmsg " title="Mark as Read"><span class="hideoff">Mark as Read</span></a>
+      </div>
+
+      <span id="layer_1_1_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39585083_1')" role="button" id="_39585083_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39585083_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_1_1" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39551169_1','_39585083_1')" title="Collapse Post">
+        <div id="layer_1_1_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_1_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39585083_1');" onmouseout="javascript:hideMsgMetadata('_39585083_1');" onfocus="javascript:showMsgMetadata('_39585083_1');" onblur="javascript:hideMsgMetadata('_39585083_1');" title="Post Details">
+            <span id="db_msg_age__39585083_1_md" class="db_msg_metadata">June 24, 2020 2:18:32 PM EDT</span>
+              <span id="db_msg_age__39585083_1" class="db_msg_age" postedtimeinmillis="1593022712000" editedtimeinmillis="1593022712000" postedtimeinbbformat="June 24, 2020 2:18:32 PM EDT" editedtimeinbbformat="June 24, 2020 2:18:32 PM EDT">16 days ago</span>
+            </div>
+
+          <div id="layer_1_1_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39551169_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21177384_1?ts=1594473477000">
+          
+  
+              Ken Popkin
+      
+  </span>
+</span>
+
+<span id="layer_1_1_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_1_1_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_1_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39585083_1">RE: Predicting Hospital Readmission with Discharge Summaries</span>
+            <span id="attachmentIndicator__39585083_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39585083_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39585083_1" onclick="javascript:toggleMessageDisplay(event, '_39551169_1','_39585083_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39585083_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39585083_1' )">Collapse</a></div>
+
+      </div><div id="message__39585083_1" class="dbThreadMessage" style="display: none;">
+        <span class="loadingElipse">
+          Post loading. Refresh the page if the post does not load.</span>
+      </div>
+
+      <a id="layer_1_1_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

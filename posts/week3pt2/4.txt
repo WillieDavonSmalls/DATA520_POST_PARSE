@@ -1,0 +1,113 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39463725_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_5_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39463725_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39463725_1" title="Murat Akyildirim (Available Real Estate and Brokerage Data)">
+    </div>
+
+    <div id="layer_5_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39463725_1')" role="button" id="_39463725_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_5_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39463725_1')" role="button" id="_39463725_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39463725_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_5" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39463725_1','_39463725_1')" title="Collapse Post">
+        <div id="layer_5_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_5_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39463725_1');" onmouseout="javascript:hideMsgMetadata('_39463725_1');" onfocus="javascript:showMsgMetadata('_39463725_1');" onblur="javascript:hideMsgMetadata('_39463725_1');" title="Post Details">
+            <span id="db_msg_age__39463725_1_md" class="db_msg_metadata">June 17, 2020 3:41:59 PM EDT</span>
+              <span id="db_msg_age__39463725_1" class="db_msg_age" postedtimeinmillis="1592422919000" editedtimeinmillis="1592422919000" postedtimeinbbformat="June 17, 2020 3:41:59 PM EDT" editedtimeinbbformat="June 17, 2020 3:41:59 PM EDT">23 days ago</span>
+            </div>
+
+          <div id="layer_5_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39463725_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21114817_1?ts=1594411546000">
+          
+  
+              Murat Akyildirim
+      
+  </span>
+</span>
+
+<span id="layer_5_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_5_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_5_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39463725_1">Available Real Estate and Brokerage Data</span>
+            <span id="attachmentIndicator__39463725_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39463725_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39463725_1" onclick="javascript:toggleMessageDisplay(event, '_39463725_1','_39463725_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39463725_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39463725_1' )">Collapse</a></div>
+
+      </div><div id="message__39463725_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39463725_1_md" totalviewcount="11" yourviewcount="1">Total views: 11 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Scraping data from web and applications along with use of different provided apis have increased in the recent years with the hopes of generating leads for marketing and sales teams. Prior to the recent privacy changes developers were able to scrape and use data from linkedin, twitter, foursquare and even real estate portals such as trulia or zillow. Zillow used to offer free access to their listing database along with the real estate brokers in the past, which helped individual local Real Estate Firms (such as Exit, Coach and etc… in certain locations) to collect and use this information. These small local firms and even individual brokers were able to work with developers to collect and consolidate the available data from Zillow and create their own web property to acquire consumers.</p> 
+   <p>With the recent data privacy changes and the change in the business model, Zillow now requires individual real estate firms and brokers to sign up for membership in order to receive this data. They also have a new program where they share consumer information from the data they collect via their newsletter.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39463725_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39463725_1', replyUrl+'_39463725_1', $('_39463725_1') )">Reply</a>
+        <a id="quote__39463725_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39463725_1', replyUrl+'_39463725_1&amp;quote=true', $('_39463725_1'), false, true )">Quote</a>
+        <a id="mail__39463725_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39463725_1&amp;nav=db_thread_list_entry&amp;thread_id=39463725&amp;nav=db_thread_list_entry&amp;user_id=_21114817_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_5_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>

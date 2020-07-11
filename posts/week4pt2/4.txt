@@ -1,0 +1,232 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39627439_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_15_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39627439_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39627439_1" title="Subhalaxmi Rout (Text mining - Clinton and Trump election Tweets)">
+    </div>
+
+    <div id="layer_15_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39627439_1')" role="button" id="_39627439_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_15_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39627439_1')" role="button" id="_39627439_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39627439_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_15" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39627439_1','_39627439_1')" title="Collapse Post">
+        <div id="layer_15_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_15_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39627439_1');" onmouseout="javascript:hideMsgMetadata('_39627439_1');" onfocus="javascript:showMsgMetadata('_39627439_1');" onblur="javascript:hideMsgMetadata('_39627439_1');" title="Post Details">
+            <span id="db_msg_age__39627439_1_md" class="db_msg_metadata">June 26, 2020 7:29:24 PM EDT</span>
+              <span id="db_msg_age__39627439_1" class="db_msg_age" postedtimeinmillis="1593214164000" editedtimeinmillis="1593214164000" postedtimeinbbformat="June 26, 2020 7:29:24 PM EDT" editedtimeinbbformat="June 26, 2020 7:29:24 PM EDT">14 days ago</span>
+            </div>
+
+          <div id="layer_15_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39627439_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21180472_1?ts=1594461392000">
+          
+  
+              Subhalaxmi Rout
+      
+  </span>
+</span>
+
+<span id="layer_15_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_15_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_15_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39627439_1">Text mining - Clinton and Trump election Tweets</span>
+            <span id="attachmentIndicator__39627439_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39627439_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39627439_1" onclick="javascript:toggleMessageDisplay(event, '_39627439_1','_39627439_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39627439_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39627439_1' )">Collapse</a></div>
+
+      </div><div id="message__39627439_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39627439_1_md" totalviewcount="8" yourviewcount="1">Total views: 8 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p><strong>About Notebook:</strong> One of the major battlegrounds of the 2016 presidential election was Twitter. It was one of the most publicized US Presidential elections in history and Twitter had played an increasingly prominent role in it.</p> 
+   <p><strong>Why this notebook?</strong></p> 
+   <p><strong></strong>This notebook describes sentiment data from Twitter about 2 presidential candidates Donald Trump, and Hillary Clinton neat and interesting way. I like the tweet word cloud of Trump and Clinton and the network analysis on hashtags.&nbsp;</p> 
+   <p><strong>What do you like best?&nbsp;</strong>&nbsp;</p> 
+   <p>Sentiment analysis I like the most. Using ‘TextBolb’ package, calculated polarity score of tweets and based on score&nbsp; tweets divided into 3 categories i.e positive (score &gt; 0), negative (score &lt; 0), and neutral (score = 0).</p> 
+   <p><strong>Useful/interesting addition:&nbsp;</strong>&nbsp;Twitter sentiment analysis described precisely however the other lexicon such as Bing, AFFIN, and NRC could display sentiment analysis more coherently.&nbsp;&nbsp;&nbsp;</p> 
+   <p><b><span style="font-size: 10.5pt;font-family: Arial , sans-serif;">Github link: </span></b><a href="https://github.com/chouhbik/Sentiment-Analysis-of-Tweets/blob/master/Tweets%20Analysis%20HillaryvsTrump.ipynb">https://github.com/chouhbik/Sentiment-Analysis-of-Tweets/blob/master/Tweets%20Analysis%20HillaryvsTrump.ipynb</a></p> 
+   <p><b><span style="font-size: 10.5pt;font-family: Arial , sans-serif;">Kaggle Link: </span></b><a href="https://medium.com/analytics-vidhya/twitter-deep-dive-analysis-us-presidential-election-d6b32acc449b">https://medium.com/analytics-vidhya/twitter-deep-dive-analysis-us-presidential-election-d6b32acc449b</a></p> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39627439_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39627439_1', replyUrl+'_39627439_1', $('_39627439_1') )">Reply</a>
+        <a id="quote__39627439_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39627439_1', replyUrl+'_39627439_1&amp;quote=true', $('_39627439_1'), false, true )">Quote</a>
+        <a id="mail__39627439_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39627439_1&amp;nav=db_thread_list_entry&amp;thread_id=39627439&amp;nav=db_thread_list_entry&amp;user_id=_21180472_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_15_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39632027_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unreadmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_15_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39632027_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39632027_1" title="Sheryl Piechocki (RE: Text mining - Clinton and Trump election Tweets)">
+    </div>
+
+    <div id="layer_15_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Read</div>
+      <a href="javascript:toggleReadByIcon('_39632027_1')" role="button" id="_39632027_1_readTogIconLink" class=" unreadmsg " title="Mark as Read"><span class="hideoff">Mark as Read</span></a>
+      </div>
+
+      <span id="layer_15_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39632027_1')" role="button" id="_39632027_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39632027_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_15_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39627439_1','_39632027_1')" title="Collapse Post">
+        <div id="layer_15_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_15_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39632027_1');" onmouseout="javascript:hideMsgMetadata('_39632027_1');" onfocus="javascript:showMsgMetadata('_39632027_1');" onblur="javascript:hideMsgMetadata('_39632027_1');" title="Post Details">
+            <span id="db_msg_age__39632027_1_md" class="db_msg_metadata">June 27, 2020 12:07:39 AM EDT</span>
+              <span id="db_msg_age__39632027_1" class="db_msg_age" postedtimeinmillis="1593230859000" editedtimeinmillis="1593230859000" postedtimeinbbformat="June 27, 2020 12:07:39 AM EDT" editedtimeinbbformat="June 27, 2020 12:07:39 AM EDT">14 days ago</span>
+            </div>
+
+          <div id="layer_15_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39627439_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21018202_1?ts=1594344549000">
+          
+  
+              Sheryl Piechocki
+      
+  </span>
+</span>
+
+<span id="layer_15_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_15_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_15_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39632027_1">RE: Text mining - Clinton and Trump election Tweets</span>
+            <span id="attachmentIndicator__39632027_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39632027_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39632027_1" onclick="javascript:toggleMessageDisplay(event, '_39627439_1','_39632027_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39632027_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39632027_1' )">Collapse</a></div>
+
+      </div><div id="message__39632027_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39632027_1_md" totalviewcount="6" yourviewcount="1">Total views: 6 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>This is a very interesting notebook.&nbsp;&nbsp;It is a very thorough analysis.&nbsp;&nbsp;I like the word clouds and the end with the generated sentences.&nbsp;&nbsp;The overwhelming sentiment of positive is surprising.&nbsp;&nbsp;Perhaps it is the media that puts a negative spin on things and we end up attributing it to the candidates.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39632027_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39632027_1', replyUrl+'_39632027_1', $('_39632027_1') )">Reply</a>
+        <a id="quote__39632027_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39632027_1', replyUrl+'_39632027_1&amp;quote=true', $('_39632027_1'), false, true )">Quote</a>
+        <a id="mail__39632027_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39632027_1&amp;nav=db_thread_list_entry&amp;thread_id=39627439&amp;nav=db_thread_list_entry&amp;user_id=_21018202_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_15_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

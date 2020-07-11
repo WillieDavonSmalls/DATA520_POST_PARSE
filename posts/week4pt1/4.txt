@@ -1,0 +1,227 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39624745_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_16_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39624745_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39624745_1" title="Subhalaxmi Rout (Use of NLP and network analysis techniques to describe the network of drug cartels in Mexico)">
+    </div>
+
+    <div id="layer_16_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39624745_1')" role="button" id="_39624745_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_16_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39624745_1')" role="button" id="_39624745_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39624745_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_16" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39624745_1','_39624745_1')" title="Collapse Post">
+        <div id="layer_16_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_16_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39624745_1');" onmouseout="javascript:hideMsgMetadata('_39624745_1');" onfocus="javascript:showMsgMetadata('_39624745_1');" onblur="javascript:hideMsgMetadata('_39624745_1');" title="Post Details">
+            <span id="db_msg_age__39624745_1_md" class="db_msg_metadata">June 26, 2020 3:44:19 PM EDT</span>
+              <span id="db_msg_age__39624745_1" class="db_msg_age" postedtimeinmillis="1593200659000" editedtimeinmillis="1593200659000" postedtimeinbbformat="June 26, 2020 3:44:19 PM EDT" editedtimeinbbformat="June 26, 2020 3:44:19 PM EDT">14 days ago</span>
+            </div>
+
+          <div id="layer_16_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39624745_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21180472_1?ts=1594461392000">
+          
+  
+              Subhalaxmi Rout
+      
+  </span>
+</span>
+
+<span id="layer_16_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_16_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_16_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39624745_1">Use of NLP and network analysis techniques to describe the network of drug cartels in Mexico</span>
+            <span id="attachmentIndicator__39624745_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39624745_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39624745_1" onclick="javascript:toggleMessageDisplay(event, '_39624745_1','_39624745_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39624745_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39624745_1' )">Collapse</a></div>
+
+      </div><div id="message__39624745_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39624745_1_md" totalviewcount="9" yourviewcount="1">Total views: 9 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Focusing on Mexican cartels and affiliated drug trafficking organizations examines how self-proclaimed cartel members use social media to further the criminal activities of their organizations. Researchers collected data of alleged cartel members over a period of 4 months from social media platforms (Twitter, Facebook, Instagram, etc). After data collection ended, quantitative, qualitative, and social network analysis were performed to identify how subjects made use of Facebook to assert their cartel/ drug trafficking organization (DTO) affiliations, how they communicated with others, and how they were connected to one another. Results indicated that cartel members actively use Facebook to plan, organize, and communicate in real-time.</p> 
+   <p><strong>Business Goal:</strong> Identifying and observing online behavior of self-identified members of Mexican drug trafficking organizations. Additional research in this area is needed to further understand the behavior of cartel members on social media and to validate their use of these platforms to further their criminal activities.</p> 
+   <p><strong>Potential sources of data:</strong> The research methodology called for identifying potential drug trafficking organization (DTO) members on social media, systematically gathering information from their posts, and then analyzing the resulting data using descriptive, qualitative, and social network analytic techniques.</p> 
+   <p>Reference:&nbsp; <span style="font-size: 12.0pt;font-family: &quot;Times New Roman&quot; , serif;"><a href="https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1057&amp;context=criminaljusticefacpub">https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1057&amp;context=criminaljusticefacpub</a></span></p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39624745_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39624745_1', replyUrl+'_39624745_1', $('_39624745_1') )">Reply</a>
+        <a id="quote__39624745_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39624745_1', replyUrl+'_39624745_1&amp;quote=true', $('_39624745_1'), false, true )">Quote</a>
+        <a id="mail__39624745_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39624745_1&amp;nav=db_thread_list_entry&amp;thread_id=39624745&amp;nav=db_thread_list_entry&amp;user_id=_21180472_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_16_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39661965_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_16_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39661965_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39661965_1" title="Mia Chen (RE: Use of NLP and network analysis techniques to describe the network of drug cartels in Mexico)">
+    </div>
+
+    <div id="layer_16_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39661965_1')" role="button" id="_39661965_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_16_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39661965_1')" role="button" id="_39661965_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39661965_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_16_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39624745_1','_39661965_1')" title="Collapse Post">
+        <div id="layer_16_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_16_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39661965_1');" onmouseout="javascript:hideMsgMetadata('_39661965_1');" onfocus="javascript:showMsgMetadata('_39661965_1');" onblur="javascript:hideMsgMetadata('_39661965_1');" title="Post Details">
+            <span id="db_msg_age__39661965_1_md" class="db_msg_metadata">June 29, 2020 1:29:24 AM EDT</span>
+              <span id="db_msg_age__39661965_1" class="db_msg_age" postedtimeinmillis="1593408564000" editedtimeinmillis="1593408564000" postedtimeinbbformat="June 29, 2020 1:29:24 AM EDT" editedtimeinbbformat="June 29, 2020 1:29:24 AM EDT">12 days ago</span>
+            </div>
+
+          <div id="layer_16_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39624745_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_426396_1?ts=1594439499000">
+          
+  
+              Mia Chen
+      
+  </span>
+</span>
+
+<span id="layer_16_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_16_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_16_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39661965_1">RE: Use of NLP and network analysis techniques to describe the network of drug cartels in Mexico</span>
+            <span id="attachmentIndicator__39661965_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39661965_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39661965_1" onclick="javascript:toggleMessageDisplay(event, '_39624745_1','_39661965_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39661965_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39661965_1' )">Collapse</a></div>
+
+      </div><div id="message__39661965_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39661965_1_md" totalviewcount="7" yourviewcount="1">Total views: 7 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Interesting topic as I've been watching the Breaking Bad lately.&nbsp;I can imagine how this combination of NLP and network analysis techniques could be implemented to track drug cartel activities.&nbsp;</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39661965_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39661965_1', replyUrl+'_39661965_1', $('_39661965_1') )">Reply</a>
+        <a id="quote__39661965_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39661965_1', replyUrl+'_39661965_1&amp;quote=true', $('_39661965_1'), false, true )">Quote</a>
+        <a id="mail__39661965_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39661965_1&amp;nav=db_thread_list_entry&amp;thread_id=39624745&amp;nav=db_thread_list_entry&amp;user_id=_426396_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_16_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

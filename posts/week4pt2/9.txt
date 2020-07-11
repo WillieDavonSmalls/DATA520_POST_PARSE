@@ -1,0 +1,230 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39612635_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_10_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39612635_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39612635_1" title="Vijaya Cherukuri (Text mining in Uncarnate Lyrics)">
+    </div>
+
+    <div id="layer_10_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39612635_1')" role="button" id="_39612635_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_10_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39612635_1')" role="button" id="_39612635_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39612635_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_10" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39612635_1','_39612635_1')" title="Collapse Post">
+        <div id="layer_10_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_10_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39612635_1');" onmouseout="javascript:hideMsgMetadata('_39612635_1');" onfocus="javascript:showMsgMetadata('_39612635_1');" onblur="javascript:hideMsgMetadata('_39612635_1');" title="Post Details">
+            <span id="db_msg_age__39612635_1_md" class="db_msg_metadata">June 25, 2020 7:51:52 PM EDT</span>
+              <span id="db_msg_age__39612635_1" class="db_msg_age" postedtimeinmillis="1593129112000" editedtimeinmillis="1593129112000" postedtimeinbbformat="June 25, 2020 7:51:52 PM EDT" editedtimeinbbformat="June 25, 2020 7:51:52 PM EDT">15 days ago</span>
+            </div>
+
+          <div id="layer_10_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39612635_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20985191_1?ts=1594253487000">
+          
+  
+              Vijaya Cherukuri
+      
+  </span>
+</span>
+
+<span id="layer_10_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_10_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_10_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39612635_1">Text mining in Uncarnate Lyrics</span>
+            <span id="attachmentIndicator__39612635_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39612635_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39612635_1" onclick="javascript:toggleMessageDisplay(event, '_39612635_1','_39612635_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39612635_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39612635_1' )">Collapse</a></div>
+
+      </div><div id="message__39612635_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39612635_1_md" totalviewcount="6" yourviewcount="1">Total views: 6 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>There are some great tutorials to learn text mining. I found these 2 resources to be helpful in understanding the text mining and learn text mining easily.</p> 
+   <p>https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908</p> 
+   <p>https://medium.com/towards-artificial-intelligence/text-mining-in-python-steps-and-examples-78b3f8fd913b</p> 
+   <p>I like this Uncarnate_lyrics workbook, it gives a detailed explanation how to do text mining, do some exploratory analysis using good visualizations and finally the word count to determine which words are mostly used.</p> 
+   <p>Here is the workbook : https://github.com/adam-ra/text-mining-exercises/blob/master/Uncarnate_lyrics_analysis.ipynb</p> 
+   <p>In this workbook if they provide more details by providing some bar graphs to identify the top 10 words used in the lyrics.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39612635_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39612635_1', replyUrl+'_39612635_1', $('_39612635_1') )">Reply</a>
+        <a id="quote__39612635_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39612635_1', replyUrl+'_39612635_1&amp;quote=true', $('_39612635_1'), false, true )">Quote</a>
+        <a id="mail__39612635_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39612635_1&amp;nav=db_thread_list_entry&amp;thread_id=39612635&amp;nav=db_thread_list_entry&amp;user_id=_20985191_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_10_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39640793_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_10_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39640793_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39640793_1" title="Priya Shaji (RE: Text mining in Uncarnate Lyrics)">
+    </div>
+
+    <div id="layer_10_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39640793_1')" role="button" id="_39640793_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_10_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39640793_1')" role="button" id="_39640793_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39640793_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_10_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39612635_1','_39640793_1')" title="Collapse Post">
+        <div id="layer_10_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_10_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39640793_1');" onmouseout="javascript:hideMsgMetadata('_39640793_1');" onfocus="javascript:showMsgMetadata('_39640793_1');" onblur="javascript:hideMsgMetadata('_39640793_1');" title="Post Details">
+            <span id="db_msg_age__39640793_1_md" class="db_msg_metadata">June 27, 2020 9:09:27 PM EDT</span>
+              <span id="db_msg_age__39640793_1" class="db_msg_age" postedtimeinmillis="1593306567000" editedtimeinmillis="1593306567000" postedtimeinbbformat="June 27, 2020 9:09:27 PM EDT" editedtimeinbbformat="June 27, 2020 9:09:27 PM EDT">13 days ago</span>
+            </div>
+
+          <div id="layer_10_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39612635_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21032053_1?ts=1594479769000">
+          
+  
+              Priya Shaji
+      
+  </span>
+</span>
+
+<span id="layer_10_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_10_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_10_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39640793_1">RE: Text mining in Uncarnate Lyrics</span>
+            <span id="attachmentIndicator__39640793_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39640793_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39640793_1" onclick="javascript:toggleMessageDisplay(event, '_39612635_1','_39640793_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39640793_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39640793_1' )">Collapse</a></div>
+
+      </div><div id="message__39640793_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39640793_1_md" totalviewcount="3" yourviewcount="1">Total views: 3 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>That's an informative notebook,&nbsp;I like the use of &nbsp;log-likelihood ratio which allows to answer the question of&nbsp;how significant is the difference between frequency of a word W in corpora A and B.&nbsp;Seems like interesting metric&nbsp;in text mining.</p> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39640793_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39640793_1', replyUrl+'_39640793_1', $('_39640793_1') )">Reply</a>
+        <a id="quote__39640793_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39640793_1', replyUrl+'_39640793_1&amp;quote=true', $('_39640793_1'), false, true )">Quote</a>
+        <a id="mail__39640793_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39640793_1&amp;nav=db_thread_list_entry&amp;thread_id=39612635&amp;nav=db_thread_list_entry&amp;user_id=_21032053_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_10_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

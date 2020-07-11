@@ -1,0 +1,338 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39484577_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_10_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39484577_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39484577_1" title="Sheryl Piechocki (LinkedIn)">
+    </div>
+
+    <div id="layer_10_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39484577_1')" role="button" id="_39484577_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_10_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39484577_1')" role="button" id="_39484577_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39484577_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_10" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39484577_1','_39484577_1')" title="Collapse Post">
+        <div id="layer_10_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_10_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39484577_1');" onmouseout="javascript:hideMsgMetadata('_39484577_1');" onfocus="javascript:showMsgMetadata('_39484577_1');" onblur="javascript:hideMsgMetadata('_39484577_1');" title="Post Details">
+            <span id="db_msg_age__39484577_1_md" class="db_msg_metadata">June 18, 2020 4:43:19 PM EDT</span>
+              <span id="db_msg_age__39484577_1" class="db_msg_age" postedtimeinmillis="1592512999000" editedtimeinmillis="1592512999000" postedtimeinbbformat="June 18, 2020 4:43:19 PM EDT" editedtimeinbbformat="June 18, 2020 4:43:19 PM EDT">22 days ago</span>
+            </div>
+
+          <div id="layer_10_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39484577_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21018202_1?ts=1594344549000">
+          
+  
+              Sheryl Piechocki
+      
+  </span>
+</span>
+
+<span id="layer_10_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_10_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_10_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39484577_1">LinkedIn</span>
+            <span id="attachmentIndicator__39484577_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39484577_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39484577_1" onclick="javascript:toggleMessageDisplay(event, '_39484577_1','_39484577_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39484577_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39484577_1' )">Collapse</a></div>
+
+      </div><div id="message__39484577_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39484577_1_md" totalviewcount="11" yourviewcount="1">Total views: 11 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p><span style="color: rgb(0,0,0);font-family: &quot;Open Sans&quot; , sans-serif;font-size: 13.0px;font-style: normal;font-weight: 400;letter-spacing: normal;orphans: 2;text-indent: 0.0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0.0px;">In 2015,&nbsp;</span>LinkedIn<span style="color: rgb(0,0,0);font-family: &quot;Open Sans&quot; , sans-serif;font-size: 13.0px;font-style: normal;font-weight: 400;letter-spacing: normal;orphans: 2;text-indent: 0.0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0.0px;">&nbsp;restricted some of their public&nbsp;</span>APIs<span style="color: rgb(0,0,0);font-family: &quot;Open Sans&quot; , sans-serif;font-size: 13.0px;font-style: normal;font-weight: 400;letter-spacing: normal;orphans: 2;text-indent: 0.0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0.0px;">&nbsp;accessibility to only partners of&nbsp;</span>LinkedIn<span style="color: rgb(0,0,0);font-family: &quot;Open Sans&quot; , sans-serif;font-size: 13.0px;font-style: normal;font-weight: 400;letter-spacing: normal;orphans: 2;text-indent: 0.0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0.0px;">&nbsp;(e.g.&nbsp;</span>Samsung<span style="color: rgb(0,0,0);font-family: &quot;Open Sans&quot; , sans-serif;font-size: 13.0px;font-style: normal;font-weight: 400;letter-spacing: normal;orphans: 2;text-indent: 0.0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0.0px;">,&nbsp;</span>Evernote<span style="color: rgb(0,0,0);font-family: &quot;Open Sans&quot; , sans-serif;font-size: 13.0px;font-style: normal;font-weight: 400;letter-spacing: normal;orphans: 2;text-indent: 0.0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0.0px;">).&nbsp; The company said restrictions were put in place because not all the applications being developed by third parties were providing value.&nbsp; The connections, groups and people search&nbsp;</span>APIs<span style="color: rgb(0,0,0);font-family: &quot;Open Sans&quot; , sans-serif;font-size: 13.0px;font-style: normal;font-weight: 400;letter-spacing: normal;orphans: 2;text-indent: 0.0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0.0px;">&nbsp;would no longer be available to non-partner developers.</span>&nbsp; &nbsp;In addition, permissions were put in place to restrict access to some of the APIs to only administrators or to require LinkedIn approval.</p> 
+   <p>Many third-party developers that had LinkedIn data integrated&nbsp;were affected by this change.&nbsp; Some of them were job board apps and apps that showed users their network.&nbsp; Not having access to the connections API greatly affects any network analysis.&nbsp;&nbsp;</p> 
+   <p>By restricting access to this data, more traffic will go through LinkedIn or its partners thus increasing potential ad revenue.</p> 
+   <p><a href="https://venturebeat.com/2015/02/12/linkedin-revamps-its-developer-program-to-focus-on-partnerships-will-limit-its-apis-on-may-12-2015/">https://venturebeat.com/2015/02/12/linkedin-revamps-its-developer-program-to-focus-on-partnerships-will-limit-its-apis-on-may-12-2015/</a></p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39484577_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39484577_1', replyUrl+'_39484577_1', $('_39484577_1') )">Reply</a>
+        <a id="quote__39484577_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39484577_1', replyUrl+'_39484577_1&amp;quote=true', $('_39484577_1'), false, true )">Quote</a>
+        <a id="mail__39484577_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39484577_1&amp;nav=db_thread_list_entry&amp;thread_id=39484577&amp;nav=db_thread_list_entry&amp;user_id=_21018202_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_10_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39498592_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_10_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39498592_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39498592_1" title="Zachary Alexander (RE: LinkedIn)">
+    </div>
+
+    <div id="layer_10_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39498592_1')" role="button" id="_39498592_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_10_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39498592_1')" role="button" id="_39498592_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39498592_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_10_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39484577_1','_39498592_1')" title="Collapse Post">
+        <div id="layer_10_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_10_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39498592_1');" onmouseout="javascript:hideMsgMetadata('_39498592_1');" onfocus="javascript:showMsgMetadata('_39498592_1');" onblur="javascript:hideMsgMetadata('_39498592_1');" title="Post Details">
+            <span id="db_msg_age__39498592_1_md" class="db_msg_metadata">June 19, 2020 1:23:01 PM EDT</span>
+              <span id="db_msg_age__39498592_1" class="db_msg_age" postedtimeinmillis="1592587381000" editedtimeinmillis="1592587381000" postedtimeinbbformat="June 19, 2020 1:23:01 PM EDT" editedtimeinbbformat="June 19, 2020 1:23:01 PM EDT">21 days ago</span>
+            </div>
+
+          <div id="layer_10_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39484577_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21117111_1?ts=1594417828000">
+          
+  
+              Zachary Alexander
+      
+  </span>
+</span>
+
+<span id="layer_10_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_10_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_10_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39498592_1">RE: LinkedIn</span>
+            <span id="attachmentIndicator__39498592_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39498592_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39498592_1" onclick="javascript:toggleMessageDisplay(event, '_39484577_1','_39498592_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39498592_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39498592_1' )">Collapse</a></div>
+
+      </div><div id="message__39498592_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39498592_1_md" totalviewcount="12" yourviewcount="1">Total views: 12 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Thanks for posting this,&nbsp;Sheryl -- your points made me think about the ramifications this may have for access to data in the future.&nbsp;As an aside,&nbsp;I'm a strong proponent for broader privacy protections for users, but API restrictions such as these could also lead to negative consequences of allowing a few large tech companies (i.e. LinkedIn, Facebook, etc.), harnessing all of the individual data capital. As discussions develop about one's data being an instrumental piece of&nbsp;their identity in the future, it'll be interesting to see how this all plays out! Anyways, appreciated your post!</p> 
+   <br> 
+   <p>Best,</p> 
+   <p>Zach</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39498592_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39498592_1', replyUrl+'_39498592_1', $('_39498592_1') )">Reply</a>
+        <a id="quote__39498592_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39498592_1', replyUrl+'_39498592_1&amp;quote=true', $('_39498592_1'), false, true )">Quote</a>
+        <a id="mail__39498592_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39498592_1&amp;nav=db_thread_list_entry&amp;thread_id=39484577&amp;nav=db_thread_list_entry&amp;user_id=_21117111_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_10_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div><div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39585106_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unreadmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_10_1_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39585106_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39585106_1" title="Murat Akyildirim (RE: LinkedIn)">
+    </div>
+
+    <div id="layer_10_1_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Read</div>
+      <a href="javascript:toggleReadByIcon('_39585106_1')" role="button" id="_39585106_1_readTogIconLink" class=" unreadmsg " title="Mark as Read"><span class="hideoff">Mark as Read</span></a>
+      </div>
+
+      <span id="layer_10_1_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39585106_1')" role="button" id="_39585106_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39585106_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_10_1" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39484577_1','_39585106_1')" title="Collapse Post">
+        <div id="layer_10_1_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_10_1_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39585106_1');" onmouseout="javascript:hideMsgMetadata('_39585106_1');" onfocus="javascript:showMsgMetadata('_39585106_1');" onblur="javascript:hideMsgMetadata('_39585106_1');" title="Post Details">
+            <span id="db_msg_age__39585106_1_md" class="db_msg_metadata">June 24, 2020 2:19:26 PM EDT</span>
+              <span id="db_msg_age__39585106_1" class="db_msg_age" postedtimeinmillis="1593022766000" editedtimeinmillis="1593022766000" postedtimeinbbformat="June 24, 2020 2:19:26 PM EDT" editedtimeinbbformat="June 24, 2020 2:19:26 PM EDT">16 days ago</span>
+            </div>
+
+          <div id="layer_10_1_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39484577_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21114817_1?ts=1594411546000">
+          
+  
+              Murat Akyildirim
+      
+  </span>
+</span>
+
+<span id="layer_10_1_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_10_1_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_10_1_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39585106_1">RE: LinkedIn</span>
+            <span id="attachmentIndicator__39585106_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39585106_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39585106_1" onclick="javascript:toggleMessageDisplay(event, '_39484577_1','_39585106_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39585106_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39585106_1' )">Collapse</a></div>
+
+      </div><div id="message__39585106_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39585106_1_md" totalviewcount="5" yourviewcount="1">Total views: 5 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>I believe since the restriction of the use of the api, some developers scrape linkein profiles and connections in order to access the data. (Regardless of the data being behind the login) I think stricter data privacy rules are ahead of us. Thank you for sharing!</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39585106_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39585106_1', replyUrl+'_39585106_1', $('_39585106_1') )">Reply</a>
+        <a id="quote__39585106_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39585106_1', replyUrl+'_39585106_1&amp;quote=true', $('_39585106_1'), false, true )">Quote</a>
+        <a id="mail__39585106_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39585106_1&amp;nav=db_thread_list_entry&amp;thread_id=39484577&amp;nav=db_thread_list_entry&amp;user_id=_21114817_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_10_1_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

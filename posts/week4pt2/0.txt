@@ -1,0 +1,113 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39767463_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_19_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39767463_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39767463_1" title="Simon Ustoyev (LDA on the Texts of Harry Potter)">
+    </div>
+
+    <div id="layer_19_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39767463_1')" role="button" id="_39767463_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_19_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39767463_1')" role="button" id="_39767463_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39767463_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_19" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39767463_1','_39767463_1')" title="Collapse Post">
+        <div id="layer_19_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_19_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39767463_1');" onmouseout="javascript:hideMsgMetadata('_39767463_1');" onfocus="javascript:showMsgMetadata('_39767463_1');" onblur="javascript:hideMsgMetadata('_39767463_1');" title="Post Details">
+            <span id="db_msg_age__39767463_1_md" class="db_msg_metadata">July 6, 2020 12:26:23 AM EDT</span>
+              <span id="db_msg_age__39767463_1" class="db_msg_age" postedtimeinmillis="1594009583000" editedtimeinmillis="1594009583000" postedtimeinbbformat="July 6, 2020 12:26:23 AM EDT" editedtimeinbbformat="July 6, 2020 12:26:23 AM EDT">5 days ago</span>
+            </div>
+
+          <div id="layer_19_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39767463_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20873219_1?ts=1594415287000">
+          
+  
+              Simon Ustoyev
+      
+  </span>
+</span>
+
+<span id="layer_19_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_19_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_19_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39767463_1">LDA on the Texts of Harry Potter</span>
+            <span id="attachmentIndicator__39767463_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39767463_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39767463_1" onclick="javascript:toggleMessageDisplay(event, '_39767463_1','_39767463_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39767463_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39767463_1' )">Collapse</a></div>
+
+      </div><div id="message__39767463_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39767463_1_md" totalviewcount="3" yourviewcount="1">Total views: 3 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p style="margin: 0.0in;margin-left: 0.375in;font-family: Calibri;font-size: 11.0pt;">I found a good introduction on LDA Topic Modeling in this article (<a href="https://towardsdatascience.com/basic-nlp-on-the-texts-of-harry-potter-topic-modeling-with-latent-dirichlet-allocation-f3c00f77b0f5">https://towardsdatascience.com/basic-nlp-on-the-texts-of-harry-potter-topic-modeling-with-latent-dirichlet-allocation-f3c00f77b0f5</a>), where the text consists of all 7 books (192 chapters) of Harry Potter series.&nbsp; The article refers to a Python file on Github, which I think can easily be done on IPython Notebook.&nbsp; I like how the author intuitively explained the topic and presented nice graphs and how to choose an optimal number of topics.&nbsp; It would’ve been nice if the author expanded more on how to make use of this analysis to help him understand the books better, since he didn’t read or watch any Harry Potter movies before that.&nbsp; This article came up under the list of NLP topics in <a href="https://towardsdatascience.com/">https://towardsdatascience.com/</a> website (<a href="https://towardsdatascience.com/tagged/nlp">https://towardsdatascience.com/tagged/nlp</a>).</p> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39767463_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39767463_1', replyUrl+'_39767463_1', $('_39767463_1') )">Reply</a>
+        <a id="quote__39767463_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39767463_1', replyUrl+'_39767463_1&amp;quote=true', $('_39767463_1'), false, true )">Quote</a>
+        <a id="mail__39767463_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39767463_1&amp;nav=db_thread_list_entry&amp;thread_id=39767463&amp;nav=db_thread_list_entry&amp;user_id=_20873219_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_19_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>

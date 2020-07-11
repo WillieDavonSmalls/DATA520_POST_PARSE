@@ -1,0 +1,225 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39617959_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_14_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39617959_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39617959_1" title="Habib Khan (Social media)">
+    </div>
+
+    <div id="layer_14_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39617959_1')" role="button" id="_39617959_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_14_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39617959_1')" role="button" id="_39617959_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39617959_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_14" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39617959_1','_39617959_1')" title="Collapse Post">
+        <div id="layer_14_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_14_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39617959_1');" onmouseout="javascript:hideMsgMetadata('_39617959_1');" onfocus="javascript:showMsgMetadata('_39617959_1');" onblur="javascript:hideMsgMetadata('_39617959_1');" title="Post Details">
+            <span id="db_msg_age__39617959_1_md" class="db_msg_metadata">June 25, 2020 11:43:18 PM EDT</span>
+              <span id="db_msg_age__39617959_1" class="db_msg_age" postedtimeinmillis="1593142998000" editedtimeinmillis="1593142998000" postedtimeinbbformat="June 25, 2020 11:43:18 PM EDT" editedtimeinbbformat="June 25, 2020 11:43:18 PM EDT">15 days ago</span>
+            </div>
+
+          <div id="layer_14_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39617959_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21031651_1?ts=1594441632000">
+          
+  
+              Habib Khan
+      
+  </span>
+</span>
+
+<span id="layer_14_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_14_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_14_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39617959_1">Social media</span>
+            <span id="attachmentIndicator__39617959_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39617959_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39617959_1" onclick="javascript:toggleMessageDisplay(event, '_39617959_1','_39617959_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39617959_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39617959_1' )">Collapse</a></div>
+
+      </div><div id="message__39617959_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39617959_1_md" totalviewcount="9" yourviewcount="1">Total views: 9 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>I think of social media such as facebook, twitter, instagram, etc where we can use network analysis to create clusters of group that link together and use text processing as well from their posts or tweets. I found this article quite useful for usage of network analysis and text processing in social media.</p> 
+   <p>https://www.researchgate.net/publication/226416001_Text_Mining_in_Social_Networks</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39617959_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39617959_1', replyUrl+'_39617959_1', $('_39617959_1') )">Reply</a>
+        <a id="quote__39617959_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39617959_1', replyUrl+'_39617959_1&amp;quote=true', $('_39617959_1'), false, true )">Quote</a>
+        <a id="mail__39617959_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39617959_1&amp;nav=db_thread_list_entry&amp;thread_id=39617959&amp;nav=db_thread_list_entry&amp;user_id=_21031651_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_14_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39640658_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_14_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39640658_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39640658_1" title="Priya Shaji (RE: Social media)">
+    </div>
+
+    <div id="layer_14_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39640658_1')" role="button" id="_39640658_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_14_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39640658_1')" role="button" id="_39640658_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39640658_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_14_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39617959_1','_39640658_1')" title="Collapse Post">
+        <div id="layer_14_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_14_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39640658_1');" onmouseout="javascript:hideMsgMetadata('_39640658_1');" onfocus="javascript:showMsgMetadata('_39640658_1');" onblur="javascript:hideMsgMetadata('_39640658_1');" title="Post Details">
+            <span id="db_msg_age__39640658_1_md" class="db_msg_metadata">June 27, 2020 8:58:22 PM EDT</span>
+              <span id="db_msg_age__39640658_1" class="db_msg_age" postedtimeinmillis="1593305902000" editedtimeinmillis="1593305902000" postedtimeinbbformat="June 27, 2020 8:58:22 PM EDT" editedtimeinbbformat="June 27, 2020 8:58:22 PM EDT">13 days ago</span>
+            </div>
+
+          <div id="layer_14_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39617959_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21032053_1?ts=1594410291000">
+          
+  
+              Priya Shaji
+      
+  </span>
+</span>
+
+<span id="layer_14_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_14_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_14_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39640658_1">RE: Social media</span>
+            <span id="attachmentIndicator__39640658_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39640658_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39640658_1" onclick="javascript:toggleMessageDisplay(event, '_39617959_1','_39640658_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39640658_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39640658_1' )">Collapse</a></div>
+
+      </div><div id="message__39640658_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39640658_1_md" totalviewcount="7" yourviewcount="1">Total views: 7 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p><span style="font-family: &quot;times new roman&quot; , times;font-size: medium;">Nice article Habib, seems like&nbsp;using a combination of linkage and content information for mining purposes would lead better results.</span></p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39640658_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39640658_1', replyUrl+'_39640658_1', $('_39640658_1') )">Reply</a>
+        <a id="quote__39640658_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39640658_1', replyUrl+'_39640658_1&amp;quote=true', $('_39640658_1'), false, true )">Quote</a>
+        <a id="mail__39640658_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39640658_1&amp;nav=db_thread_list_entry&amp;thread_id=39617959&amp;nav=db_thread_list_entry&amp;user_id=_21032053_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_14_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

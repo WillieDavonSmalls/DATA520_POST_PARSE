@@ -1,0 +1,113 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39614118_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_12_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39614118_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39614118_1" title="Elina Azrilyan (Book recommendations)">
+    </div>
+
+    <div id="layer_12_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39614118_1')" role="button" id="_39614118_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_12_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39614118_1')" role="button" id="_39614118_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39614118_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_12" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39614118_1','_39614118_1')" title="Collapse Post">
+        <div id="layer_12_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_12_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39614118_1');" onmouseout="javascript:hideMsgMetadata('_39614118_1');" onfocus="javascript:showMsgMetadata('_39614118_1');" onblur="javascript:hideMsgMetadata('_39614118_1');" title="Post Details">
+            <span id="db_msg_age__39614118_1_md" class="db_msg_metadata">June 25, 2020 9:18:36 PM EDT</span>
+              <span id="db_msg_age__39614118_1" class="db_msg_age" postedtimeinmillis="1593134316000" editedtimeinmillis="1593134316000" postedtimeinbbformat="June 25, 2020 9:18:36 PM EDT" editedtimeinbbformat="June 25, 2020 9:18:36 PM EDT">15 days ago</span>
+            </div>
+
+          <div id="layer_12_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39614118_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20994607_1?ts=1594425264000">
+          
+  
+              Elina Azrilyan
+      
+  </span>
+</span>
+
+<span id="layer_12_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_12_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_12_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39614118_1">Book recommendations</span>
+            <span id="attachmentIndicator__39614118_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39614118_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39614118_1" onclick="javascript:toggleMessageDisplay(event, '_39614118_1','_39614118_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39614118_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39614118_1' )">Collapse</a></div>
+
+      </div><div id="message__39614118_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39614118_1_md" totalviewcount="6" yourviewcount="1">Total views: 6 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>I am thinking it would be beneficial to combine network data analysis with text processing to improve book recommendations. We can use text processing with Goodreads API to obtain some key “tags” from book reviews and see if there is a connection between people in the same social network and the books they read and enjoy. Maybe the nodes with high influence and high degree centrality recommend books they like to their peers and that can help with marketing strategy. New book releases can target those individuals for advertising and use the key words and genres that were shown to be significant for that particular network. Data sources would be Goodreads, Facebook, Twitter APIs and the business goals would be marketing and assistance with identifying popular publishing trends.</p> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39614118_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39614118_1', replyUrl+'_39614118_1', $('_39614118_1') )">Reply</a>
+        <a id="quote__39614118_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39614118_1', replyUrl+'_39614118_1&amp;quote=true', $('_39614118_1'), false, true )">Quote</a>
+        <a id="mail__39614118_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39614118_1&amp;nav=db_thread_list_entry&amp;thread_id=39614118&amp;nav=db_thread_list_entry&amp;user_id=_20994607_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_12_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>

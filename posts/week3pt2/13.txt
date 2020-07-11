@@ -1,0 +1,337 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39503181_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_14_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39503181_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39503181_1" title="Vijaya Cherukuri (Provider In/Out network data accessibility)">
+    </div>
+
+    <div id="layer_14_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39503181_1')" role="button" id="_39503181_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_14_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39503181_1')" role="button" id="_39503181_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39503181_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_14" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39503181_1','_39503181_1')" title="Collapse Post">
+        <div id="layer_14_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_14_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39503181_1');" onmouseout="javascript:hideMsgMetadata('_39503181_1');" onfocus="javascript:showMsgMetadata('_39503181_1');" onblur="javascript:hideMsgMetadata('_39503181_1');" title="Post Details">
+            <span id="db_msg_age__39503181_1_md" class="db_msg_metadata">June 19, 2020 7:06:23 PM EDT</span>
+              <span id="db_msg_age__39503181_1" class="db_msg_age" postedtimeinmillis="1592607983000" editedtimeinmillis="1592607983000" postedtimeinbbformat="June 19, 2020 7:06:23 PM EDT" editedtimeinbbformat="June 19, 2020 7:06:23 PM EDT">21 days ago</span>
+            </div>
+
+          <div id="layer_14_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39503181_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20985191_1?ts=1594253487000">
+          
+  
+              Vijaya Cherukuri
+      
+  </span>
+</span>
+
+<span id="layer_14_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_14_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_14_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39503181_1">Provider In/Out network data accessibility</span>
+            <span id="attachmentIndicator__39503181_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39503181_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39503181_1" onclick="javascript:toggleMessageDisplay(event, '_39503181_1','_39503181_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39503181_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39503181_1' )">Collapse</a></div>
+
+      </div><div id="message__39503181_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39503181_1_md" totalviewcount="6" yourviewcount="1">Total views: 6 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p><strong>Provider In/Out network data accessibility :</strong></p> 
+   <p>Whenever there is a need to visit hospitals or doctors we might take an appointment and go to the hospital/physician.We dont know wheter the doctor/physician is IN/Out network to the health insurance.</p> 
+   <p>Health insurance companies charges seprate maximum out of pocket charges and diagnosis charges for Out network when compared to IN network doctors/hospitals/physicians.</p> 
+   <p>We have lack of data availability to check whether the doctors/hospitals/physicians is IN network or not. If we have ability to see this data then we can choose the nearest IN network physician and get the medication.Good example is if IN network maximum out of pocket is 3k then for OUT netowrk it will be around 6K.</p> 
+   <p>All of us will be benefitted if we have the availability of data to check who is IN network or not.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39503181_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39503181_1', replyUrl+'_39503181_1', $('_39503181_1') )">Reply</a>
+        <a id="quote__39503181_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39503181_1', replyUrl+'_39503181_1&amp;quote=true', $('_39503181_1'), false, true )">Quote</a>
+        <a id="mail__39503181_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39503181_1&amp;nav=db_thread_list_entry&amp;thread_id=39503181&amp;nav=db_thread_list_entry&amp;user_id=_20985191_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_14_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39517479_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_14_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39517479_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39517479_1" title="Sheryl Piechocki (RE: Provider In/Out network data accessibility)">
+    </div>
+
+    <div id="layer_14_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39517479_1')" role="button" id="_39517479_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_14_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39517479_1')" role="button" id="_39517479_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39517479_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_14_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39503181_1','_39517479_1')" title="Collapse Post">
+        <div id="layer_14_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_14_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39517479_1');" onmouseout="javascript:hideMsgMetadata('_39517479_1');" onfocus="javascript:showMsgMetadata('_39517479_1');" onblur="javascript:hideMsgMetadata('_39517479_1');" title="Post Details">
+            <span id="db_msg_age__39517479_1_md" class="db_msg_metadata">June 20, 2020 10:23:44 PM EDT</span>
+              <span id="db_msg_age__39517479_1" class="db_msg_age" postedtimeinmillis="1592706224000" editedtimeinmillis="1592706224000" postedtimeinbbformat="June 20, 2020 10:23:44 PM EDT" editedtimeinbbformat="June 20, 2020 10:23:44 PM EDT">20 days ago</span>
+            </div>
+
+          <div id="layer_14_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39503181_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21018202_1?ts=1594344549000">
+          
+  
+              Sheryl Piechocki
+      
+  </span>
+</span>
+
+<span id="layer_14_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_14_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_14_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39517479_1">RE: Provider In/Out network data accessibility</span>
+            <span id="attachmentIndicator__39517479_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39517479_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39517479_1" onclick="javascript:toggleMessageDisplay(event, '_39503181_1','_39517479_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39517479_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39517479_1' )">Collapse</a></div>
+
+      </div><div id="message__39517479_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39517479_1_md" totalviewcount="6" yourviewcount="1">Total views: 6 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Vijaya,</p> 
+   <p>Transparency is needed in all aspects of the health care system.&nbsp; One never knows what their bill will be if they go to the doctor.&nbsp; We cannot shop around.&nbsp; The ability to compare provider costs would greatly benefit the consumers.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39517479_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39517479_1', replyUrl+'_39517479_1', $('_39517479_1') )">Reply</a>
+        <a id="quote__39517479_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39517479_1', replyUrl+'_39517479_1&amp;quote=true', $('_39517479_1'), false, true )">Quote</a>
+        <a id="mail__39517479_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39517479_1&amp;nav=db_thread_list_entry&amp;thread_id=39503181&amp;nav=db_thread_list_entry&amp;user_id=_21018202_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_14_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div><div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39554643_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unreadmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_14_1_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39554643_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39554643_1" title="Simon Ustoyev (RE: Provider In/Out network data accessibility)">
+    </div>
+
+    <div id="layer_14_1_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Read</div>
+      <a href="javascript:toggleReadByIcon('_39554643_1')" role="button" id="_39554643_1_readTogIconLink" class=" unreadmsg " title="Mark as Read"><span class="hideoff">Mark as Read</span></a>
+      </div>
+
+      <span id="layer_14_1_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39554643_1')" role="button" id="_39554643_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39554643_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_14_1" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39503181_1','_39554643_1')" title="Collapse Post">
+        <div id="layer_14_1_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_14_1_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39554643_1');" onmouseout="javascript:hideMsgMetadata('_39554643_1');" onfocus="javascript:showMsgMetadata('_39554643_1');" onblur="javascript:hideMsgMetadata('_39554643_1');" title="Post Details">
+            <span id="db_msg_age__39554643_1_md" class="db_msg_metadata">June 22, 2020 11:51:33 PM EDT</span>
+              <span id="db_msg_age__39554643_1" class="db_msg_age" postedtimeinmillis="1592884293000" editedtimeinmillis="1592884293000" postedtimeinbbformat="June 22, 2020 11:51:33 PM EDT" editedtimeinbbformat="June 22, 2020 11:51:33 PM EDT">18 days ago</span>
+            </div>
+
+          <div id="layer_14_1_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39503181_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20873219_1?ts=1594415287000">
+          
+  
+              Simon Ustoyev
+      
+  </span>
+</span>
+
+<span id="layer_14_1_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_14_1_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_14_1_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39554643_1">RE: Provider In/Out network data accessibility</span>
+            <span id="attachmentIndicator__39554643_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39554643_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39554643_1" onclick="javascript:toggleMessageDisplay(event, '_39503181_1','_39554643_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39554643_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39554643_1' )">Collapse</a></div>
+
+      </div><div id="message__39554643_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39554643_1_md" totalviewcount="4" yourviewcount="1">Total views: 4 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>The cost information, I would think, is not available as it depends on your medical case or situation.&nbsp; However, In/Out of network data and co-pay data should be available through the insurance provider.&nbsp; Perhaps such data should be more readily available and accessible in a convenient UI or API form.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39554643_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39554643_1', replyUrl+'_39554643_1', $('_39554643_1') )">Reply</a>
+        <a id="quote__39554643_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39554643_1', replyUrl+'_39554643_1&amp;quote=true', $('_39554643_1'), false, true )">Quote</a>
+        <a id="mail__39554643_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39554643_1&amp;nav=db_thread_list_entry&amp;thread_id=39503181&amp;nav=db_thread_list_entry&amp;user_id=_20873219_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_14_1_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

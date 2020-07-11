@@ -1,0 +1,295 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39458792_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_4_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39458792_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39458792_1" title="Amber Ferger (Flight Prices - Skyscanner)">
+    </div>
+
+    <div id="layer_4_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39458792_1')" role="button" id="_39458792_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_4_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39458792_1')" role="button" id="_39458792_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39458792_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_4" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39458792_1','_39458792_1')" title="Collapse Post">
+        <div id="layer_4_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_4_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39458792_1');" onmouseout="javascript:hideMsgMetadata('_39458792_1');" onfocus="javascript:showMsgMetadata('_39458792_1');" onblur="javascript:hideMsgMetadata('_39458792_1');" title="Post Details">
+            <span id="db_msg_age__39458792_1_md" class="db_msg_metadata">June 17, 2020 11:05:17 AM EDT</span>
+              <span id="db_msg_age__39458792_1" class="db_msg_age" postedtimeinmillis="1592406317000" editedtimeinmillis="1592406317000" postedtimeinbbformat="June 17, 2020 11:05:17 AM EDT" editedtimeinbbformat="June 17, 2020 11:05:17 AM EDT">23 days ago</span>
+            </div>
+
+          <div id="layer_4_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39458792_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21114231_1?ts=1594294964000">
+          
+  
+              Amber Ferger
+      
+  </span>
+</span>
+
+<span id="layer_4_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_4_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_4_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39458792_1">Flight Prices - Skyscanner</span>
+            <span id="attachmentIndicator__39458792_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39458792_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39458792_1" onclick="javascript:toggleMessageDisplay(event, '_39458792_1','_39458792_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39458792_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39458792_1' )">Collapse</a></div>
+
+      </div><div id="message__39458792_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39458792_1_md" totalviewcount="15" yourviewcount="1">Total views: 15 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Access to travel information has increased drastically over the past decade or so.&nbsp;With so many airlines to choose from, some companies have found success in providing a one-stop-shop for flight information across airlines. This allows users to more easily compare prices, flight times, and durations when making their travel decisions. Some companies, like Skyscanner, have taken this a step further by providing developers with access to this information through a RESTful&nbsp;API. The company appears to be marketing to website owners -- a quick look at their <a href="https://www.partners.skyscanner.net/affiliates/travel-apis" target="_blank" rel="noreferrer noopener">website </a>specifically markets the use of the API to build websites allowing users to search for information themselves.</p> 
+   <p>Any company looking to provide the search functionality to their users (ex: travel sites) can benefit directly from this information. Rather than having the user go to another site to compare flight information and prices, they can view everything in one spot. This provides for a seamless user experience and might influence a customer's decision to use the site again.&nbsp;</p> 
+   <p>Unfortunately, any business that utilizes this information as a main component of their website is at the hands of skyscanner. Should skyscanner&nbsp;remove access to the information, an entire component of a company's business model might be removed. This is similar to what happened with Google's&nbsp;deprecation of the Google Flights API...many users that were dependent on this information were left scrambling trying to find an alternative solution.&nbsp;</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39458792_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39458792_1', replyUrl+'_39458792_1', $('_39458792_1') )">Reply</a>
+        <a id="quote__39458792_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39458792_1', replyUrl+'_39458792_1&amp;quote=true', $('_39458792_1'), false, true )">Quote</a>
+        <a id="mail__39458792_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39458792_1&amp;nav=db_thread_list_entry&amp;thread_id=39458792&amp;nav=db_thread_list_entry&amp;user_id=_21114231_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_4_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39470651_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unreadmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_4_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39470651_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39470651_1" title="Ken Popkin (RE: Flight Prices - Skyscanner)">
+    </div>
+
+    <div id="layer_4_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Read</div>
+      <a href="javascript:toggleReadByIcon('_39470651_1')" role="button" id="_39470651_1_readTogIconLink" class=" unreadmsg " title="Mark as Read"><span class="hideoff">Mark as Read</span></a>
+      </div>
+
+      <span id="layer_4_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39470651_1')" role="button" id="_39470651_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39470651_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_4_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39458792_1','_39470651_1')" title="Collapse Post">
+        <div id="layer_4_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_4_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39470651_1');" onmouseout="javascript:hideMsgMetadata('_39470651_1');" onfocus="javascript:showMsgMetadata('_39470651_1');" onblur="javascript:hideMsgMetadata('_39470651_1');" title="Post Details">
+            <span id="db_msg_age__39470651_1_md" class="db_msg_metadata">June 17, 2020 9:27:25 PM EDT</span>
+              <span id="db_msg_age__39470651_1" class="db_msg_age" postedtimeinmillis="1592443645000" editedtimeinmillis="1592443645000" postedtimeinbbformat="June 17, 2020 9:27:25 PM EDT" editedtimeinbbformat="June 17, 2020 9:27:25 PM EDT">23 days ago</span>
+            </div>
+
+          <div id="layer_4_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39458792_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21177384_1?ts=1594473477000">
+          
+  
+              Ken Popkin
+      
+  </span>
+</span>
+
+<span id="layer_4_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_4_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_4_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39470651_1">RE: Flight Prices - Skyscanner</span>
+            <span id="attachmentIndicator__39470651_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39470651_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39470651_1" onclick="javascript:toggleMessageDisplay(event, '_39458792_1','_39470651_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39470651_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39470651_1' )">Collapse</a></div>
+
+      </div><div id="message__39470651_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39470651_1_md" totalviewcount="11" yourviewcount="1">Total views: 11 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Good example for this discussion, and your note that any business using this API is at the hands of SkyScanner is definitely a risk worth considering.&nbsp;</p> 
+   <p>I wouldn't expect there to be privacy issues like Facebook has been dealing with.&nbsp; But, I could see SkyScanner make an effort to monetize their API's, at which point the ROI for some businesses would not be high enough to continue using this data.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39470651_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39470651_1', replyUrl+'_39470651_1', $('_39470651_1') )">Reply</a>
+        <a id="quote__39470651_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39470651_1', replyUrl+'_39470651_1&amp;quote=true', $('_39470651_1'), false, true )">Quote</a>
+        <a id="mail__39470651_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39470651_1&amp;nav=db_thread_list_entry&amp;thread_id=39458792&amp;nav=db_thread_list_entry&amp;user_id=_21177384_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_4_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div><div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39471663_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unreadmsg  unflaggedmsg ">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_4_1_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39471663_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39471663_1" title="Elina Azrilyan (RE: Flight Prices - Skyscanner)">
+    </div>
+
+    <div id="layer_4_1_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Read</div>
+      <a href="javascript:toggleReadByIcon('_39471663_1')" role="button" id="_39471663_1_readTogIconLink" class=" unreadmsg " title="Mark as Read"><span class="hideoff">Mark as Read</span></a>
+      </div>
+
+      <span id="layer_4_1_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39471663_1')" role="button" id="_39471663_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39471663_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_4_1" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39458792_1','_39471663_1')" title="Collapse Post">
+        <div id="layer_4_1_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_4_1_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39471663_1');" onmouseout="javascript:hideMsgMetadata('_39471663_1');" onfocus="javascript:showMsgMetadata('_39471663_1');" onblur="javascript:hideMsgMetadata('_39471663_1');" title="Post Details">
+            <span id="db_msg_age__39471663_1_md" class="db_msg_metadata">June 17, 2020 10:07:35 PM EDT</span>
+              <span id="db_msg_age__39471663_1" class="db_msg_age" postedtimeinmillis="1592446055000" editedtimeinmillis="1592446055000" postedtimeinbbformat="June 17, 2020 10:07:35 PM EDT" editedtimeinbbformat="June 17, 2020 10:07:35 PM EDT">23 days ago</span>
+            </div>
+
+          <div id="layer_4_1_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39458792_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20994607_1?ts=1594425264000">
+          
+  
+              Elina Azrilyan
+      
+  </span>
+</span>
+
+<span id="layer_4_1_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_4_1_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_4_1_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39471663_1">RE: Flight Prices - Skyscanner</span>
+            <span id="attachmentIndicator__39471663_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39471663_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39471663_1" onclick="javascript:toggleMessageDisplay(event, '_39458792_1','_39471663_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39471663_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39471663_1' )">Collapse</a></div>
+
+      </div><div id="message__39471663_1" class="dbThreadMessage" style="display: none;">
+        <span class="loadingElipse">
+          Post loading. Refresh the page if the post does not load.</span>
+      </div>
+
+      <a id="layer_4_1_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

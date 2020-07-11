@@ -1,0 +1,400 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39540288_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_1_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39540288_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39540288_1" title="Ken Popkin (Topics and Authors for Book Publishers)">
+    </div>
+
+    <div id="layer_1_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39540288_1')" role="button" id="_39540288_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_1_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39540288_1')" role="button" id="_39540288_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39540288_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_1" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39540288_1','_39540288_1')" title="Collapse Post">
+        <div id="layer_1_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39540288_1');" onmouseout="javascript:hideMsgMetadata('_39540288_1');" onfocus="javascript:showMsgMetadata('_39540288_1');" onblur="javascript:hideMsgMetadata('_39540288_1');" title="Post Details">
+            <span id="db_msg_age__39540288_1_md" class="db_msg_metadata">June 22, 2020 11:30:56 AM EDT</span>
+              <span id="db_msg_age__39540288_1" class="db_msg_age" postedtimeinmillis="1592839856000" editedtimeinmillis="1592839856000" postedtimeinbbformat="June 22, 2020 11:30:56 AM EDT" editedtimeinbbformat="June 22, 2020 11:30:56 AM EDT">18 days ago</span>
+            </div>
+
+          <div id="layer_1_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39540288_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21177384_1?ts=1594473477000">
+          
+  
+              Ken Popkin
+      
+  </span>
+</span>
+
+<span id="layer_1_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_1_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39540288_1">Topics and Authors for Book Publishers</span>
+            <span id="attachmentIndicator__39540288_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39540288_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39540288_1" onclick="javascript:toggleMessageDisplay(event, '_39540288_1','_39540288_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39540288_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39540288_1' )">Collapse</a></div>
+
+      </div><div id="message__39540288_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39540288_1_md" totalviewcount="16" yourviewcount="1">Total views: 16 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <div>
+     A friend of mine is an author and regularly connects with four other authors via social media and occasional lunches.&nbsp; Last week she shared that two other members of the group were both contacted by a publisher and asked if they'd like to write a book for them.&nbsp; I have no idea how the publisher goes about identifying topics, or authors they'd like to have write for them, but here's what it might look like if they chose to do so via network data analysis and text processing...&nbsp; 
+   </div> 
+   <div></div> 
+   <div> 
+    <b>Business Goal:</b> Equip book publishers with a tool/model that enables them to identify topics of high interest to the American people and authors to reach out to write the books. 
+   </div> 
+   <div></div> 
+   <div> 
+    <b>Approach:</b> 
+   </div> 
+   <div>
+     1. Identify topics that are of... 
+   </div> 
+   <blockquote style="padding: 0.0px;margin-top: 0.0px;margin-right: 0.0px;margin-bottom: 0.0px;" dir="ltr"> 
+    <div>
+      highest interest (threshold to-be-determined) across America 
+    </div> 
+    <div>
+      identify if a lot or a little (threshold to-be determined) has been written already about the topic 
+    </div> 
+    <div></div> 
+   </blockquote> 
+   <div>
+     2. Identify authors that... 
+   </div> 
+   <blockquote style="padding: 0.0px;margin-top: 0.0px;margin-right: 0.0px;margin-bottom: 0.0px;" dir="ltr"> 
+    <div>
+      have expertise (criteria to-be-determined) in the topics identified 
+    </div> 
+   </blockquote> 
+   <blockquote style="padding: 0.0px;margin-top: 0.0px;margin-right: 0.0px;margin-bottom: 0.0px;" dir="ltr"> 
+    <div>
+      have an expansive (threshold to-be-determined) social network 
+    </div> 
+   </blockquote> 
+   <div></div> 
+   <div>
+     3. Marry steps 1 and 2 together to identify books to write and authors to write them 
+   </div> 
+   <div></div> 
+   <div> 
+    <b>Potential sources of data:</b> 
+   </div> 
+   <div> 
+    <i>Topics:</i> 
+   </div> 
+   <div>
+     1. Social Media (Facebook, Twitter, Instagram, etc...) posts 
+   </div> 
+   <div>
+     2. Main-stream media headlines and articles 
+   </div> 
+   <div></div> 
+   <div> 
+    <i>Authors:</i> 
+   </div> 
+   <div>
+     3. New York Times and other best seller lists 
+   </div> 
+   <div>
+     4. Amazon ranks books online across categories, so successful authors could be identified 
+   </div> 
+   <div>
+     5. Facebook followers to assess social network 
+   </div> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39540288_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39540288_1', replyUrl+'_39540288_1', $('_39540288_1') )">Reply</a>
+        <a id="quote__39540288_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39540288_1', replyUrl+'_39540288_1&amp;quote=true', $('_39540288_1'), false, true )">Quote</a>
+        <a id="mail__39540288_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39540288_1&amp;nav=db_thread_list_entry&amp;thread_id=39540288&amp;nav=db_thread_list_entry&amp;user_id=_21177384_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_1_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39550682_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_1_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39550682_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39550682_1" title="Amber Ferger (RE: Topics and Authors for Book Publishers)">
+    </div>
+
+    <div id="layer_1_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39550682_1')" role="button" id="_39550682_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_1_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39550682_1')" role="button" id="_39550682_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39550682_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_1_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39540288_1','_39550682_1')" title="Collapse Post">
+        <div id="layer_1_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39550682_1');" onmouseout="javascript:hideMsgMetadata('_39550682_1');" onfocus="javascript:showMsgMetadata('_39550682_1');" onblur="javascript:hideMsgMetadata('_39550682_1');" title="Post Details">
+            <span id="db_msg_age__39550682_1_md" class="db_msg_metadata">June 22, 2020 9:04:12 PM EDT</span>
+              <span id="db_msg_age__39550682_1" class="db_msg_age" postedtimeinmillis="1592874252000" editedtimeinmillis="1592874252000" postedtimeinbbformat="June 22, 2020 9:04:12 PM EDT" editedtimeinbbformat="June 22, 2020 9:04:12 PM EDT">18 days ago</span>
+            </div>
+
+          <div id="layer_1_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39540288_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21114231_1?ts=1594294964000">
+          
+  
+              Amber Ferger
+      
+  </span>
+</span>
+
+<span id="layer_1_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_1_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39550682_1">RE: Topics and Authors for Book Publishers</span>
+            <span id="attachmentIndicator__39550682_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39550682_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39550682_1" onclick="javascript:toggleMessageDisplay(event, '_39540288_1','_39550682_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39550682_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39550682_1' )">Collapse</a></div>
+
+      </div><div id="message__39550682_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39550682_1_md" totalviewcount="12" yourviewcount="1">Total views: 12 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>This is a really interesting convergence of text and social network analytics - one that I would not have thought of! It would be interesting to see how the topics change over time and if there's a relationship between when an author publishes vs when the topic became&nbsp;"relevant". Social media platforms hold a wealth of information about topics of current interest, but they seem to change so often (things going viral), that I could see it being potentially misleading when determining what would be of the most interest to write about. Nice job!</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39550682_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39550682_1', replyUrl+'_39550682_1', $('_39550682_1') )">Reply</a>
+        <a id="quote__39550682_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39550682_1', replyUrl+'_39550682_1&amp;quote=true', $('_39550682_1'), false, true )">Quote</a>
+        <a id="mail__39550682_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39550682_1&amp;nav=db_thread_list_entry&amp;thread_id=39540288&amp;nav=db_thread_list_entry&amp;user_id=_21114231_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_1_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div><div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39576554_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_1_1_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39576554_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39576554_1" title="Steven Ellingson (RE: Topics and Authors for Book Publishers)">
+    </div>
+
+    <div id="layer_1_1_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39576554_1')" role="button" id="_39576554_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_1_1_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39576554_1')" role="button" id="_39576554_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39576554_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_1_1" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39540288_1','_39576554_1')" title="Collapse Post">
+        <div id="layer_1_1_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_1_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39576554_1');" onmouseout="javascript:hideMsgMetadata('_39576554_1');" onfocus="javascript:showMsgMetadata('_39576554_1');" onblur="javascript:hideMsgMetadata('_39576554_1');" title="Post Details">
+            <span id="db_msg_age__39576554_1_md" class="db_msg_metadata">June 23, 2020 11:48:18 PM EDT</span>
+              <span id="db_msg_age__39576554_1" class="db_msg_age" postedtimeinmillis="1592970498000" editedtimeinmillis="1592970498000" postedtimeinbbformat="June 23, 2020 11:48:18 PM EDT" editedtimeinbbformat="June 23, 2020 11:48:18 PM EDT">17 days ago</span>
+            </div>
+
+          <div id="layer_1_1_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39540288_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21124932_1?ts=1594398857000">
+          
+  
+              Steven Ellingson
+      
+  </span>
+</span>
+
+<span id="layer_1_1_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_1_1_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_1_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39576554_1">RE: Topics and Authors for Book Publishers</span>
+            <span id="attachmentIndicator__39576554_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39576554_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39576554_1" onclick="javascript:toggleMessageDisplay(event, '_39540288_1','_39576554_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39576554_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39576554_1' )">Collapse</a></div>
+
+      </div><div id="message__39576554_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39576554_1_md" totalviewcount="7" yourviewcount="1">Total views: 7 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>I think this is a really cool idea Ken.&nbsp;&nbsp;Maybe we could go a step further and create an AI to write the books for us? :)</p> 
+   <p><span style="font-size: 13.0px;"></span></p> 
+   <p><span style="font-size: 13.0px;">I think Amazon Sales could help for step 1 as well as 2.&nbsp; The social media mining could give you an indication of the topic, but an uptick in sales could help to solidfy that a certain idea is ripe for sales in the future.</span></p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39576554_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39576554_1', replyUrl+'_39576554_1', $('_39576554_1') )">Reply</a>
+        <a id="quote__39576554_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39576554_1', replyUrl+'_39576554_1&amp;quote=true', $('_39576554_1'), false, true )">Quote</a>
+        <a id="mail__39576554_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39576554_1&amp;nav=db_thread_list_entry&amp;thread_id=39540288&amp;nav=db_thread_list_entry&amp;user_id=_21124932_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_1_1_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

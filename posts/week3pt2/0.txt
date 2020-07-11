@@ -1,0 +1,503 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39431070_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_1_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39431070_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39431070_1" title="Ken Popkin (Stock Market Data)">
+    </div>
+
+    <div id="layer_1_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39431070_1')" role="button" id="_39431070_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_1_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39431070_1')" role="button" id="_39431070_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39431070_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_1" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39431070_1')" title="Collapse Post">
+        <div id="layer_1_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39431070_1');" onmouseout="javascript:hideMsgMetadata('_39431070_1');" onfocus="javascript:showMsgMetadata('_39431070_1');" onblur="javascript:hideMsgMetadata('_39431070_1');" title="Post Details">
+            <span id="db_msg_age__39431070_1_md" class="db_msg_metadata">June 15, 2020 9:10:24 PM EDT</span>
+              <span id="db_msg_age__39431070_1" class="db_msg_age" postedtimeinmillis="1592269824000" editedtimeinmillis="1592269824000" postedtimeinbbformat="June 15, 2020 9:10:24 PM EDT" editedtimeinbbformat="June 15, 2020 9:10:24 PM EDT">25 days ago</span>
+            </div>
+
+          <div id="layer_1_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39431070_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21177384_1?ts=1594473477000">
+          
+  
+              Ken Popkin
+      
+  </span>
+</span>
+
+<span id="layer_1_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_1_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39431070_1">Stock Market Data</span>
+            <span id="attachmentIndicator__39431070_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39431070_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39431070_1" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39431070_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39431070_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39431070_1' )">Collapse</a></div>
+
+      </div><div id="message__39431070_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39431070_1_md" totalviewcount="25" yourviewcount="9">Total views: 25 (Your views: 9)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>In 2006, I read a book called "Rule 1 Investing" by Phil Towne.&nbsp; In sum, the book shared a value based (think Warren Buffett) approach to find stocks to invest in. I decided to write my own application that would input a large number of stocks, complete my analysis, and provide a recommendation. (I was sure I'd become wealthy <strong>:)</strong></p> 
+   <p>I wrote the application, but when it came time to start analyzing in bulk, I hit a snag.&nbsp; The lowest priced real-time stock prices subscription that I could find would run me a few thousand per year for the raw data I needed. I ended up becoming really good at screen scraping (And in case you're wondering, "Nope, I didn't become wealthy).</p> 
+   <p>This evening, I did a similar search on real-time stock price subscription services. Here's my perception based on a quick review of the search results...</p> 
+   <p>1. there are more companies offering&nbsp;this type of service</p> 
+   <p>2. finding articles comparing stock services is easier, i.e. titles like "Best Free Real-Time Stocks for Day Traders", "API for Free Real-Time Stock Market Data", etc...</p> 
+   <p>3. I looked at prices for three companies promoting real-time stock API's.&nbsp; Two of them where charging several hundred per month (same as my experience in 2006).&nbsp; But, one called <a href="https://www.alphavantage.co/" target="_blank" rel="noreferrer noopener">Alpha Advantage</a> looks promising and says they are free.</p> 
+   <p>So, in sum my perception is that real-time stock data (and other information about stocks) is more available today than it was ten-plus years ago and is offered by more providers.&nbsp; As for price, maybe it's cheaper too, but you still have to search pretty hard to find a good deal (if there really is one).</p> 
+   <p>(Note: this is a biased comparison as I spent days/weeks in 2007 on this research, versus minutes on my search for this discussion).</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39431070_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39431070_1', replyUrl+'_39431070_1', $('_39431070_1') )">Reply</a>
+        <a id="quote__39431070_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39431070_1', replyUrl+'_39431070_1&amp;quote=true', $('_39431070_1'), false, true )">Quote</a>
+        <a id="mail__39431070_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39431070_1&amp;nav=db_thread_list_entry&amp;thread_id=39431070&amp;nav=db_thread_list_entry&amp;user_id=_21177384_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_1_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39445958_1" class="db-message-wrapper autoExpandable  reply-lvl-1 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_1_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39445958_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39445958_1" title="Jack Russo (RE: Stock Market Data)">
+    </div>
+
+    <div id="layer_1_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39445958_1')" role="button" id="_39445958_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_1_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39445958_1')" role="button" id="_39445958_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39445958_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_1_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39445958_1')" title="Collapse Post">
+        <div id="layer_1_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39445958_1');" onmouseout="javascript:hideMsgMetadata('_39445958_1');" onfocus="javascript:showMsgMetadata('_39445958_1');" onblur="javascript:hideMsgMetadata('_39445958_1');" title="Post Details">
+            <span id="db_msg_age__39445958_1_md" class="db_msg_metadata">June 16, 2020 5:22:23 PM EDT</span>
+              <span id="db_msg_age__39445958_1" class="db_msg_age" postedtimeinmillis="1592342543000" editedtimeinmillis="1592342543000" postedtimeinbbformat="June 16, 2020 5:22:23 PM EDT" editedtimeinbbformat="June 16, 2020 5:22:23 PM EDT">24 days ago</span>
+            </div>
+
+          <div id="layer_1_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39431070_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20980712_1?ts=1594043317000">
+          
+  
+              Jack Russo
+      
+  </span>
+</span>
+
+<span id="layer_1_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_1_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39445958_1">RE: Stock Market Data</span>
+            <span id="attachmentIndicator__39445958_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39445958_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39445958_1" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39445958_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39445958_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39445958_1' )">Collapse</a></div>
+
+      </div><div id="message__39445958_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39445958_1_md" totalviewcount="23" yourviewcount="9">Total views: 23 (Your views: 9)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>That's fascinating!&nbsp;At the end of the day there really dosen't&nbsp;appear to be free lunch here. Even if the data you needed to automate your strategy becomes affordable do to availability&nbsp;and competition, the consequence&nbsp;&nbsp;will be more investors applying the same strategy.&nbsp;</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39445958_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39445958_1', replyUrl+'_39445958_1', $('_39445958_1') )">Reply</a>
+        <a id="quote__39445958_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39445958_1', replyUrl+'_39445958_1&amp;quote=true', $('_39445958_1'), false, true )">Quote</a>
+        <a id="mail__39445958_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39445958_1&amp;nav=db_thread_list_entry&amp;thread_id=39431070&amp;nav=db_thread_list_entry&amp;user_id=_20980712_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_1_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div><div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39479905_1" class="db-message-wrapper autoExpandable  reply-lvl-1 readmsg  unflaggedmsg ">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_1_1_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39479905_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39479905_1" title="Mael Illien (RE: Stock Market Data)">
+    </div>
+
+    <div id="layer_1_1_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39479905_1')" role="button" id="_39479905_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_1_1_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39479905_1')" role="button" id="_39479905_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39479905_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_1_1" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39479905_1')" title="Collapse Post">
+        <div id="layer_1_1_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_1_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39479905_1');" onmouseout="javascript:hideMsgMetadata('_39479905_1');" onfocus="javascript:showMsgMetadata('_39479905_1');" onblur="javascript:hideMsgMetadata('_39479905_1');" title="Post Details">
+            <span id="db_msg_age__39479905_1_md" class="db_msg_metadata">June 18, 2020 12:18:15 PM EDT</span>
+              <span id="db_msg_age__39479905_1" class="db_msg_age" postedtimeinmillis="1592497095000" editedtimeinmillis="1592497095000" postedtimeinbbformat="June 18, 2020 12:18:15 PM EDT" editedtimeinbbformat="June 18, 2020 12:18:15 PM EDT">22 days ago</span>
+            </div>
+
+          <div id="layer_1_1_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39431070_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21128987_1?ts=1594381968000">
+          
+  
+              Mael Illien
+      
+  </span>
+</span>
+
+<span id="layer_1_1_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_1_1_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_1_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39479905_1">RE: Stock Market Data</span>
+            <span id="attachmentIndicator__39479905_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39479905_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39479905_1" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39479905_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39479905_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39479905_1' )">Collapse</a></div>
+
+      </div><div id="message__39479905_1" class="dbThreadMessage" style="display: none;">
+        <span class="loadingElipse">
+          Post loading. Refresh the page if the post does not load.</span>
+      </div>
+
+      <a id="layer_1_1_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div><div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39575906_1" class="db-message-wrapper autoExpandable  reply-lvl-1 readmsg  unflaggedmsg ">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_1_2_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39575906_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39575906_1" title="Steven Ellingson (RE: Stock Market Data)">
+    </div>
+
+    <div id="layer_1_2_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39575906_1')" role="button" id="_39575906_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_1_2_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39575906_1')" role="button" id="_39575906_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39575906_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_1_2" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39575906_1')" title="Collapse Post">
+        <div id="layer_1_2_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_2_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39575906_1');" onmouseout="javascript:hideMsgMetadata('_39575906_1');" onfocus="javascript:showMsgMetadata('_39575906_1');" onblur="javascript:hideMsgMetadata('_39575906_1');" title="Post Details">
+            <span id="db_msg_age__39575906_1_md" class="db_msg_metadata">June 23, 2020 11:23:22 PM EDT</span>
+              <span id="db_msg_age__39575906_1" class="db_msg_age" postedtimeinmillis="1592969002000" editedtimeinmillis="1592969002000" postedtimeinbbformat="June 23, 2020 11:23:22 PM EDT" editedtimeinbbformat="June 23, 2020 11:23:22 PM EDT">17 days ago</span>
+            </div>
+
+          <div id="layer_1_2_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39431070_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21124932_1?ts=1594398857000">
+          
+  
+              Steven Ellingson
+      
+  </span>
+</span>
+
+<span id="layer_1_2_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_1_2_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_2_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39575906_1">RE: Stock Market Data</span>
+            <span id="attachmentIndicator__39575906_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39575906_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39575906_1" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39575906_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39575906_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39575906_1' )">Collapse</a></div>
+
+      </div><div id="message__39575906_1" class="dbThreadMessage" style="display: none;">
+        <span class="loadingElipse">
+          Post loading. Refresh the page if the post does not load.</span>
+      </div>
+
+      <a id="layer_1_2_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div><div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39579180_1" class="db-message-wrapper autoExpandable  reply-lvl-1 readmsg  unflaggedmsg ">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_1_3_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39579180_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39579180_1" title="Jagdish Chhabria (RE: Stock Market Data)">
+    </div>
+
+    <div id="layer_1_3_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39579180_1')" role="button" id="_39579180_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_1_3_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39579180_1')" role="button" id="_39579180_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39579180_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_1_3" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39579180_1')" title="Collapse Post">
+        <div id="layer_1_3_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_3_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39579180_1');" onmouseout="javascript:hideMsgMetadata('_39579180_1');" onfocus="javascript:showMsgMetadata('_39579180_1');" onblur="javascript:hideMsgMetadata('_39579180_1');" title="Post Details">
+            <span id="db_msg_age__39579180_1_md" class="db_msg_metadata">June 24, 2020 7:44:47 AM EDT</span>
+              <span id="db_msg_age__39579180_1" class="db_msg_age" postedtimeinmillis="1592999087000" editedtimeinmillis="1592999087000" postedtimeinbbformat="June 24, 2020 7:44:47 AM EDT" editedtimeinbbformat="June 24, 2020 7:44:47 AM EDT">17 days ago</span>
+            </div>
+
+          <div id="layer_1_3_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39431070_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21031627_1?ts=1594391263000">
+          
+  
+              Jagdish Chhabria
+      
+  </span>
+</span>
+
+<span id="layer_1_3_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_1_3_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_3_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39579180_1">RE: Stock Market Data</span>
+            <span id="attachmentIndicator__39579180_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39579180_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39579180_1" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39579180_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39579180_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39579180_1' )">Collapse</a></div>
+
+      </div><div id="message__39579180_1" class="dbThreadMessage" style="display: none;">
+        <span class="loadingElipse">
+          Post loading. Refresh the page if the post does not load.</span>
+      </div>
+
+      <a id="layer_1_3_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div><div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39839508_1" class="db-message-wrapper autoExpandable  reply-lvl-1 readmsg  unflaggedmsg ">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_1_4_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39839508_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39839508_1" title="Murat Akyildirim (RE: Stock Market Data)">
+    </div>
+
+    <div id="layer_1_4_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39839508_1')" role="button" id="_39839508_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_1_4_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39839508_1')" role="button" id="_39839508_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39839508_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_1_4" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39839508_1')" title="Collapse Post">
+        <div id="layer_1_4_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_4_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39839508_1');" onmouseout="javascript:hideMsgMetadata('_39839508_1');" onfocus="javascript:showMsgMetadata('_39839508_1');" onblur="javascript:hideMsgMetadata('_39839508_1');" title="Post Details">
+            <span id="db_msg_age__39839508_1_md" class="db_msg_metadata">July 10, 2020 10:00:27 AM EDT</span>
+              <span id="db_msg_age__39839508_1" class="db_msg_age" postedtimeinmillis="1594389627000" editedtimeinmillis="1594389627000" postedtimeinbbformat="July 10, 2020 10:00:27 AM EDT" editedtimeinbbformat="July 10, 2020 10:00:27 AM EDT">1 day ago</span>
+            </div>
+
+          <div id="layer_1_4_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39431070_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21114817_1?ts=1594411546000">
+          
+  
+              Murat Akyildirim
+      
+  </span>
+</span>
+
+<span id="layer_1_4_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_1_4_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_1_4_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39839508_1">RE: Stock Market Data</span>
+            <span id="attachmentIndicator__39839508_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39839508_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39839508_1" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39839508_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39839508_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39839508_1' )">Collapse</a></div>
+
+      </div><div id="message__39839508_1" class="dbThreadMessage" style="display: none;">
+        <span class="loadingElipse">
+          Post loading. Refresh the page if the post does not load.</span>
+      </div>
+
+      <a id="layer_1_4_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

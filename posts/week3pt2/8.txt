@@ -1,0 +1,115 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39484180_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_9_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39484180_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39484180_1" title="Elina Azrilyan (Managing impacts of data changes)">
+    </div>
+
+    <div id="layer_9_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39484180_1')" role="button" id="_39484180_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_9_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39484180_1')" role="button" id="_39484180_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39484180_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_9" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39484180_1','_39484180_1')" title="Collapse Post">
+        <div id="layer_9_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_9_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39484180_1');" onmouseout="javascript:hideMsgMetadata('_39484180_1');" onfocus="javascript:showMsgMetadata('_39484180_1');" onblur="javascript:hideMsgMetadata('_39484180_1');" title="Post Details">
+            <span id="db_msg_age__39484180_1_md" class="db_msg_metadata">June 18, 2020 4:22:19 PM EDT</span>
+              <span id="db_msg_age__39484180_1" class="db_msg_age" postedtimeinmillis="1592511739000" editedtimeinmillis="1592511739000" postedtimeinbbformat="June 18, 2020 4:22:19 PM EDT" editedtimeinbbformat="June 18, 2020 4:22:19 PM EDT">22 days ago</span>
+            </div>
+
+          <div id="layer_9_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39484180_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20994607_1?ts=1594425264000">
+          
+  
+              Elina Azrilyan
+      
+  </span>
+</span>
+
+<span id="layer_9_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_9_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_9_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39484180_1">Managing impacts of data changes</span>
+            <span id="attachmentIndicator__39484180_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39484180_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39484180_1" onclick="javascript:toggleMessageDisplay(event, '_39484180_1','_39484180_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39484180_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39484180_1' )">Collapse</a></div>
+
+      </div><div id="message__39484180_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39484180_1_md" totalviewcount="4" yourviewcount="1">Total views: 4 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>The following article discusses the approach to managing changes in the APIs used for Shopify App and brings up a lot of interesting questions about down-steam data dependences we are discussing this week. Shopify is a Canadian website that allows a person to manage, market and sell their product, and APIs are widely used by tens of thousands of partners. A new versions are released quarterly to minimize the impact of changes and the changes are clearly marked and breaking and non-breaking to make sure that all required diligence is applied. Similar approach should be taken on data availability, if there is a regulatory or financial reasons for the change in data level access - there should be a significant thought given to such changes. If facebook data availability decreases - there should be a way to view a subset of the data anonymously if at all possible.&nbsp;</p> 
+   <p style="margin: 0.0px 0.0px 0.0px 0.0px;font: 12.8px Helvetica;color: rgb(65,65,65);"></p> 
+   <p style="margin: 0.0px 0.0px 0.0px 0.0px;font: 12.8px Helvetica;color: rgb(65,65,65);"><span style="text-decoration: underline;"><a href="https://engineering.shopify.com/blogs/engineering/shopify-manages-api-versioning-breaking-changes">https://engineering.shopify.com/blogs/engineering/shopify-manages-api-versioning-breaking-changes</a></span></p> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39484180_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39484180_1', replyUrl+'_39484180_1', $('_39484180_1') )">Reply</a>
+        <a id="quote__39484180_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39484180_1', replyUrl+'_39484180_1&amp;quote=true', $('_39484180_1'), false, true )">Quote</a>
+        <a id="mail__39484180_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39484180_1&amp;nav=db_thread_list_entry&amp;thread_id=39484180&amp;nav=db_thread_list_entry&amp;user_id=_20994607_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_9_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>

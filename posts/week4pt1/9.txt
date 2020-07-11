@@ -1,0 +1,226 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39611637_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_11_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39611637_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39611637_1" title="Zachary Alexander (Text Processing (Google Searches) and Network Data Analysis)">
+    </div>
+
+    <div id="layer_11_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39611637_1')" role="button" id="_39611637_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_11_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39611637_1')" role="button" id="_39611637_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39611637_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_11" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39611637_1','_39611637_1')" title="Collapse Post">
+        <div id="layer_11_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_11_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39611637_1');" onmouseout="javascript:hideMsgMetadata('_39611637_1');" onfocus="javascript:showMsgMetadata('_39611637_1');" onblur="javascript:hideMsgMetadata('_39611637_1');" title="Post Details">
+            <span id="db_msg_age__39611637_1_md" class="db_msg_metadata">June 25, 2020 6:53:26 PM EDT</span>
+              <span id="db_msg_age__39611637_1" class="db_msg_age" postedtimeinmillis="1593125606000" editedtimeinmillis="1593125606000" postedtimeinbbformat="June 25, 2020 6:53:26 PM EDT" editedtimeinbbformat="June 25, 2020 6:53:26 PM EDT">15 days ago</span>
+            </div>
+
+          <div id="layer_11_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39611637_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21117111_1?ts=1594417828000">
+          
+  
+              Zachary Alexander
+      
+  </span>
+</span>
+
+<span id="layer_11_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_11_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_11_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39611637_1">Text Processing (Google Searches) and Network Data Analysis</span>
+            <span id="attachmentIndicator__39611637_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39611637_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39611637_1" onclick="javascript:toggleMessageDisplay(event, '_39611637_1','_39611637_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39611637_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39611637_1' )">Collapse</a></div>
+
+      </div><div id="message__39611637_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39611637_1_md" totalviewcount="12" yourviewcount="1">Total views: 12 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>The New York Times posted an OpEd article in early April titled, <a href="https://www.nytimes.com/2020/04/05/opinion/coronavirus-google-searches.html" target="_blank" rel="noreferrer noopener">"Google Searches Can Help Us Find Emerging COVID-19 Outbreaks"</a>, that highlighted a data scientist's approach to mapping out the spread of COVID-19 throughout the world by mining Google's search data.&nbsp;Through keyword and text analysis for spikes in searches such as "I can't smell",&nbsp;or "my eyes hurt",&nbsp;or specific searches related to fevers, chills, etc. in multiple languages,&nbsp;the author was able to pinpoint emerging&nbsp;hotspots&nbsp;around the same time the confirmed case counts rose in those areas. It's been mentioned before, but Google search term analysis has continued to intrigue data scientists for years, since Google is typically a private way for humans to search the web without having to consult with other people. In this context, it's providing insight into people's anxiety about the virus, and could even help predict where case counts will rise before they actually happen. On top of this, I think it would be interesting to incorporate networks into this type of analysis -- since searches can be subsetted by location and time, networks and graphs could be used to help map the ebbs and flows of those being exposed to the virus. Additionally, based on certain spikes in search terms, it would be interesting to attach edge weights or node attributes that help measure the severity of the hotspots and the trends in Google searches by people in those areas.</p> 
+   <p><strong>Business Goals -&nbsp;</strong>the obvious goals of this would be to provide analysis or a visualization tool that could be used to help map and predict where new hotspots&nbsp;are emerging before they actually happen. If there do appear to be trends in searches based on these factors, this could help government officials and local entities combat the virus before it reaches it's full potential in a given hotspot.&nbsp;&nbsp;</p> 
+   <p><strong>Potential Sources of Data -&nbsp;</strong>Google Search Terms and any other Google-related keyword searching data. This could also be expanded out to different social networks, i.e. Facebook, Twitter, etc., but would possible fall a bit more outside of the scope of traditional text processing.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39611637_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39611637_1', replyUrl+'_39611637_1', $('_39611637_1') )">Reply</a>
+        <a id="quote__39611637_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39611637_1', replyUrl+'_39611637_1&amp;quote=true', $('_39611637_1'), false, true )">Quote</a>
+        <a id="mail__39611637_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39611637_1&amp;nav=db_thread_list_entry&amp;thread_id=39611637&amp;nav=db_thread_list_entry&amp;user_id=_21117111_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_11_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39656716_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_11_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39656716_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39656716_1" title="Subhalaxmi Rout (RE: Text Processing (Google Searches) and Network Data Analysis)">
+    </div>
+
+    <div id="layer_11_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39656716_1')" role="button" id="_39656716_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_11_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39656716_1')" role="button" id="_39656716_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39656716_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_11_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39611637_1','_39656716_1')" title="Collapse Post">
+        <div id="layer_11_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_11_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39656716_1');" onmouseout="javascript:hideMsgMetadata('_39656716_1');" onfocus="javascript:showMsgMetadata('_39656716_1');" onblur="javascript:hideMsgMetadata('_39656716_1');" title="Post Details">
+            <span id="db_msg_age__39656716_1_md" class="db_msg_metadata">June 28, 2020 10:29:26 PM EDT</span>
+              <span id="db_msg_age__39656716_1" class="db_msg_age" postedtimeinmillis="1593397766000" editedtimeinmillis="1593397766000" postedtimeinbbformat="June 28, 2020 10:29:26 PM EDT" editedtimeinbbformat="June 28, 2020 10:29:26 PM EDT">12 days ago</span>
+            </div>
+
+          <div id="layer_11_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39611637_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21180472_1?ts=1594461392000">
+          
+  
+              Subhalaxmi Rout
+      
+  </span>
+</span>
+
+<span id="layer_11_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_11_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_11_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39656716_1">RE: Text Processing (Google Searches) and Network Data Analysis</span>
+            <span id="attachmentIndicator__39656716_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39656716_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39656716_1" onclick="javascript:toggleMessageDisplay(event, '_39611637_1','_39656716_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39656716_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39656716_1' )">Collapse</a></div>
+
+      </div><div id="message__39656716_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39656716_1_md" totalviewcount="6" yourviewcount="1">Total views: 6 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Interesting post Jach, based on symptoms of search words can find the potential place where the infection cases can arise. The line graph (in the above-mentioned article) shows an interesting trend, March 15th to March 20th there is a spike in the graph this means can expect more people may get infected. I do agree with you on the potential data sources, if this analysis would have involved other social media sites then result may more accurate.&nbsp;</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39656716_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39656716_1', replyUrl+'_39656716_1', $('_39656716_1') )">Reply</a>
+        <a id="quote__39656716_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39656716_1', replyUrl+'_39656716_1&amp;quote=true', $('_39656716_1'), false, true )">Quote</a>
+        <a id="mail__39656716_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39656716_1&amp;nav=db_thread_list_entry&amp;thread_id=39611637&amp;nav=db_thread_list_entry&amp;user_id=_21180472_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_11_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

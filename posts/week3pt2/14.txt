@@ -1,0 +1,114 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39506103_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_15_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39506103_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39506103_1" title="Habib Khan (Freedom of Information Act (FoIA))">
+    </div>
+
+    <div id="layer_15_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39506103_1')" role="button" id="_39506103_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_15_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39506103_1')" role="button" id="_39506103_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39506103_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_15" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39506103_1','_39506103_1')" title="Collapse Post">
+        <div id="layer_15_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_15_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39506103_1');" onmouseout="javascript:hideMsgMetadata('_39506103_1');" onfocus="javascript:showMsgMetadata('_39506103_1');" onblur="javascript:hideMsgMetadata('_39506103_1');" title="Post Details">
+            <span id="db_msg_age__39506103_1_md" class="db_msg_metadata">June 19, 2020 10:19:01 PM EDT</span>
+              <span id="db_msg_age__39506103_1" class="db_msg_age" postedtimeinmillis="1592619541000" editedtimeinmillis="1592619541000" postedtimeinbbformat="June 19, 2020 10:19:01 PM EDT" editedtimeinbbformat="June 19, 2020 10:19:01 PM EDT">21 days ago</span>
+            </div>
+
+          <div id="layer_15_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39506103_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21031651_1?ts=1594441632000">
+          
+  
+              Habib Khan
+      
+  </span>
+</span>
+
+<span id="layer_15_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_15_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_15_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39506103_1">Freedom of Information Act (FoIA)</span>
+            <span id="attachmentIndicator__39506103_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39506103_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39506103_1" onclick="javascript:toggleMessageDisplay(event, '_39506103_1','_39506103_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39506103_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39506103_1' )">Collapse</a></div>
+
+      </div><div id="message__39506103_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39506103_1_md" totalviewcount="5" yourviewcount="1">Total views: 5 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>The Freedom of Information Act is a federal freedom of information law that requires the full or partial disclosure of previously unreleased information and documents controlled by US government if requested. It has somehow discouraged government officials to follow the constitution and facilitate the US Citizens as per the role in government. The citizens can always ask for the information, evaluate and criticize those decisions.&nbsp;</p> 
+   <p>Reference:</p> 
+   <p>https://en.wikipedia.org/wiki/Freedom_of_Information_Act_(United_States)</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39506103_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39506103_1', replyUrl+'_39506103_1', $('_39506103_1') )">Reply</a>
+        <a id="quote__39506103_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39506103_1', replyUrl+'_39506103_1&amp;quote=true', $('_39506103_1'), false, true )">Quote</a>
+        <a id="mail__39506103_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39506103_1&amp;nav=db_thread_list_entry&amp;thread_id=39506103&amp;nav=db_thread_list_entry&amp;user_id=_21031651_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_15_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>

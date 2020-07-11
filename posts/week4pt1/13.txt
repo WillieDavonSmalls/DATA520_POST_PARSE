@@ -1,0 +1,226 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39586494_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_8_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39586494_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39586494_1" title="Mikhail Kollontai (News Articles)">
+    </div>
+
+    <div id="layer_8_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39586494_1')" role="button" id="_39586494_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_8_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39586494_1')" role="button" id="_39586494_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39586494_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_8" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39586494_1','_39586494_1')" title="Collapse Post">
+        <div id="layer_8_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_8_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39586494_1');" onmouseout="javascript:hideMsgMetadata('_39586494_1');" onfocus="javascript:showMsgMetadata('_39586494_1');" onblur="javascript:hideMsgMetadata('_39586494_1');" title="Post Details">
+            <span id="db_msg_age__39586494_1_md" class="db_msg_metadata">June 24, 2020 3:28:31 PM EDT</span>
+              <span id="db_msg_age__39586494_1" class="db_msg_age" postedtimeinmillis="1593026911000" editedtimeinmillis="1593026911000" postedtimeinbbformat="June 24, 2020 3:28:31 PM EDT" editedtimeinbbformat="June 24, 2020 3:28:31 PM EDT">16 days ago</span>
+            </div>
+
+          <div id="layer_8_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39586494_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21126261_1?ts=1594429848000">
+          
+  
+              Mikhail Kollontai
+      
+  </span>
+</span>
+
+<span id="layer_8_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_8_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_8_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39586494_1">News Articles</span>
+            <span id="attachmentIndicator__39586494_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39586494_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39586494_1" onclick="javascript:toggleMessageDisplay(event, '_39586494_1','_39586494_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39586494_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39586494_1' )">Collapse</a></div>
+
+      </div><div id="message__39586494_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39586494_1_md" totalviewcount="9" yourviewcount="1">Total views: 9 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>In this day of sensationalized news it is often very interesting to trace the life of a story. For the more reputable sources it usually starts with a significant amount of leg work,&nbsp;primary research and in-depth interviews. Publications with integrity will wait until they have at least 3 independent sources corroborating a story before publishing.&nbsp;</p> 
+   <p>Newer media, however, does not hold to these lofty standards. A story you see on some news channels will at times be the result of a "reporter" seeing a tweet or a blog&nbsp;post and running with the story. Little or no fact-checking is done since the point of the story is internet&nbsp;traffic, not educating the consumer. With social media such stories can get caught up in a retweet&nbsp;or repost craze that spreads the story far and wide with many of the readers not even questioning the validity of the information.&nbsp;</p> 
+   <p>I can envision a system that scrapes news articles for quotes, headlines, punchlines (basically key predictors) and developing networks of connected stories to identify trends in the way sources/information are reused. These networks could then be analyzed to identify echo chambers&nbsp; as well as islands of diversified information. The business goal of such an endeavor would be to provide an objective evaluation of the quality of sourcing used by a news organization. Each network would be scored based on the connections it maintains and the sources it uses.&nbsp;</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39586494_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39586494_1', replyUrl+'_39586494_1', $('_39586494_1') )">Reply</a>
+        <a id="quote__39586494_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39586494_1', replyUrl+'_39586494_1&amp;quote=true', $('_39586494_1'), false, true )">Quote</a>
+        <a id="mail__39586494_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39586494_1&amp;nav=db_thread_list_entry&amp;thread_id=39586494&amp;nav=db_thread_list_entry&amp;user_id=_21126261_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_8_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39642538_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_8_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39642538_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39642538_1" title="Jithendra Seneviratne (RE: News Articles)">
+    </div>
+
+    <div id="layer_8_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39642538_1')" role="button" id="_39642538_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_8_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39642538_1')" role="button" id="_39642538_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39642538_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_8_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39586494_1','_39642538_1')" title="Collapse Post">
+        <div id="layer_8_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_8_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39642538_1');" onmouseout="javascript:hideMsgMetadata('_39642538_1');" onfocus="javascript:showMsgMetadata('_39642538_1');" onblur="javascript:hideMsgMetadata('_39642538_1');" title="Post Details">
+            <span id="db_msg_age__39642538_1_md" class="db_msg_metadata">June 27, 2020 11:29:25 PM EDT</span>
+              <span id="db_msg_age__39642538_1" class="db_msg_age" postedtimeinmillis="1593314965000" editedtimeinmillis="1593314965000" postedtimeinbbformat="June 27, 2020 11:29:25 PM EDT" editedtimeinbbformat="June 27, 2020 11:29:25 PM EDT">13 days ago</span>
+            </div>
+
+          <div id="layer_8_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39586494_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20987751_1?ts=1594479642000">
+          
+  
+              Jithendra Seneviratne
+      
+  </span>
+</span>
+
+<span id="layer_8_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_8_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_8_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39642538_1">RE: News Articles</span>
+            <span id="attachmentIndicator__39642538_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39642538_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39642538_1" onclick="javascript:toggleMessageDisplay(event, '_39586494_1','_39642538_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39642538_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39642538_1' )">Collapse</a></div>
+
+      </div><div id="message__39642538_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39642538_1_md" totalviewcount="6" yourviewcount="1">Total views: 6 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Nice example. The connected stories can probably be constructed using topic modeling or keyword extraction.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39642538_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39642538_1', replyUrl+'_39642538_1', $('_39642538_1') )">Reply</a>
+        <a id="quote__39642538_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39642538_1', replyUrl+'_39642538_1&amp;quote=true', $('_39642538_1'), false, true )">Quote</a>
+        <a id="mail__39642538_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39642538_1&amp;nav=db_thread_list_entry&amp;thread_id=39586494&amp;nav=db_thread_list_entry&amp;user_id=_20987751_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_8_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

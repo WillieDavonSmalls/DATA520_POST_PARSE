@@ -1,0 +1,549 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39569739_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_3_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39569739_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39569739_1" title="Abdellah Ait Elmouden (Search Engine Optimization and Text Mining)">
+    </div>
+
+    <div id="layer_3_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39569739_1')" role="button" id="_39569739_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_3_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39569739_1')" role="button" id="_39569739_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39569739_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_3" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39569739_1','_39569739_1')" title="Collapse Post">
+        <div id="layer_3_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_3_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39569739_1');" onmouseout="javascript:hideMsgMetadata('_39569739_1');" onfocus="javascript:showMsgMetadata('_39569739_1');" onblur="javascript:hideMsgMetadata('_39569739_1');" title="Post Details">
+            <span id="db_msg_age__39569739_1_md" class="db_msg_metadata">June 23, 2020 6:52:13 PM EDT</span>
+              <span id="db_msg_age__39569739_1" class="db_msg_age" postedtimeinmillis="1592952733000" editedtimeinmillis="1592952733000" postedtimeinbbformat="June 23, 2020 6:52:13 PM EDT" editedtimeinbbformat="June 23, 2020 6:52:13 PM EDT">17 days ago</span>
+            </div>
+
+          <div id="layer_3_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39569739_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_657988_1?ts=1594418217000">
+          
+  
+              Abdellah Ait Elmouden
+      
+  </span>
+</span>
+
+<span id="layer_3_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_3_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_3_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39569739_1">Search Engine Optimization and Text Mining</span>
+            <span id="attachmentIndicator__39569739_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39569739_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39569739_1" onclick="javascript:toggleMessageDisplay(event, '_39569739_1','_39569739_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39569739_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39569739_1' )">Collapse</a></div>
+
+      </div><div id="message__39569739_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39569739_1_md" totalviewcount="17" yourviewcount="1">Total views: 17 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Search engine optimization (SEO) is normally used to push content to the top of Google search results page. However, using the data available today as well as text analysis and visualization techniques, we can apply SEO approachfor something much more interesting: discovering the gaps in public discourse. Those gaps are discrepancies between what people are looking for and what they actually find. Once we identify these gaps, we can produce relevant content to fulfil the lack between the demand and supply, be it political discourse, a niche market, or scientific research.</p> 
+   <p>InfraNodus is text processing and network analysis tool. data can be generated by using the Google search query option provided by the application.</p> 
+   <p>Reference : <a href="https://infranodus.com/docs/search-engine-optimization" target="_blank" rel="noreferrer noopener">InfraNodus</a></p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39569739_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39569739_1', replyUrl+'_39569739_1', $('_39569739_1') )">Reply</a>
+        <a id="quote__39569739_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39569739_1', replyUrl+'_39569739_1&amp;quote=true', $('_39569739_1'), false, true )">Quote</a>
+        <a id="mail__39569739_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39569739_1&amp;nav=db_thread_list_entry&amp;thread_id=39569739&amp;nav=db_thread_list_entry&amp;user_id=_657988_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_3_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39579641_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_3_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39579641_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39579641_1" title="Jack Russo (RE: Search Engine Optimization and Text Mining)">
+    </div>
+
+    <div id="layer_3_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39579641_1')" role="button" id="_39579641_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_3_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39579641_1')" role="button" id="_39579641_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39579641_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_3_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39569739_1','_39579641_1')" title="Collapse Post">
+        <div id="layer_3_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_3_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39579641_1');" onmouseout="javascript:hideMsgMetadata('_39579641_1');" onfocus="javascript:showMsgMetadata('_39579641_1');" onblur="javascript:hideMsgMetadata('_39579641_1');" title="Post Details">
+            <span id="db_msg_age__39579641_1_md" class="db_msg_metadata">June 24, 2020 8:58:43 AM EDT</span>
+              <span id="db_msg_age__39579641_1" class="db_msg_age" postedtimeinmillis="1593003523000" editedtimeinmillis="1593003523000" postedtimeinbbformat="June 24, 2020 8:58:43 AM EDT" editedtimeinbbformat="June 24, 2020 8:58:43 AM EDT">17 days ago</span>
+            </div>
+
+          <div id="layer_3_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39569739_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20980712_1?ts=1594043317000">
+          
+  
+              Jack Russo
+      
+  </span>
+</span>
+
+<span id="layer_3_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_3_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_3_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39579641_1">RE: Search Engine Optimization and Text Mining</span>
+            <span id="attachmentIndicator__39579641_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39579641_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39579641_1" onclick="javascript:toggleMessageDisplay(event, '_39569739_1','_39579641_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39579641_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39579641_1' )">Collapse</a></div>
+
+      </div><div id="message__39579641_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39579641_1_md" totalviewcount="16" yourviewcount="1">Total views: 16 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Would you happen to know what tools Google use's&nbsp;to bridge those gaps?</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39579641_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39579641_1', replyUrl+'_39579641_1', $('_39579641_1') )">Reply</a>
+        <a id="quote__39579641_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39579641_1', replyUrl+'_39579641_1&amp;quote=true', $('_39579641_1'), false, true )">Quote</a>
+        <a id="mail__39579641_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39579641_1&amp;nav=db_thread_list_entry&amp;thread_id=39569739&amp;nav=db_thread_list_entry&amp;user_id=_20980712_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_3_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link reply-expanded" role="button">Hide 1 reply</a>
+    </div> </div> </div>
+<!-- single_message.jspf -->
+
+<div id="_39583586_1" class="db-message-wrapper autoExpandable  reply-lvl-2 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_3_0_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-2-cb">
+      <input type="checkbox" id="_39583586_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39583586_1" title="Abdellah Ait Elmouden (RE: Search Engine Optimization and Text Mining)">
+    </div>
+
+    <div id="layer_3_0_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39583586_1')" role="button" id="_39583586_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_3_0_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39583586_1')" role="button" id="_39583586_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39583586_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_3_0_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39569739_1','_39583586_1')" title="Collapse Post">
+        <div id="layer_3_0_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_3_0_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39583586_1');" onmouseout="javascript:hideMsgMetadata('_39583586_1');" onfocus="javascript:showMsgMetadata('_39583586_1');" onblur="javascript:hideMsgMetadata('_39583586_1');" title="Post Details">
+            <span id="db_msg_age__39583586_1_md" class="db_msg_metadata">June 24, 2020 1:00:20 PM EDT</span>
+              <span id="db_msg_age__39583586_1" class="db_msg_age" postedtimeinmillis="1593018020000" editedtimeinmillis="1593018020000" postedtimeinbbformat="June 24, 2020 1:00:20 PM EDT" editedtimeinbbformat="June 24, 2020 1:00:20 PM EDT">16 days ago</span>
+            </div>
+
+          <div id="layer_3_0_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39569739_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_657988_1?ts=1594418217000">
+          
+  
+              Abdellah Ait Elmouden
+      
+  </span>
+</span>
+
+<span id="layer_3_0_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_3_0_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_3_0_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39583586_1">RE: Search Engine Optimization and Text Mining</span>
+            <span id="attachmentIndicator__39583586_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39583586_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39583586_1" onclick="javascript:toggleMessageDisplay(event, '_39569739_1','_39583586_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39583586_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39583586_1' )">Collapse</a></div>
+
+      </div><div id="message__39583586_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39583586_1_md" totalviewcount="13" yourviewcount="1">Total views: 13 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Hi Jack, No i don't know what tools is Google using. i am also interested to know.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39583586_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39583586_1', replyUrl+'_39583586_1', $('_39583586_1') )">Reply</a>
+        <a id="quote__39583586_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39583586_1', replyUrl+'_39583586_1&amp;quote=true', $('_39583586_1'), false, true )">Quote</a>
+        <a id="mail__39583586_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39583586_1&amp;nav=db_thread_list_entry&amp;thread_id=39569739&amp;nav=db_thread_list_entry&amp;user_id=_657988_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_3_0_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div><div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39584978_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unreadmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_3_1_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39584978_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39584978_1" title="Ken Popkin (RE: Search Engine Optimization and Text Mining)">
+    </div>
+
+    <div id="layer_3_1_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Read</div>
+      <a href="javascript:toggleReadByIcon('_39584978_1')" role="button" id="_39584978_1_readTogIconLink" class=" unreadmsg " title="Mark as Read"><span class="hideoff">Mark as Read</span></a>
+      </div>
+
+      <span id="layer_3_1_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39584978_1')" role="button" id="_39584978_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39584978_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_3_1" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39569739_1','_39584978_1')" title="Collapse Post">
+        <div id="layer_3_1_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_3_1_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39584978_1');" onmouseout="javascript:hideMsgMetadata('_39584978_1');" onfocus="javascript:showMsgMetadata('_39584978_1');" onblur="javascript:hideMsgMetadata('_39584978_1');" title="Post Details">
+            <span id="db_msg_age__39584978_1_md" class="db_msg_metadata">June 24, 2020 2:12:39 PM EDT</span>
+              <span id="db_msg_age__39584978_1" class="db_msg_age" postedtimeinmillis="1593022359000" editedtimeinmillis="1593022359000" postedtimeinbbformat="June 24, 2020 2:12:39 PM EDT" editedtimeinbbformat="June 24, 2020 2:12:39 PM EDT">16 days ago</span>
+            </div>
+
+          <div id="layer_3_1_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39569739_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21177384_1?ts=1594473477000">
+          
+  
+              Ken Popkin
+      
+  </span>
+</span>
+
+<span id="layer_3_1_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_3_1_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_3_1_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39584978_1">RE: Search Engine Optimization and Text Mining</span>
+            <span id="attachmentIndicator__39584978_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39584978_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39584978_1" onclick="javascript:toggleMessageDisplay(event, '_39569739_1','_39584978_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39584978_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39584978_1' )">Collapse</a></div>
+
+      </div><div id="message__39584978_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39584978_1_md" totalviewcount="10" yourviewcount="1">Total views: 10 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>It seems so obvious now that you mention it, but prior to reading this it never occurred to me to use SEO in this manner.&nbsp; My post for this discussion topic was somewhat similar -- how publishing houses could use text mining to identify topics (and potential authors) to write books on subjects that are of high interest, but not many books have been written yet.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39584978_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39584978_1', replyUrl+'_39584978_1', $('_39584978_1') )">Reply</a>
+        <a id="quote__39584978_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39584978_1', replyUrl+'_39584978_1&amp;quote=true', $('_39584978_1'), false, true )">Quote</a>
+        <a id="mail__39584978_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39584978_1&amp;nav=db_thread_list_entry&amp;thread_id=39569739&amp;nav=db_thread_list_entry&amp;user_id=_21177384_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_3_1_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div><div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39585666_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unreadmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_3_2_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39585666_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39585666_1" title="Murat Akyildirim (RE: Search Engine Optimization and Text Mining)">
+    </div>
+
+    <div id="layer_3_2_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Read</div>
+      <a href="javascript:toggleReadByIcon('_39585666_1')" role="button" id="_39585666_1_readTogIconLink" class=" unreadmsg " title="Mark as Read"><span class="hideoff">Mark as Read</span></a>
+      </div>
+
+      <span id="layer_3_2_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39585666_1')" role="button" id="_39585666_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39585666_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_3_2" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39569739_1','_39585666_1')" title="Collapse Post">
+        <div id="layer_3_2_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_3_2_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39585666_1');" onmouseout="javascript:hideMsgMetadata('_39585666_1');" onfocus="javascript:showMsgMetadata('_39585666_1');" onblur="javascript:hideMsgMetadata('_39585666_1');" title="Post Details">
+            <span id="db_msg_age__39585666_1_md" class="db_msg_metadata">June 24, 2020 2:46:41 PM EDT</span>
+              <span id="db_msg_age__39585666_1" class="db_msg_age" postedtimeinmillis="1593024401000" editedtimeinmillis="1593024401000" postedtimeinbbformat="June 24, 2020 2:46:41 PM EDT" editedtimeinbbformat="June 24, 2020 2:46:41 PM EDT">16 days ago</span>
+            </div>
+
+          <div id="layer_3_2_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39569739_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21114817_1?ts=1594478549000">
+          
+  
+              Murat Akyildirim
+      
+  </span>
+</span>
+
+<span id="layer_3_2_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_3_2_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_3_2_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39585666_1">RE: Search Engine Optimization and Text Mining</span>
+            <span id="attachmentIndicator__39585666_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39585666_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39585666_1" onclick="javascript:toggleMessageDisplay(event, '_39569739_1','_39585666_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39585666_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39585666_1' )">Collapse</a></div>
+
+      </div><div id="message__39585666_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39585666_1_md" totalviewcount="9" yourviewcount="1">Total views: 9 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>This is really interesting topic idea. Thanks for sharing this as well&nbsp;&nbsp;&nbsp;<a href="https://infranodus.com/docs/search-engine-optimization">https://infranodus.com/docs/search-engine-optimization</a> &nbsp;. The business goal of creating relevant content seems to align with my idea of analysis. If we can analyze the conversation between brands and their consumers in social media, we can serve them the content they want in our next social media marketing campaign.&nbsp;</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39585666_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39585666_1', replyUrl+'_39585666_1', $('_39585666_1') )">Reply</a>
+        <a id="quote__39585666_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39585666_1', replyUrl+'_39585666_1&amp;quote=true', $('_39585666_1'), false, true )">Quote</a>
+        <a id="mail__39585666_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39585666_1&amp;nav=db_thread_list_entry&amp;thread_id=39569739&amp;nav=db_thread_list_entry&amp;user_id=_21114817_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_3_2_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

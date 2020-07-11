@@ -1,0 +1,232 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39626572_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_14_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39626572_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39626572_1" title="Mael Illien (Text Mining EDA  &amp;amp; Reddit)">
+    </div>
+
+    <div id="layer_14_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39626572_1')" role="button" id="_39626572_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_14_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39626572_1')" role="button" id="_39626572_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39626572_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_14" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39626572_1','_39626572_1')" title="Collapse Post">
+        <div id="layer_14_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_14_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39626572_1');" onmouseout="javascript:hideMsgMetadata('_39626572_1');" onfocus="javascript:showMsgMetadata('_39626572_1');" onblur="javascript:hideMsgMetadata('_39626572_1');" title="Post Details">
+            <span id="db_msg_age__39626572_1_md" class="db_msg_metadata">June 26, 2020 6:10:46 PM EDT</span>
+              <span id="db_msg_age__39626572_1" class="db_msg_age" postedtimeinmillis="1593209446000" editedtimeinmillis="1593209446000" postedtimeinbbformat="June 26, 2020 6:10:46 PM EDT" editedtimeinbbformat="June 26, 2020 6:10:46 PM EDT">14 days ago</span>
+            </div>
+
+          <div id="layer_14_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39626572_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21128987_1?ts=1594479008000">
+          
+  
+              Mael Illien
+      
+  </span>
+</span>
+
+<span id="layer_14_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_14_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_14_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39626572_1">Text Mining EDA  &amp; Reddit</span>
+            <span id="attachmentIndicator__39626572_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39626572_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39626572_1" onclick="javascript:toggleMessageDisplay(event, '_39626572_1','_39626572_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39626572_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39626572_1' )">Collapse</a></div>
+
+      </div><div id="message__39626572_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39626572_1_md" totalviewcount="12" yourviewcount="1">Total views: 12 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <div> 
+    <p>The notebook provided below along with the associated article give a very nice overview of text mining EDA and reveal some of the most talked about topic in subreddits. The notebook is clearly laid out and the plots give meaningful information. I also like the author’s use of method chaining to transform the data.</p> 
+    <p>I thought it would be easier to find a notebook through a series of articles which is good because the article gives the narrative that the notebook would otherwise be missing.</p> 
+    <ul> 
+     <li><a href="https://github.com/datanizing/reddit-selfposts-blog/blob/master/02-data_exploration.ipynb">https://github.com/datanizing/reddit-selfposts-blog/blob/master/02-data_exploration.ipynb</a> </li>
+     <li><a href="https://medium.com/@datanizing/modern-text-mining-with-python-part-2-of-5-data-exploration-with-pandas-ee3456cf6a4">https://medium.com/@datanizing/modern-text-mining-with-python-part-2-of-5-data-exploration-with-pandas-ee3456cf6a4</a> </li>
+    </ul> 
+   </div> 
+   <br>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39626572_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39626572_1', replyUrl+'_39626572_1', $('_39626572_1') )">Reply</a>
+        <a id="quote__39626572_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39626572_1', replyUrl+'_39626572_1&amp;quote=true', $('_39626572_1'), false, true )">Quote</a>
+        <a id="mail__39626572_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39626572_1&amp;nav=db_thread_list_entry&amp;thread_id=39626572&amp;nav=db_thread_list_entry&amp;user_id=_21128987_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_14_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39662140_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_14_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39662140_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39662140_1" title="Mia Chen (RE: Text Mining EDA  &amp;amp; Reddit)">
+    </div>
+
+    <div id="layer_14_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39662140_1')" role="button" id="_39662140_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_14_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39662140_1')" role="button" id="_39662140_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39662140_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_14_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39626572_1','_39662140_1')" title="Collapse Post">
+        <div id="layer_14_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_14_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39662140_1');" onmouseout="javascript:hideMsgMetadata('_39662140_1');" onfocus="javascript:showMsgMetadata('_39662140_1');" onblur="javascript:hideMsgMetadata('_39662140_1');" title="Post Details">
+            <span id="db_msg_age__39662140_1_md" class="db_msg_metadata">June 29, 2020 2:12:42 AM EDT</span>
+              <span id="db_msg_age__39662140_1" class="db_msg_age" postedtimeinmillis="1593411162000" editedtimeinmillis="1593411162000" postedtimeinbbformat="June 29, 2020 2:12:42 AM EDT" editedtimeinbbformat="June 29, 2020 2:12:42 AM EDT">12 days ago</span>
+            </div>
+
+          <div id="layer_14_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39626572_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_426396_1?ts=1594439499000">
+          
+  
+              Mia Chen
+      
+  </span>
+</span>
+
+<span id="layer_14_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_14_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_14_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39662140_1">RE: Text Mining EDA  &amp; Reddit</span>
+            <span id="attachmentIndicator__39662140_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39662140_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39662140_1" onclick="javascript:toggleMessageDisplay(event, '_39626572_1','_39662140_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39662140_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39662140_1' )">Collapse</a></div>
+
+      </div><div id="message__39662140_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39662140_1_md" totalviewcount="8" yourviewcount="1">Total views: 8 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Thanks for sharing this notebook!&nbsp;It has plenty of nice visualizations&nbsp;and it's easy-to-follow.&nbsp;</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39662140_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39662140_1', replyUrl+'_39662140_1', $('_39662140_1') )">Reply</a>
+        <a id="quote__39662140_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39662140_1', replyUrl+'_39662140_1&amp;quote=true', $('_39662140_1'), false, true )">Quote</a>
+        <a id="mail__39662140_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39662140_1&amp;nav=db_thread_list_entry&amp;thread_id=39626572&amp;nav=db_thread_list_entry&amp;user_id=_426396_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_14_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

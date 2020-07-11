@@ -1,0 +1,337 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39614318_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_11_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39614318_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39614318_1" title="Jithendra Seneviratne (Gensim)">
+    </div>
+
+    <div id="layer_11_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39614318_1')" role="button" id="_39614318_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_11_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39614318_1')" role="button" id="_39614318_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39614318_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_11" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39614318_1','_39614318_1')" title="Collapse Post">
+        <div id="layer_11_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_11_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39614318_1');" onmouseout="javascript:hideMsgMetadata('_39614318_1');" onfocus="javascript:showMsgMetadata('_39614318_1');" onblur="javascript:hideMsgMetadata('_39614318_1');" title="Post Details">
+            <span id="db_msg_age__39614318_1_md" class="db_msg_metadata">June 25, 2020 9:28:32 PM EDT</span>
+              <span id="db_msg_age__39614318_1" class="db_msg_age" postedtimeinmillis="1593134912000" editedtimeinmillis="1593134912000" postedtimeinbbformat="June 25, 2020 9:28:32 PM EDT" editedtimeinbbformat="June 25, 2020 9:28:32 PM EDT">15 days ago</span>
+            </div>
+
+          <div id="layer_11_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39614318_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20987751_1?ts=1594479642000">
+          
+  
+              Jithendra Seneviratne
+      
+  </span>
+</span>
+
+<span id="layer_11_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_11_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_11_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39614318_1">Gensim</span>
+            <span id="attachmentIndicator__39614318_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39614318_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39614318_1" onclick="javascript:toggleMessageDisplay(event, '_39614318_1','_39614318_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39614318_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39614318_1' )">Collapse</a></div>
+
+      </div><div id="message__39614318_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39614318_1_md" totalviewcount="10" yourviewcount="1">Total views: 10 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>This is the link the parent page of numerous tutorial notebooks on Gensim&nbsp;(<a href="https://radimrehurek.com/gensim/auto_examples/index.html">https://radimrehurek.com/gensim/auto_examples/index.html</a>). It's very easy to follow and links to articles underlying core concepts of Skipgram&nbsp;models CBOW models, etc. I can't really find fault with anything here. Personally, I have been drawn to Scikit-Learn's&nbsp;implementations, but this library is very easy to use.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39614318_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39614318_1', replyUrl+'_39614318_1', $('_39614318_1') )">Reply</a>
+        <a id="quote__39614318_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39614318_1', replyUrl+'_39614318_1&amp;quote=true', $('_39614318_1'), false, true )">Quote</a>
+        <a id="mail__39614318_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39614318_1&amp;nav=db_thread_list_entry&amp;thread_id=39614318&amp;nav=db_thread_list_entry&amp;user_id=_20987751_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_11_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+<div class="db-reply-block">                       <!-- single_message.jspf -->
+
+<div id="_39775735_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_11_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
+      <input type="checkbox" id="_39775735_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39775735_1" title="Jeremy OBrien (RE: Gensim)">
+    </div>
+
+    <div id="layer_11_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39775735_1')" role="button" id="_39775735_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_11_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39775735_1')" role="button" id="_39775735_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39775735_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_11_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39614318_1','_39775735_1')" title="Collapse Post">
+        <div id="layer_11_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_11_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39775735_1');" onmouseout="javascript:hideMsgMetadata('_39775735_1');" onfocus="javascript:showMsgMetadata('_39775735_1');" onblur="javascript:hideMsgMetadata('_39775735_1');" title="Post Details">
+            <span id="db_msg_age__39775735_1_md" class="db_msg_metadata">July 6, 2020 4:40:59 PM EDT</span>
+              <span id="db_msg_age__39775735_1" class="db_msg_age" postedtimeinmillis="1594068059000" editedtimeinmillis="1594068059000" postedtimeinbbformat="July 6, 2020 4:40:59 PM EDT" editedtimeinbbformat="July 6, 2020 4:40:59 PM EDT">4 days ago</span>
+            </div>
+
+          <div id="layer_11_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39614318_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20874170_1?ts=1594250505000">
+          
+  
+              Jeremy OBrien
+      
+  </span>
+</span>
+
+<span id="layer_11_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_11_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_11_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39775735_1">RE: Gensim</span>
+            <span id="attachmentIndicator__39775735_1" style="display:inline;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39775735_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39775735_1" onclick="javascript:toggleMessageDisplay(event, '_39614318_1','_39775735_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39775735_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39775735_1' )">Collapse</a></div>
+
+      </div><div id="message__39775735_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39775735_1_md" totalviewcount="4" yourviewcount="1">Total views: 4 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   This is a great overview of Gensim - wish the tutorials for NLTK were as intuitive and clear as this!
+   <br>
+   <br>Dig into Gensim a bit more after reviewing the tutorial. Per this article (https://medium.com/activewizards-machine-learning-company/comparison-of-top-6-python-nlp-libraries-c4ce160237eb), Gensim is used for topic modeling, vector space modeling, and document similarity; doesn’t support supervised learning; and needs to be used in conjunction with NLTK or Spacy as it lacks a full NLP pipeline. Attached is a handy chart comparing Gensim with other Python NLP libraries which I found a handy reference.
+  </div>
+ 
+<p class="dbAttachment">
+        <img src="/images/ci/ng/cal_year_event.gif" alt="File">
+          <a target="_blank" href="/courses/1/SPS01_DATA_620_01_1206_7W1/db/_39775735_1/IMG_1760.PNG">&nbsp;IMG_1760.PNG</a>&nbsp;(249.728 KB)&nbsp;<br>
+            </p>
+      </div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39775735_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39775735_1', replyUrl+'_39775735_1', $('_39775735_1') )">Reply</a>
+        <a id="quote__39775735_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39775735_1', replyUrl+'_39775735_1&amp;quote=true', $('_39775735_1'), false, true )">Quote</a>
+        <a id="mail__39775735_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39775735_1&amp;nav=db_thread_list_entry&amp;thread_id=39614318&amp;nav=db_thread_list_entry&amp;user_id=_20874170_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_11_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link reply-expanded" role="button">Hide 1 reply</a>
+    </div> </div> </div>
+<!-- single_message.jspf -->
+
+<div id="_39775889_1" class="db-message-wrapper autoExpandable  reply-lvl-2 unflaggedmsg readmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_11_0_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-2-cb">
+      <input type="checkbox" id="_39775889_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39775889_1" title="Jithendra Seneviratne (RE: Gensim)">
+    </div>
+
+    <div id="layer_11_0_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
+      
+      <a href="javascript:toggleReadByIcon('_39775889_1')" role="button" id="_39775889_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_11_0_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39775889_1')" role="button" id="_39775889_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39775889_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_11_0_0" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39614318_1','_39775889_1')" title="Collapse Post">
+        <div id="layer_11_0_0_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_11_0_0_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39775889_1');" onmouseout="javascript:hideMsgMetadata('_39775889_1');" onfocus="javascript:showMsgMetadata('_39775889_1');" onblur="javascript:hideMsgMetadata('_39775889_1');" title="Post Details">
+            <span id="db_msg_age__39775889_1_md" class="db_msg_metadata">July 6, 2020 4:51:24 PM EDT</span>
+              <span id="db_msg_age__39775889_1" class="db_msg_age" postedtimeinmillis="1594068684000" editedtimeinmillis="1594068684000" postedtimeinbbformat="July 6, 2020 4:51:24 PM EDT" editedtimeinbbformat="July 6, 2020 4:51:24 PM EDT">4 days ago</span>
+            </div>
+
+          <div id="layer_11_0_0_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39614318_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_20987751_1?ts=1594479642000">
+          
+  
+              Jithendra Seneviratne
+      
+  </span>
+</span>
+
+<span id="layer_11_0_0_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_11_0_0_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_11_0_0_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39775889_1">RE: Gensim</span>
+            <span id="attachmentIndicator__39775889_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39775889_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39775889_1" onclick="javascript:toggleMessageDisplay(event, '_39614318_1','_39775889_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39775889_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39775889_1' )">Collapse</a></div>
+
+      </div><div id="message__39775889_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39775889_1_md" totalviewcount="3" yourviewcount="1">Total views: 3 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Interesting comparison! I'd love to see actual runtime comparisons.&nbsp;I've used SpaCy&nbsp;before but never thought if it as advantageous&nbsp;in terms of runtime.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39775889_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39775889_1', replyUrl+'_39775889_1', $('_39775889_1') )">Reply</a>
+        <a id="quote__39775889_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39775889_1', replyUrl+'_39775889_1&amp;quote=true', $('_39775889_1'), false, true )">Quote</a>
+        <a id="mail__39775889_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39775889_1&amp;nav=db_thread_list_entry&amp;thread_id=39614318&amp;nav=db_thread_list_entry&amp;user_id=_20987751_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_11_0_0_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
+
+
+                 <script type="text/javascript" src="/javascript/cdn.js"></script>
+           </div>

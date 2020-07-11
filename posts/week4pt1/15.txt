@@ -1,0 +1,115 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39585280_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_6_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39585280_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39585280_1" title="Sheryl Piechocki (Trending Topics Drivers)">
+    </div>
+
+    <div id="layer_6_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39585280_1')" role="button" id="_39585280_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_6_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39585280_1')" role="button" id="_39585280_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39585280_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_6" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39585280_1','_39585280_1')" title="Collapse Post">
+        <div id="layer_6_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_6_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39585280_1');" onmouseout="javascript:hideMsgMetadata('_39585280_1');" onfocus="javascript:showMsgMetadata('_39585280_1');" onblur="javascript:hideMsgMetadata('_39585280_1');" title="Post Details">
+            <span id="db_msg_age__39585280_1_md" class="db_msg_metadata">June 24, 2020 2:29:16 PM EDT</span>
+              <span id="db_msg_age__39585280_1" class="db_msg_age" postedtimeinmillis="1593023356000" editedtimeinmillis="1593023356000" postedtimeinbbformat="June 24, 2020 2:29:16 PM EDT" editedtimeinbbformat="June 24, 2020 2:29:16 PM EDT">16 days ago</span>
+            </div>
+
+          <div id="layer_6_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39585280_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21018202_1?ts=1594344549000">
+          
+  
+              Sheryl Piechocki
+      
+  </span>
+</span>
+
+<span id="layer_6_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_6_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_6_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39585280_1">Trending Topics Drivers</span>
+            <span id="attachmentIndicator__39585280_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39585280_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39585280_1" onclick="javascript:toggleMessageDisplay(event, '_39585280_1','_39585280_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39585280_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39585280_1' )">Collapse</a></div>
+
+      </div><div id="message__39585280_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39585280_1_md" totalviewcount="6" yourviewcount="1">Total views: 6 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Understanding drivers for trending topics could help determine ways to deal with the spread of misinformation.&nbsp;&nbsp;The study referenced in the link below concerns COVID-19 and the trending topic that 5G is a cause.&nbsp; The goal of the study was to look for the drivers of the 5G COVID-19 theory.</p> 
+   <p>In this study, Twitter data in the U.K. with the #5GCoronavirus hashtag&nbsp;from March 27, 2020 to April 4, 2020 was collected.&nbsp; Influential users were determined using graph clusters and nodes were ranked by betweenness centrality score.&nbsp; Results showed two large networks.&nbsp; One was a group of isolates (users who tweet without any mentions) and the other was a broadcast group (users whose tweets led to retweets).&nbsp; A detailed look at some sample tweets revealed that 65.2% were actually non-supporters of the theory.&nbsp; So, even though it became a trending topic, the majority&nbsp; did not believe the theory that 5G causes COVID-19.&nbsp; In addition, a single Twitter account created only to spread the theory was discovered.&nbsp; No corresponding account to counter the theory was found.&nbsp; The authors believe that users tweeting about the topic jokingly were a major driver in spreading the theory.&nbsp; They propose that an authority or public figure Twitter account actively combating the theory would reduce its spread.&nbsp; They also feel that users should not re-tweet or tweet even in jest, but rather should report it in order to avoid it gaining trending status.&nbsp; (They go on to say that Twitter could then shut down the spread.&nbsp; The topic of whether Twitter and other social media sites should remove content is&nbsp; a whole other discussion.&nbsp;<img src="https://bbhosted.cuny.edu/webapps/vtbe-tinymce/tiny_mce/plugins/emotions/img/smiley-smile.png" alt="Smile" title="Smile" border="0">)&nbsp;&nbsp;</p> 
+   <p><span style="font-size: 15.13px;">&nbsp;</span><span style="font-size: 15.13px;">Ahmed W, Vidal-</span>Alaball<span style="font-size: 15.13px;"> J, Downing J, </span>López<span style="font-size: 15.13px;"> </span>Seguí<span style="font-size: 15.13px;"> FCOVID-19 and the 5G Conspiracy Theory: Social Network Analysis of Twitter </span>DataJ<span style="font-size: 15.13px;"> Med Internet Res 2020;22(5):e19458URL: </span>https<span style="font-size: 15.13px;">://</span>www<span style="font-size: 15.13px;">.</span>jmir<span style="font-size: 15.13px;">.</span>org<span style="font-size: 15.13px;">/2020/5/e19458DOI: 10.2196/19458PMID: 32352383PMCID: 7205032</span></p> 
+   <p><a href="https://www.jmir.org/2020/5/e19458/" style="font-size: 15.13px;">https://www.jmir.org/2020/5/e19458/</a><span style="font-size: 15.13px;"> </span></p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39585280_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39585280_1', replyUrl+'_39585280_1', $('_39585280_1') )">Reply</a>
+        <a id="quote__39585280_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39585280_1', replyUrl+'_39585280_1&amp;quote=true', $('_39585280_1'), false, true )">Quote</a>
+        <a id="mail__39585280_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239972_1&amp;message_id=_39585280_1&amp;nav=db_thread_list_entry&amp;thread_id=39585280&amp;nav=db_thread_list_entry&amp;user_id=_21018202_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_6_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>

@@ -1,0 +1,118 @@
+<div id="forumMessagesContainer" class="dbThreadDetailTree">
+    <!-- single_message_strings.jsp -->
+
+<!-- single_message.jspf -->
+
+<div id="_39767292_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div class="message-wrapper-inner">
+  <div class="msg-fringe db-message-fringe-show">
+    <div id="layer_18_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
+      <input type="checkbox" id="_39767292_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39767292_1" title="Jagdish Chhabria (NLP on financial statements)">
+    </div>
+
+    <div id="layer_18_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39767292_1')" role="button" id="_39767292_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+      </div>
+
+      <span id="layer_18_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
+        <div class="hideoff">Message Not Flagged</div>
+        <a href="javascript:toggleFlagByIcon('_39767292_1')" role="button" id="_39767292_1_flagTogIconLink" class=" unflaggedmsg " title="Set Flag"><span class="hideoff">Set Flag</span></a>
+      </span>
+
+    </div>
+    <span id="msg__39767292_1Id" aria-hidden="true">&nbsp;</span>
+    <div class="msg-nexus">
+      <div id="layer_18" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39767292_1','_39767292_1')" title="Collapse Post">
+        <div id="layer_18_dv_rc1" class="dbThreadDetailTreeRowCell">
+          <div id="layer_18_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39767292_1');" onmouseout="javascript:hideMsgMetadata('_39767292_1');" onfocus="javascript:showMsgMetadata('_39767292_1');" onblur="javascript:hideMsgMetadata('_39767292_1');" title="Post Details">
+            <span id="db_msg_age__39767292_1_md" class="db_msg_metadata">July 6, 2020 12:07:51 AM EDT</span>
+              <span id="db_msg_age__39767292_1" class="db_msg_age" postedtimeinmillis="1594008471000" editedtimeinmillis="1594008471000" postedtimeinbbformat="July 6, 2020 12:07:51 AM EDT" editedtimeinbbformat="July 6, 2020 12:07:51 AM EDT">5 days ago</span>
+            </div>
+
+          <div id="layer_18_dv_pu" class="dbThreadDetailTreeRowCellItem author">
+            <input type="hidden" disabled="" name="thread_id" value="_39767292_1">
+              <span class="">
+  
+
+
+  <span class="profileCardAvatarThumb"> 
+
+        
+              <img alt="" src="/avatar/user/_21031627_1?ts=1594478212000">
+          
+  
+              Jagdish Chhabria
+      
+  </span>
+</span>
+
+<span id="layer_18_dv_af" class="dbThreadDetailTreeRowCellItem attachment">
+                <input type="hidden" disabled="" name="strDraft" value="PUBLISHED">
+              <input type="hidden" disabled="" name="draft" value="">
+            </span>
+          </div>
+        </div><div id="layer_18_dv_rc2" class="dbThreadDetailTreeRowCell">
+          <div id="layer_18_dv_ph" class="dbThreadDetailTreeRowCellItem message-subject">
+            <span id="subject__39767292_1">NLP on financial statements</span>
+            <span id="attachmentIndicator__39767292_1" style="display:none;">
+              <img src="../images/paperclip.png" alt="Attachment">
+            </span>
+            </div>
+        </div><div id="collExpMsgDiv__39767292_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39767292_1" onclick="javascript:toggleMessageDisplay(event, '_39767292_1','_39767292_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39767292_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39767292_1' )">Collapse</a></div>
+
+      </div><div id="message__39767292_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39767292_1_md" totalviewcount="2" yourviewcount="1">Total views: 2 (Your views: 1)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>As investors look for alternative data sources to provide them with the "edge", one area that is receiving a lot of attention is using NLP to perform sentiment analysis of financial report filings by publicly traded companies with the SEC.</p> 
+   <p>I found this notebook by Roshan Adusumilli&nbsp;(Github&nbsp;link here:&nbsp; <a href="https://github.com/roshan-adusumilli/nlp_10-ks/blob/master/NLP_on_Financial_Statements.ipynb">https://github.com/roshan-adusumilli/nlp_10-ks/blob/master/NLP_on_Financial_Statements.ipynb</a>) quite interesting because of a few different reasons:</p> 
+   <p>1) He is a 16 year old.</p> 
+   <p>2) He explains the different steps in NLP quite well.</p> 
+   <p>3) His notebook&nbsp;also shows how to download 10-K filings from the SEC website, so it's not just about NLP.</p> 
+   <p>The corresponding article that walks through his process is here (<a href="https://towardsdatascience.com/nlp-in-the-stock-market-8760d062eb92">https://towardsdatascience.com/nlp-in-the-stock-market-8760d062eb92</a>).</p> 
+   <p>In terms of improvements, I cannot think of anything significant. Perhaps he could have analyzed more thoroughly, whether the sentiment analysis could be used to predict the sock price return on the date of filing.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39767292_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39767292_1', replyUrl+'_39767292_1', $('_39767292_1') )">Reply</a>
+        <a id="quote__39767292_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39767292_1', replyUrl+'_39767292_1&amp;quote=true', $('_39767292_1'), false, true )">Quote</a>
+        <a id="mail__39767292_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239973_1&amp;message_id=_39767292_1&amp;nav=db_thread_list_entry&amp;thread_id=39767292&amp;nav=db_thread_list_entry&amp;user_id=_21031627_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
+
+      <a id="layer_18_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
+      </a>
+    </div> </div> </div>
+</div>
