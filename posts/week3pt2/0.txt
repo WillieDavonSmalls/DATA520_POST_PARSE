@@ -3,7 +3,7 @@
 
 <!-- single_message.jspf -->
 
-<div id="_39431070_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg">
+<div id="_39431070_1" class="db-message-wrapper autoExpandable  reply-lvl-0 readmsg  unflaggedmsg collapsedMessage">
 <div class="message-wrapper-inner">
   <div class="msg-fringe db-message-fringe-show">
     <div id="layer_1_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-0-cb">
@@ -23,7 +23,7 @@
     </div>
     <span id="msg__39431070_1Id" aria-hidden="true">&nbsp;</span>
     <div class="msg-nexus">
-      <div id="layer_1" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39431070_1')" title="Collapse Post">
+      <div id="layer_1" style="" class="dbThreadDetailTreeRow db-message" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39431070_1')" title="Expand Post">
         <div id="layer_1_dv_rc1" class="dbThreadDetailTreeRowCell">
           <div id="layer_1_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39431070_1');" onmouseout="javascript:hideMsgMetadata('_39431070_1');" onfocus="javascript:showMsgMetadata('_39431070_1');" onblur="javascript:hideMsgMetadata('_39431070_1');" title="Post Details">
             <span id="db_msg_age__39431070_1_md" class="db_msg_metadata">June 15, 2020 9:10:24 PM EDT</span>
@@ -59,13 +59,13 @@
               <img src="../images/paperclip.png" alt="Attachment">
             </span>
             </div>
-        </div><div id="collExpMsgDiv__39431070_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39431070_1" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39431070_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39431070_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39431070_1' )">Collapse</a></div>
+        </div><div id="collExpMsgDiv__39431070_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39431070_1" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39431070_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39431070_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39431070_1' )">Expand</a></div>
 
       </div><div id="message__39431070_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
 
 
 <form name="messageForm" action="/message" method="post" id="messageFrameForm">
-    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="55d92f00-ac4f-4909-a58c-c3361d99c2dc">
 
 
  
@@ -78,7 +78,7 @@
     <div class="dbThreadInfo clearfix">
     <dl>
       <dt class="db_viewcount_metadata"></dt>
-      <dd class="db_viewcount_metadata"><span id="db_viewcount__39431070_1_md" totalviewcount="25" yourviewcount="9">Total views: 25 (Your views: 9)</span></dd>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39431070_1_md" totalviewcount="26" yourviewcount="10">Total views: 26 (Your views: 10)</span></dd>
       </dl>
     </div>
 
@@ -180,7 +180,7 @@
 
 
 <form name="messageForm" action="/message" method="post" id="messageFrameForm">
-    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="55d92f00-ac4f-4909-a58c-c3361d99c2dc">
 
 
  
@@ -193,7 +193,7 @@
     <div class="dbThreadInfo clearfix">
     <dl>
       <dt class="db_viewcount_metadata"></dt>
-      <dd class="db_viewcount_metadata"><span id="db_viewcount__39445958_1_md" totalviewcount="23" yourviewcount="9">Total views: 23 (Your views: 9)</span></dd>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39445958_1_md" totalviewcount="24" yourviewcount="10">Total views: 24 (Your views: 10)</span></dd>
       </dl>
     </div>
 
@@ -226,7 +226,7 @@
     </div> </div> </div>
 </div><div class="db-reply-block">                       <!-- single_message.jspf -->
 
-<div id="_39479905_1" class="db-message-wrapper autoExpandable  reply-lvl-1 readmsg  unflaggedmsg ">
+<div id="_39479905_1" class="db-message-wrapper autoExpandable  reply-lvl-1 readmsg  unflaggedmsg">
 <div class="message-wrapper-inner">
   <div class="msg-fringe db-message-fringe-show">
     <div id="layer_1_1_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
@@ -250,7 +250,7 @@
         <div id="layer_1_1_dv_rc1" class="dbThreadDetailTreeRowCell">
           <div id="layer_1_1_dv_pd" class="dbThreadDetailTreeRowCellItem timestamp" tabindex="0" onmouseover="javascript:showMsgMetadata('_39479905_1');" onmouseout="javascript:hideMsgMetadata('_39479905_1');" onfocus="javascript:showMsgMetadata('_39479905_1');" onblur="javascript:hideMsgMetadata('_39479905_1');" title="Post Details">
             <span id="db_msg_age__39479905_1_md" class="db_msg_metadata">June 18, 2020 12:18:15 PM EDT</span>
-              <span id="db_msg_age__39479905_1" class="db_msg_age" postedtimeinmillis="1592497095000" editedtimeinmillis="1592497095000" postedtimeinbbformat="June 18, 2020 12:18:15 PM EDT" editedtimeinbbformat="June 18, 2020 12:18:15 PM EDT">22 days ago</span>
+              <span id="db_msg_age__39479905_1" class="db_msg_age" postedtimeinmillis="1592497095000" editedtimeinmillis="1592497095000" postedtimeinbbformat="June 18, 2020 12:18:15 PM EDT" editedtimeinbbformat="June 18, 2020 12:18:15 PM EDT">23 days ago</span>
             </div>
 
           <div id="layer_1_1_dv_pu" class="dbThreadDetailTreeRowCellItem author">
@@ -262,7 +262,7 @@
   <span class="profileCardAvatarThumb"> 
 
         
-              <img alt="" src="/avatar/user/_21128987_1?ts=1594381968000">
+              <img alt="" src="/avatar/user/_21128987_1?ts=1594479008000">
           
   
               Mael Illien
@@ -284,17 +284,57 @@
             </div>
         </div><div id="collExpMsgDiv__39479905_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39479905_1" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39479905_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39479905_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39479905_1' )">Collapse</a></div>
 
-      </div><div id="message__39479905_1" class="dbThreadMessage" style="display: none;">
-        <span class="loadingElipse">
-          Post loading. Refresh the page if the post does not load.</span>
-      </div>
+      </div><div id="message__39479905_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="55d92f00-ac4f-4909-a58c-c3361d99c2dc">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39479905_1_md" totalviewcount="15" yourviewcount="8">Total views: 15 (Your views: 8)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>I wrote a discussion post on the same issue.&nbsp;I have been using&nbsp;<a href="https://finnhub.io/">https://finnhub.io/</a>&nbsp;as my API of choice these days. I don't pay for any of the data so I have to introduce calls to sleep() every so often in order to avoid overloading the 60 api&nbsp;calls per minute offered under the free plan. This is kind of a problem if speed of execution is an issue. If I am updating 600 stocks, it will take 10 minutes, which is fine for a daily strategy, but not so much for an intraday&nbsp;one. Since I don't intend to trade 600 stocks at once, I could get data down to the minute by making prioritized calls to get the tickers of interest and updating the remainder at a later time in off market hours. Otherwise, payment for data remains an option but it can add up to be a significant cost as you've mentioned.&nbsp;</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39479905_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39479905_1', replyUrl+'_39479905_1', $('_39479905_1') )">Reply</a>
+        <a id="quote__39479905_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39479905_1', replyUrl+'_39479905_1&amp;quote=true', $('_39479905_1'), false, true )">Quote</a>
+        <a id="mail__39479905_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39479905_1&amp;nav=db_thread_list_entry&amp;thread_id=39431070&amp;nav=db_thread_list_entry&amp;user_id=_21128987_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
 
       <a id="layer_1_1_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
       </a>
     </div> </div> </div>
 </div><div class="db-reply-block">                       <!-- single_message.jspf -->
 
-<div id="_39575906_1" class="db-message-wrapper autoExpandable  reply-lvl-1 readmsg  unflaggedmsg ">
+<div id="_39575906_1" class="db-message-wrapper autoExpandable  reply-lvl-1 readmsg  unflaggedmsg">
 <div class="message-wrapper-inner">
   <div class="msg-fringe db-message-fringe-show">
     <div id="layer_1_2_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
@@ -330,7 +370,7 @@
   <span class="profileCardAvatarThumb"> 
 
         
-              <img alt="" src="/avatar/user/_21124932_1?ts=1594398857000">
+              <img alt="" src="/avatar/user/_21124932_1?ts=1594490947000">
           
   
               Steven Ellingson
@@ -352,17 +392,59 @@
             </div>
         </div><div id="collExpMsgDiv__39575906_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39575906_1" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39575906_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39575906_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39575906_1' )">Collapse</a></div>
 
-      </div><div id="message__39575906_1" class="dbThreadMessage" style="display: none;">
-        <span class="loadingElipse">
-          Post loading. Refresh the page if the post does not load.</span>
-      </div>
+      </div><div id="message__39575906_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="55d92f00-ac4f-4909-a58c-c3361d99c2dc">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39575906_1_md" totalviewcount="12" yourviewcount="7">Total views: 12 (Your views: 7)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>This is very interesting. Stock data is interesting because everyone wants to make money on the stock market and it's so competitive.&nbsp;</p> 
+   <br> 
+   <p>I will have to look into Alpha Vantage. I don't expect to get rich :)&nbsp; but it could be fun!&nbsp; Thanks for sharing.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39575906_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39575906_1', replyUrl+'_39575906_1', $('_39575906_1') )">Reply</a>
+        <a id="quote__39575906_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39575906_1', replyUrl+'_39575906_1&amp;quote=true', $('_39575906_1'), false, true )">Quote</a>
+        <a id="mail__39575906_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39575906_1&amp;nav=db_thread_list_entry&amp;thread_id=39431070&amp;nav=db_thread_list_entry&amp;user_id=_21124932_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
 
       <a id="layer_1_2_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
       </a>
     </div> </div> </div>
 </div><div class="db-reply-block">                       <!-- single_message.jspf -->
 
-<div id="_39579180_1" class="db-message-wrapper autoExpandable  reply-lvl-1 readmsg  unflaggedmsg ">
+<div id="_39579180_1" class="db-message-wrapper autoExpandable  reply-lvl-1 readmsg  unflaggedmsg">
 <div class="message-wrapper-inner">
   <div class="msg-fringe db-message-fringe-show">
     <div id="layer_1_3_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
@@ -398,7 +480,7 @@
   <span class="profileCardAvatarThumb"> 
 
         
-              <img alt="" src="/avatar/user/_21031627_1?ts=1594391263000">
+              <img alt="" src="/avatar/user/_21031627_1?ts=1594478212000">
           
   
               Jagdish Chhabria
@@ -420,17 +502,57 @@
             </div>
         </div><div id="collExpMsgDiv__39579180_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39579180_1" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39579180_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39579180_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39579180_1' )">Collapse</a></div>
 
-      </div><div id="message__39579180_1" class="dbThreadMessage" style="display: none;">
-        <span class="loadingElipse">
-          Post loading. Refresh the page if the post does not load.</span>
-      </div>
+      </div><div id="message__39579180_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="55d92f00-ac4f-4909-a58c-c3361d99c2dc">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39579180_1_md" totalviewcount="8" yourviewcount="5">Total views: 8 (Your views: 5)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>Nice observations. In general, the initial data collectors for stock prices in the US&nbsp;(NYSE, NASDAQ, CME) and distributors (Bloomberg, Refinitiv) will always have priority in deciding who they sell this data to and how much their charge. So retail investors who believe they will somehow strike it rich by writing a few lines of Python code will always be at the mercy of upstream access changes to the underlying data. The online&nbsp;brokerages typically provide stock screening services sitting on top of the data they have, but don't act as straight-up data providers. In any case, it's not free, because one needs to open an account with them which typically has some cost associated with it.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39579180_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39579180_1', replyUrl+'_39579180_1', $('_39579180_1') )">Reply</a>
+        <a id="quote__39579180_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39579180_1', replyUrl+'_39579180_1&amp;quote=true', $('_39579180_1'), false, true )">Quote</a>
+        <a id="mail__39579180_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39579180_1&amp;nav=db_thread_list_entry&amp;thread_id=39431070&amp;nav=db_thread_list_entry&amp;user_id=_21031627_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
 
       <a id="layer_1_3_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
       </a>
     </div> </div> </div>
 </div><div class="db-reply-block">                       <!-- single_message.jspf -->
 
-<div id="_39839508_1" class="db-message-wrapper autoExpandable  reply-lvl-1 readmsg  unflaggedmsg ">
+<div id="_39839508_1" class="db-message-wrapper autoExpandable  reply-lvl-1 readmsg  unflaggedmsg">
 <div class="message-wrapper-inner">
   <div class="msg-fringe db-message-fringe-show">
     <div id="layer_1_4_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
@@ -466,7 +588,7 @@
   <span class="profileCardAvatarThumb"> 
 
         
-              <img alt="" src="/avatar/user/_21114817_1?ts=1594411546000">
+              <img alt="" src="/avatar/user/_21114817_1?ts=1594478549000">
           
   
               Murat Akyildirim
@@ -488,10 +610,50 @@
             </div>
         </div><div id="collExpMsgDiv__39839508_1" class="db-collapse-control"><a href="#" role="button" id="collExpMsg__39839508_1" onclick="javascript:toggleMessageDisplay(event, '_39431070_1','_39839508_1', true); return false;" onfocus="javascript:showMessageElementById( 'collExpMsgDiv_' + '_39839508_1' )" onblur="javascript:hideMessageElementById( 'collExpMsgDiv_' + '_39839508_1' )">Collapse</a></div>
 
-      </div><div id="message__39839508_1" class="dbThreadMessage" style="display: none;">
-        <span class="loadingElipse">
-          Post loading. Refresh the page if the post does not load.</span>
-      </div>
+      </div><div id="message__39839508_1" class="dbThreadMessage" style=""><!--  message_frame.jsp -->
+
+
+<form name="messageForm" action="/message" method="post" id="messageFrameForm">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="55d92f00-ac4f-4909-a58c-c3361d99c2dc">
+
+
+ 
+  <input type="hidden" name="messageIsDraft" id="messageIsDraft" value="false">
+
+
+ 
+<div class="dbThread">
+
+    <div class="dbThreadInfo clearfix">
+    <dl>
+      <dt class="db_viewcount_metadata"></dt>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39839508_1_md" totalviewcount="4" yourviewcount="2">Total views: 4 (Your views: 2)</span></dd>
+      </dl>
+    </div>
+
+    <div class="dbThreadBody" tabindex="0">
+      
+ 
+ 
+  <div class="vtbegenerated">
+   <p>I had no idea there was a free option.&nbsp;I did get burned(still burning)&nbsp;with a stock investment so&nbsp;i have no intension to ever invest in stocks but thank&nbsp;you for sharing.</p>
+  </div>
+ 
+</div>
+
+    <div class="dbThreadFooter">
+      <div class="threadButtons">
+        <a id="reply__39839508_1" role="button" class="reply" href="javascript:Message.editOrReplyMessage( '_39839508_1', replyUrl+'_39839508_1', $('_39839508_1') )">Reply</a>
+        <a id="quote__39839508_1" role="button" class="browse" href="javascript:Message.editOrReplyMessage( '_39839508_1', replyUrl+'_39839508_1&amp;quote=true', $('_39839508_1'), false, true )">Quote</a>
+        <a id="mail__39839508_1" role="button" class="browse emailAuthor" href="/webapps/discussionboard/do/message?action=email_user&amp;MF=true&amp;course_id=_1865116_1&amp;conf_id=_2060472_1&amp;forum_id=_2239971_1&amp;message_id=_39839508_1&amp;nav=db_thread_list_entry&amp;thread_id=39431070&amp;nav=db_thread_list_entry&amp;user_id=_21114817_1">Email Author</a>
+        </div>
+    </div>
+  </div>
+
+</form>
+
+                 
+           </div>
 
       <a id="layer_1_4_dv_ec" href="#" class="dbThreadDetailTreeRowCellItem exp-col reply-count-link" role="button" style="display: none;">
       </a>

@@ -39,7 +39,7 @@
   <span class="profileCardAvatarThumb"> 
 
         
-              <img alt="" src="/avatar/user/_20873219_1?ts=1594415287000">
+              <img alt="" src="/avatar/user/_20873219_1?ts=1594500352000">
           
   
               Simon Ustoyev
@@ -65,7 +65,7 @@
 
 
 <form name="messageForm" action="/message" method="post" id="messageFrameForm">
-    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="19f3f104-d3a4-49ac-a337-8e13ca8819b3">
 
 
  
@@ -78,7 +78,7 @@
     <div class="dbThreadInfo clearfix">
     <dl>
       <dt class="db_viewcount_metadata"></dt>
-      <dd class="db_viewcount_metadata"><span id="db_viewcount__39517926_1_md" totalviewcount="11" yourviewcount="1">Total views: 11 (Your views: 1)</span></dd>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39517926_1_md" totalviewcount="12" yourviewcount="2">Total views: 12 (Your views: 2)</span></dd>
       </dl>
     </div>
 
@@ -115,16 +115,16 @@
     </div> </div> </div>
 <div class="db-reply-block">                       <!-- single_message.jspf -->
 
-<div id="_39530055_1" class="db-message-wrapper autoExpandable  reply-lvl-1 unflaggedmsg readmsg">
+<div id="_39530055_1" class="db-message-wrapper autoExpandable  reply-lvl-1 readmsg  unflaggedmsg">
 <div class="message-wrapper-inner">
   <div class="msg-fringe db-message-fringe-show">
     <div id="layer_16_0_dv_su" class="dbThreadDetailTreeRowCellItem select  reply-lvl-1-cb">
       <input type="checkbox" id="_39530055_1_checkBox" name="formCBs" class="message_selection_checkboxes" value="_39530055_1" title="Subhalaxmi Rout (RE: Uber API Restrictions Controversy)">
     </div>
 
-    <div id="layer_16_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status"><div class="hideoff" role="alert">Message Read</div>
-      
-      <a href="javascript:toggleReadByIcon('_39530055_1')" role="button" id="_39530055_1_readTogIconLink" class="readmsg" title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
+    <div id="layer_16_0_dv_ru" class="dbThreadDetailTreeRowCellItem read-status">
+      <div class="hideoff"> Message Unread</div>
+      <a href="javascript:toggleReadByIcon('_39530055_1')" role="button" id="_39530055_1_readTogIconLink" class=" readmsg " title="Mark as Unread"><span class="hideoff">Mark as Unread</span></a>
       </div>
 
       <span id="layer_16_0_dv_fu" class="dbThreadDetailTreeRowCellItem flag">
@@ -177,7 +177,7 @@
 
 
 <form name="messageForm" action="/message" method="post" id="messageFrameForm">
-    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="1f849557-efc0-46b8-969f-0a759a5f195e">
+    <input type="hidden" name="blackboard.platform.security.NonceUtil.nonce.ajax" id="blackboard.platform.security.NonceUtil.nonce.ajax" value="19f3f104-d3a4-49ac-a337-8e13ca8819b3">
 
 
  
@@ -190,7 +190,7 @@
     <div class="dbThreadInfo clearfix">
     <dl>
       <dt class="db_viewcount_metadata"></dt>
-      <dd class="db_viewcount_metadata"><span id="db_viewcount__39530055_1_md" totalviewcount="8" yourviewcount="1">Total views: 8 (Your views: 1)</span></dd>
+      <dd class="db_viewcount_metadata"><span id="db_viewcount__39530055_1_md" totalviewcount="9" yourviewcount="2">Total views: 9 (Your views: 2)</span></dd>
       </dl>
     </div>
 
@@ -199,7 +199,7 @@
  
  
   <div class="vtbegenerated">
-   <p>Interesting post, Simon! Due to Uber API restriction, there are benefits and flaws. The benefit is API restrictions are designed solely to advance the companyís business interests by blocking competition. So, Uber alone controls information about the price and availability of its vehicles. Due to the restrictions, a third-party company uses real-time information about vehicle location (how many minutes until a vehicle can pick up a passenger at a given location) impacted.</p> 
+   <p>Interesting post, Simon! Due to Uber API restriction, there are benefits and flaws. The benefit is API restrictions are designed solely to advance the company’s business interests by blocking competition. So, Uber alone controls information about the price and availability of its vehicles. Due to the restrictions, a third-party company uses real-time information about vehicle location (how many minutes until a vehicle can pick up a passenger at a given location) impacted.</p> 
    <br> 
    <br>
   </div>
